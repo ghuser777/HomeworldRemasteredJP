@@ -1,0 +1,2 @@
+# HomeworldRemasteredJP
+Homeworld Remasteredの日本語化
