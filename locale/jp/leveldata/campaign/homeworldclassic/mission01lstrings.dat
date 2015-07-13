@@ -1,0 +1,25 @@
+filerange 61050 61059
+rangestart 61050 61059
+
+// Subtitles
+// 61050	KHARAK SYSTEM
+61050	KHARAK SYSTEM (カラク系)
+// 61051	Harvest asteroids
+61051	アステロイドを採取
+// 61052	Construct a Research Ship
+61052	ResearchShipを建造
+// 61053	Research Fighter Chassis
+61053	FighterChassisを研究
+// 61054	Destroy Target Drones using a formation
+61054	フォーメーションを使用しドローンを破壊
+// 61055	Destroy Target Drones using tactics
+61055	戦術を使用しドローンを破壊
+// 61056	Capture the Drone using a Salvage Corvette.
+61056	SalvageCorvetteを使用しドローンを捕獲
+61057	Use Interceptors to destroy advanced drones
+// 61058	                      HYPERSPACE
+61058	            HYPERSPACE (ハーパースペース)
+// 61059	A mission objective remains incomplete. Consult objectives.
+61059	ミッションの目的は未達成です。目的を参照してください。
+
+rangeend

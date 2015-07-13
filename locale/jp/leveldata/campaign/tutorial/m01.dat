@@ -1,0 +1,264 @@
+filerange 50000 50441
+rangestart 50000 50441
+
+// Subtitles
+// 50000	Learn how to play Homeworld
+50000	Homeworldをプレイする方法を学ぶ
+// 50001	Rotate the camera
+50001	カメラを回転する
+// 50002	Pan away from ships
+50002	船からパン(視点移動)する
+// 50003	Restore focus on scouts
+50003	スカウト(Scout)隊にフォーカスを戻す
+// 50004	Select and focus on 2nd scout group
+50004	Select and focus on 2nd scout group
+// 50005	Select both groups of scouts
+50005	２つのスカウト(Scout)隊を選択する
+// 50006	Activate the sensors manager
+50006	センサーマネージャーを表示する
+// 50007	Move ships to asteroid field
+50007	アステロイド帯に船を移動する
+// 50008	Activate the movement disc
+50008	Activate the movement disc
+// 50011	Access the OBJECTIVES SCREEN
+50011	目的(OBJECTIVES)画面を表示する
+// 50012	Select a squad squadron
+50012	艦隊を選択する
+// 50013	Zoom the Camera
+50013	カメラをズーム(拡大・縮小)する
+// 50014	Exit the Sensors Manager
+50014	センサーマネージャーから戻る
+// 50440	Move ships to this location
+50440	この場所に船を移動する
+// 50300	Attain a basic familiarity with camera control, unit selection, and movement.
+50300	カメラ操作、ユニットの選択と移動について基本的な知識を得ます。
+// 50301	Rotate the camera around the currently selected ship by holding down the right mouse button and moving the mouse in any direction.
+50301	マウスの右ボタンを押しながら任意の方向にマウスを動かすことで、現在選択されている船の周りにカメラを回転させます。
+// 50302	Move the camera away from your scouts by pushing your mouse cursor to the edge of the screen in the direction you wish to pan. Keep panning until no ships are in view.
+50302	マウスカーソルを、パン(視点移動)したい方向の画面の端に動かすことで、スカウト(Scout)隊からカメラを移動して下さい。船が表示されなくなるまでパンして下さい。
+// 50303	Bring the scouts back into view by focusing on them. The default focus shortcut key is F.
+50303	再びスカウト(Scout)隊が表示されるようフォーカスを戻して下さい。標準のフォーカス用ショートカットキーは[F]です。
+// 50305	Select both groups of scouts by clicking on an empty area of the screen and then dragging a bandbox around the scouts. You can also do this by selecting the scouts independently, while pressing the SHIFT key to add to your selection.
+50305	画面の何も無い領域をクリックしたままスカウト(Scout)隊が収まるように周りをドラッグすることで両方の部隊を選択して下さい。1部隊だけ選択した場合は[SHIFT]キーを押しながら追加選択することができます。
+// 50306	The sensors manager can be activated by pressing SPACE or by clicking on the Sensors button in the middle of the taskbar.
+50306	センサーマネージャー(SensorsManager)は、スペースキーを押すか、タスクバー中央のセンサーアイコンをクリックして表示することができます。
+// 50307	Issue a relative move command by selecting your scouts and right-clicking on one of the asteroids.
+50307	スカウト(Scout)隊を選択し、アステロイド帯のうちの1つを右クリックすることで、相対的な移動命令を出して下さい。
+// 50308	Activate the movement disc by selecting a ship and right-clicking on an empty area of the screen. You may also activate the movement disc by pressing the default movement key, M.
+50308	Activate the movement disc by selecting a ship and right-clicking on an empty area of the screen. You may also activate the movement disc by pressing the default movement key, M.
+// 50309	The OBJECTIVES window can be accessed by clicking on the objectives button on the taskbar.
+50309	目的(OBJECTIVES)ウィンドウは、タスクバー上の[OBJECTIVES]アイコンをクリックして開くことができます。
+// 50310	The camera can be zoomed by scrolling the MOUSE WHEEL or by holding down both mouse buttons while moving the mouse forwards and backwards.
+50310	カメラは、マウスホイールを回転させるか、両方のマウスボタンを押したまま前後にマウスを動かすことで、ズーム(拡大・縮小)することができます。
+// 50441	Hold down the LEFT MOUSE BUTTON or SHIFT while moving the mouse to change the vertical height of a move order.
+50441	移動命令の垂直方向の高さを変更するには、マウスの左ボタンまたは[Shift]キーを押したままマウスを動かします。
+// 50009	Move to the asteroid field
+50009	Move to the asteroid field
+// 50010	Right-click on any of these asteroids to move here
+50010	Right-click on any of these asteroids to move here
+// 50015	This is an Objective Ping
+50015	This is an Objective Ping
+// 50016	Bring a ship here
+50016	Bring a ship here
+// 50020	GAMEPLAY BASICS
+50020	＜ゲームプレイの基本事項＞
+// 50030	Welcome to the Homeworld training mission.
+50030	Homeworldのトレーニングミッションにようこそ。
+// 50350	This Tutorial will cover the User Interface, Camera control, Unit Selection and Movement.
+50350	このチュートリアルでは、ユーザーインターフェイス、カメラ操作、ユニットの選択と移動について学びます。
+// 50351	Our first priority is the Taskbar.
+50351	まずはタスクバーからです。
+// 50352	The Taskbar provides you with a variety of information about what you currently have selected and provides you easy access to basic commands. Click OK to continue.#+
+50352	タスクバーは、現在選択しているものについてのさまざまな情報を提供し、基本的なコマンドに簡単にアクセスできます。[OK]をクリックして続けます。#+
+// 50410	You can minimize the Taskbar by clicking on the flashing icon or pressing BACKSPACE.
+50410	タスクバーを最小化するには、画面下部の点滅しているアイコンをクリックするか[BACKSPACE]キーを押します。
+// 50411	Do this now.
+50411	タスクバーを最小化して下さい。
+// 50412	To bring the Taskbar back, keep pressing BACKSPACE.
+50412	タスクバーを再度表示するには、[BACKSPACE]キーを複数回押して下さい。
+// 50413	To bring the Taskbar back, press the BACKSPACE key three times.
+50413	タスクバーを再度表示するには、[BACKSPACE]キーを3回押して下さい。
+// 50414	Do this now.
+50414	タスクバーを再度表示して下さい。
+// 50415	The Recall window displays all previous speech in the mission.
+50415	リコール(RECALL)ウィンドウで、ミッション中のこれまでの全会話ログを確認できます。
+// 50416	Click on the Recall icon to display all previous speech in the mission.
+50416	リコール(RECALL)アイコンをクリックして、ミッション中のこれまでの会話ログを確認して下さい。
+// 50417	To exit the Recall Window, click close.
+50417	[CLOSE]をクリックして、リコール(RECALL)ウィンドウを閉じて下さい。
+// 50420	Throughout the game, Objectives will be assigned to you.
+50420	ゲームでは、あなたに「目的(OBJECTIVES)」が与えられます。
+// 50353	Objectives give you information on what you must accomplish in each mission. Click OK to Continue. #+
+50353	目的(OBJECTIVES)画面で、あなたが各ミッションで達成しなければならない目的の情報を得ることができます。[OK]をクリックして続けます。#+
+// 50354	You have just been issued a new Objective.
+50354	たった今、あなたに新しい目的(OBJECTIVES)が与えられました。
+// 50356	To access the Objectives Screen click on the flashing icon. Do this now.
+50356	画面左上の点滅しているアイコンをクリックして、目的(OBJECTIVES)画面を開いて下さい。
+// 50358	This is the Objectives screen.
+50358	これが、目的(OBJECTIVES)画面です。
+// 50359	Click the "Learn how to play Homeworld" Objective to get more information on it.
+50359	「Homeworldをプレイする方法を学ぶ」をクリックして、詳細情報を確認して下さい。
+// 50360	To exit Objective Screen, click on the close button.
+50360	[CLOSE]をクリックして、目的(OBJECTIVES)画面を閉じて下さい。
+// 50421	All ships have a Tactical Overlay, or TO for short.
+50421	すべての船は、タクティカルオーバーレイを有します。短くTOと表記します。
+// 50422	TOs help identify friendly and enemy targets. Click OK to Continue.#+
+50422	TOは、味方と敵を識別する助けになります。[OK]をクリックして続けます。#+
+// 50423	Friendly ships will have GREEN TOs.
+50423	味方の船は緑色のTO。
+// 50424	Enemy targets have RED TOs.
+50424	敵は赤色のTO。
+// 50425	Allies have YELLOW TOs. Click OK to Continue.#+
+50425	同盟は黄色のTOです。[OK]をクリックして続けます。#+
+// 50426	TAB cycles through all various TO settings.
+50426	[TAB]キーで、TOの表示内容を切り替えることができます。
+// 50427	Some settings display more information than others.
+50427	切り替えして、より多くの情報を表示することも可能です。
+// 50428	To issue orders, you must first select the ships you want to command. Click OK to continue.#+
+50428	命令を出すために、あなたは最初に船を選択しなければなりません。[OK]をクリックして続けます。#+
+// 50081	LEFT-CLICK on the Scouts to select them.
+50081	スカウト(Scout)を左クリックして選択して下さい。
+// 50087	Scouts selected.
+50087	スカウト(Scout)を選択しました。
+// 50080	New reinforcements available.
+50080	新しい後続部隊が利用可能です。
+// 50083	A second Scout Squadron is launching.
+50083	２つ目のスカウト(Scout)隊が発進しました。
+// 50090	To select multiple squadrons, first hold down the LEFT MOUSE BUTTON and then DRAG a BOX around both Scout Squadrons. Do this now.
+50090	複数の部隊を選択するには、マウスの左ボタンを押したまま2つのスカウト(Scout)隊が収まるように四角くドラッグして範囲選択します。やってみてください。
+// 50091	This is called DRAG-SELECTING.
+50091	これを「ドラッグ選択(DRAG-SELECTING)」と呼んでいます。
+// 50040	Excellent work. Click OK to Continue.#+
+50040	素晴らしい！[OK]をクリックして続けます。#+
+// 50097	Notice that the taskbar has been updated with your selection.
+50097	選択に合わせてタスクバーの表示が更新されました。
+// 50098	The Taskbar lists all currently selected ships.
+50098	タスクバーには、現在選択されている全ての船がアイコン表示されます。
+// 50099	Ships can be selected by LEFT-CLICKING, DRAG-SELECTING and by clicking on the Ship Icon in the Taskbar.#+
+50099	船はドラッグ選択したのち、タスクバーの船アイコンからでも選択することができます。#+
+// 50031	In order to master space combat, you must first learn how to control the Camera.
+50031	宇宙での戦闘をマスターするために、まずはカメラの操作方法を学ばなければなりません。
+// 50032	At this point, the camera is focused on a squadron of Scouts. Click OK to Continue.#+
+50032	今、カメラはスカウト(Scout)隊にフォーカスされています。[OK]をクリックして続けます。#+
+// 50033	Hold down the RIGHT MOUSE BUTTON and move the mouse to rotate the camera. Do this now.
+50033	右クリックしたままマウスを動かすと、カメラを回転させることができます。やってみてください。
+// 50041	Continue practicing camera Rotation.  When you are ready to move on, Click OK.#+
+50041	カメラ操作の練習を続けて下さい。次に進む準備がよければ[OK]をクリックして下さい。#+
+// 50042	To zoom the camera, scroll the MOUSE WHEEL or hold down both mouse buttons while moving the mouse forwards and backwards.
+50042	カメラをズーム(拡大・縮小)するには、マウスホイールを回転させるか、マウスの左右ボタンを押したままマウスを前後に動かします。
+// 50043	Practice Camera Zooming.
+50043	ズームの練習をしてみましょう。
+// 50400	Good work.
+50400	よくできました。
+// 50044	When you are ready to continue, click OK.#+
+50044	続けても良ければ[OK]をクリックして下さい。#+
+// 50050	To Pan the camera, move the Mouse Cursor to the edge of the screen. Do this now.
+50050	カメラをパン(視点移動)するには、画面の端にマウスカーソルを移動します。やってみてください。
+// 50051	The Arrow Keys on the Keyboard also pan the camera.
+50051	キーボードの矢印キーでもパンすることができます。
+// 50053	Holding down ALT and PANNING UP or DOWN, pans the camera vertically.
+50053	Holding down ALT and PANNING UP or DOWN, pans the camera vertically.
+// 50052	Now, pan the camera until the Scouts are no longer in view.
+50052	スカウト(Scout)隊が見えなくなるまでカメラをパンして下さい。
+// 50054	Click OK to continue, or keep practising Camera Panning.#+
+50054	[OK]をクリックして、パン(視点移動)の練習を続けましょう。#+
+// 50060	To focus the camera on a ship, press the MIDDLE MOUSE BUTTON or use the FOCUS Key.
+50060	船にカメラのフォーカスを合わせるために、マウスの中央ボタンを押すか、フォーカス(FOCUS)キーを使用して下さい。
+// 50061	This snaps the Camera to the currently selected ship, in this case, the scouts.
+50061	カメラは、現在選択しているスカウト(Scout)隊に合わされます。
+// 50062	The default Focus key is F.
+50062	標準でのフォーカスキーは[F]キーです。
+// 50070	Excellent work.
+50070	エクセレント！
+// 50071	To Focus on an unselected ship, hold down the ALT key and LEFT-CLICK on the object. Try this now.#+
+50071	船を選択することなくフォーカスするには、[ALT]キーを押しながら対象を左クリックします。やってみましょう。#+
+// 50072	Continue practicing using the Camera.  Click OK when you're ready to proceed to the next topic.#+
+50072	Continue practicing using the Camera.  Click OK when you're ready to proceed to the next topic.#+
+// 50101	The next topic is the Sensors Manager.
+50101	次のトピックは、センサーマネージャー(SensorsManager)です。
+// 50121	To activate the Sensors Manager, press SPACE BAR or click on the SENSORS icon on the Task Bar.
+50121	センサーマネージャーを表示するには、スペースキーを押すか、タスクバー上のセンサー(SENSORS)アイコンをクリックします。
+// 50130	The Sensors Manager allows you to see the game world from a much greater distance and is used for strategic movement and command of ships. Click OK to Continue.#+
+50130	センサーマネージャーは、より離れた位置から全体を見渡すことを可能にし、より戦略的に船の移動や命令を出すことができます。[OK]をクリックして続けます。#+
+// 50131	The two green dots represent the two Scout squadrons.
+50131	２つの緑色のドットが、２つのスカウト(Scout)隊を表します。
+// 50132	From the Sensors Manager you can see distant objects such as these asteroids.
+50132	センサーマネージャーでは、これらのアステロイド帯のような遠くに離れたものを見ることができます。
+// 50133	The Sensors Manager also displays objective information. Click OK to Continue.#+
+50133	センサーマネージャーは、オブジェクトの情報を表示することもできます。[OK]をクリックして続けます。#+
+// 50134	Camera control and ship selection work as normal in the Sensors Manager.
+50134	センサーマネージャーでも、通常画面と同じようにカメラ操作と船の選択ができます。
+// 50135	Experiment using the Camera in the Sensors Manager now.
+50135	センサーマネージャーでカメラ操作の練習をしてみて下さい。
+// 50136	To return to the normal view, press SPACEBAR.
+50136	スペースキーを押して、通常画面に戻りましょう。
+// 50140	We will now cover ship movement.  To effectively command your fleet, you must learn how to navigate 3D space. Click OK to Continue. #+
+50140	次は船の移動についてです。効率的に艦隊を指揮するために3D空間をナビゲートする方法を学ばなければなりません。[OK]をクリックして続けます。#+
+// 50142	First select a Scout Squadron.
+50142	まずはスカウト(Scout)隊を選択して下さい。
+// 50143	Remember you can LEFT-CLICK or DRAG-SELECT the desired ships.
+50143	左クリックまたはドラッグで船を選択できることを思い出して下さい。
+// 50150	Now RIGHT-CLICK on this group of asteroids to issue a RIGHT-CLICK Move Command.
+50150	アステロイド帯のグループを右クリックすることで、移動の命令が出せます。
+// 50152	Well done.
+50152	うまくいきましたね。
+// 50153	RIGHT-CLICK Movement orders a ship to move to a specified landmark - for example, another ship, an asteroid or a piece of debris.
+50153	右クリックで、他の船やアステロイド帯、デブリなどに移動することができます。
+// 50154	Remember you can rotate and zoom the Camera while issuing a move command. Click OK to Continue.#+
+50154	移動の命令を出している間も、ズームやカメラ回転の操作ができます。[OK]をクリックして続けます。#+
+// 50160	The scouts have reached their destination.
+50160	スカウト(Scout)隊が目的地に到着しました。
+// 50163	Ships can also be moved to any point in space. Click OK to Continue. #+
+50163	船は再び他の地点に移動させることができます。[OK]をクリックして続けます。#+
+// 50164	To use the Movement Disk, RIGHT-CLICK on empty space or press the Movement Hotkey (M). Do this now.
+50164	何もない空間で右クリックするか[M]キーを押すことで、ムーブメントディスク(MovementDisk)が表示されます。やってみてください。
+// 50170	The Movement Disk represents the current plane the selected unit is on.
+50170	ムーブメントディスクは、選択した船を中心とした平面を表します。
+// 50179	RIGHT-CLICK on a desired location to issue a move order.
+50179	右クリックで、目的とする場所への移動指示が出せます。
+// 50173	The ship will now move to its target destination.
+50173	船は、目的の場所へ移動を開始します。
+// 50174	The next lesson will cover vertical movement.
+50174	次のレッスンは垂直方向への移動です。
+// 50175	While Right-Click movement covers most situations, vertical movement is needed to gain tactical advantages. Click OK to Continue.#+
+50175	右クリックでほとんどの動きをカバーできますが、垂直方向への移動は、戦術的優位を得るために必要とされています。[OK]をクリックして続けます。#+
+// 50176	Bring up the Sensors Manager.
+50176	センサーマネージャーを表示して下さい。
+// 50430	Notice the ping on the map is above the World Plane.
+50430	マップのワールド平面上にあるping(水色の点滅しているアイコン)に注意して下さい。
+// 50431	The World Plane is the horizontal disc at the center of the map. Click OK to Continue. #+
+50431	マップの中央から広がる水平な面がワールド平面です。[OK]をクリックして続けます。#+
+// 50432	To use vertical movement, first select a ship.
+50432	垂直移動するための船を選択して下さい。
+// 50433	Now bring up the movement disk by RIGHT-CLICKING on empty space or pressing the Movement Hotkey.
+50433	何もない空間で右クリックするか[M]キーを押して、ムーブメントディスクを表示して下さい。
+// 50434	To raise or lower the destination point, HOLD DOWN the LEFT MOUSE BUTTON and move the mouse up or down.
+50434	左クリックしたままマウスを上下に動し、目的のポイントを上昇または下降させます。
+// 50435	Order one of your ships to move to the ping on the map using the 3D Movement.
+50435	3Dの動きを使用してマップ上のpingに移動するよう、いずれかの船に指示してください。
+// 50436	Use vertical movement to order one of your ships to move.
+50436	Use vertical movement to order one of your ships to move.
+// 50437	Good.
+50437	グッド。
+// 50188	Practice moving the Scouts using the Movement Disk or Right-Click Movement.
+50188	Practice moving the Scouts using the Movement Disk or Right-Click Movement.
+// 50189	Remember, orders can also be issued from within Sensors Manager.
+50189	Remember, orders can also be issued from within Sensors Manager.
+// 50180	This concludes this tutorial.
+50180	これでこのチュートリアルは終わりです。
+// 50181	Practice using the Camera, selecting ships, and issuing move orders.
+50181	カメラ操作および船の選択と移動の練習をして下さい。
+// 50182	When you're ready to move on, Click OK to proceed to the next tutorial.#+
+50182	進む準備ができたなら、次のチュートリアルに進むために[OK]をクリックして下さい。#+
+// 50401	Excellent.
+50401	Excellent.
+// 50402	Good job.
+50402	グッジョブ！
+// 50403	Objective completed.
+50403	Objective completed.
+// 50404	Order issued.
+50404	Order issued.
+// 50405	Task successfully completed.
+50405	Task successfully completed.
+
+rangeend

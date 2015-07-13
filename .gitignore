@@ -1,0 +1,6 @@
+*.*
+!*.lua
+!*.txt
+!*.dat
+!*.
+!.gitignore

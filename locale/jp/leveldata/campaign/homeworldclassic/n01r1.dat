@@ -1,0 +1,63 @@
+filerange 66346 66755
+rangestart 66346 66755
+
+// Subtitles
+// 66346	What a beautiful sight!
+66346	なんという美しい光景だ。
+// 66347	You are cleared to approach.
+66347	アプローチは問題なし。
+// 66348	Bays five, six and seven sealed.
+66348	隔壁5、6、7を閉鎖。
+// 66349	Release crews standing by.
+66349	離脱要員の準備完了。
+// 66350	Bays eight, nine and ten sealed.
+66350	隔壁8、9、10を閉鎖。
+// 66351	Scaffold decks A, B, C secure.
+66351	スカフォルド(足場)デッキA、B、Cの安全を確認。
+// 66352	You got it.
+66352	了解。
+66353	Roger that, Control.
+// 66354	...decks D and E secure. Scaffold secure.
+66354	…デッキD、Eの安全を確認。スカフォルドは問題なし。
+// 66355	Scaffold Control standing by.
+66355	スカフォルド管制の準備完了。
+// 66356	All systems green.
+66356	全てのシステムは問題なし。
+66357	Forty-two seven-oh-one please confirm.
+66358	We're ready.
+// 66359	How do we look? All right, take it to one-fifteen. Locked in.
+66359	How do we look? All right, take it to one-fifteen. Locked in.
+// 66360	This is Fleet Command.  Reporting Mothership pre-launch status.
+66360	こちらは艦隊司令官です。マザーシップ発進前ステータスを報告します。
+// 66361	Command online...
+66361	司令部はオンライン……
+// 66362	Resourcing online...
+66362	資源部門はオンライン……
+// 66363	Construction online...
+66363	建造部門はオンライン……
+// 66364	Cryogenic subsections A through J online...
+66364	極低温サブセクションのAからJはオンライン……
+// 66365	K through S online...
+66365	KからSはオンライン……
+// 66367	Scaffold Control, stand by for alignment...
+66367	スカフォルド管制は、姿勢調整のために待機して下さい……
+// 66368	Alignment confirmed.  Stand by, Release Control.
+66368	姿勢変更を確認しました。離脱制御に備えて下さい。
+// 66369	All caliper banks released...
+66369	全てのキャリパーバンクの接続を解除……
+66370	
+// 66372	The Mothership has cleared the scaffold.
+66372	マザーシップはスカフォルドから離脱しました。
+// 66373	We are away.
+66373	我々は離れています。
+// 66374	Command Line green.  Initial Fleet in position.
+66374	命令系統問題なし。艦隊は定位置です。
+66375	
+// 66733	All stations green.
+66733	全てのシステは問題なし。
+66749	
+// 66750	Stand by for command line testing...
+66750	命令系統テストのために待機して下さい……
+66755	Stand by for Hyperdrive test.  Internal pressure doors sealed.  Abort systems standing by.
+
+rangeend

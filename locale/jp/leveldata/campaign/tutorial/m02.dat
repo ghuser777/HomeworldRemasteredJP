@@ -1,0 +1,138 @@
+filerange 50500 50702
+rangestart 50500 50702
+
+// Subtitles
+// 50500	Collect one load of resources and deliver them back to the carrier.
+50500	資源を収集しキャリアー(Carrier)に届ける
+// 50501	Build a squadron of Scouts
+50501	スカウト(Scout)隊を生産する
+// 50502	Build a Research Module
+50502	Build a Research Module
+// 50503	Select the Research Module
+50503	Select the Research Module
+// 50504	Open the Research Menu
+50504	Open the Research Menu
+// 50505	Research Scout Sensors
+50505	スカウトセンサーを研究する
+// 50506	Build a squadron of Bombers
+50506	Build a squadron of Bombers
+// 50507	Destroy the Torpedo Frigate.
+50507	トーピードフリゲートを破壊する
+// 50508	Open the Build Manager
+50508	ビルドマネージャーを開く
+// 50509	BAND BOX attack the three Drones
+50509	範囲選択で３つのドローンを攻撃する
+// 50510	Destroy Drone Frigate
+50510	Destroy Drone Frigate
+// 50512	Select the resource collecter, and right-click on any nearby asteroids or press the Harvest key to initiate resource collection (default key: H).
+50512	リソースコレクター(ResourceCollecter)を選択し、任意の近くのアステロイド帯の上で右クリックするか、資源収集を開始するためのハーベストキー(標準のキー:[H])を押します。
+// 50513	Activate the Build Menu and choose the Fighter category (left-most icon) to build a Scout fighter squadron. To activate the Build Menu, either click on the Build icon on the taskbar, or press the Build key (default key: B).
+50513	生産(BUILD)メニューを表示して、ファイター(FIGHTER)カテゴリーのなかから、生産するスカウト(Scout)戦闘機隊(一番左のアイコン)を選択します。 生産(BUILD)メニューを表示するには、タスクバーの生産(BUILD)アイコンをクリックするか、ビルドキー(標準のキー:[B])を押してください。
+// 50514	Activate the Build Menu and choose the Subsystems category to build a Research Module subsystem.
+50514	Activate the Build Menu and choose the Subsystems category to build a Research Module subsystem.
+// 50515	The Research Module is located on the hull of the build ship (in this case, the Carrier).
+50515	The Research Module is located on the hull of the build ship (in this case, the Carrier).
+// 50516	To activate the Research Menu, either click on the Research icon in the taskbar, or press the Research key (default key: R).
+50516	To activate the Research Menu, either click on the Research icon in the taskbar, or press the Research key (default key: R).
+// 50517	Click on the Scout Sensors research option in the "Technologies" section of the Research Menu to initiate research.
+50517	研究を開始するために、研究(RESEARCH)メニュー技術セクションの、スカウトセンサー研究オプションをクリックして下さい。
+// 50518	Select the Bombers option from the Fighter section of the Build Menu.
+50518	Select the Bombers option from the Fighter section of the Build Menu.
+// 50519	Order your Fighter squadrons to attack the disarmed Drone frigate.
+50519	武装解除ドローンのフリゲート艦を攻撃するために、戦闘機隊に攻撃を指示して下さい。
+// 50523	The Build Manager can be opened by clicking on the flashing BUILD icon on the taskbar. The default BUILD key is B.
+50523	タスクバー上で点滅している生産(BUILD)ボタンをクリックしてビルドマネージャー(BuildManager)を開くことができます。標準のビルドキーは[B]です。
+// 50524	While holding down CTRL, DRAG a BANDBOX around both targets to initiate an attack.
+50524	攻撃を開始するために、[CTRL]キーを押しながら、目標の周りをドラッグして範囲選択します。
+// 50520	RESOURCING, BUILDING AND COMBAT
+50520	＜資源収集および生産と戦闘＞
+// 50522	Select this Resource Collector, and order it to harvest the resources
+50522	Select this Resource Collector, and order it to harvest the resources
+// 50529	This tutorial will cover Resourcing, Ship Building and Combat.
+50529	このチュートリアルでは、資源収集、船の生産や戦闘を学びます。
+// 50530	To build ships and research new technology you will need to harvest Resources.
+50530	船を生産(BUILD)し、新しい技術を研究(RESEARCH)するには、資源(Resources)を収集(HARVEST)する必要があります。
+// 50531	Resources can be gathered from asteroids and salvage containers. Click OK to Continue.#+
+50531	資源(Resources)は、アステロイド帯やサルベージコンテナから収集することができます。 [OK]をクリックして続けます。#+
+// 50532	To Harvest, select the Resource Collector and RIGHT-CLICK on the indicated asteroid.
+50532	収集(HARVEST)するために、リソースコレクター(ResourceCollecter)を選択して、指定されたアステロイドを右クリックします。
+// 50533	Do this now.
+50533	やってみてください。
+// 50534	Additionally, pressing the Harvest Hotkey (H) will order selected Resource Collectors to Harvest nearby resources. Click OK to Continue.#+
+50534	さらに、ハーベストホットキー([H])を押すと、選択したリソースコレクターに、近くの資源を収集するよう指示をだすことができます。 [OK]をクリックして続けます。#+
+// 50540	Production ships, like this Carrier, can build ships.
+50540	生産する船について、このキャリアー(Carrier)などで船を建造することができます。
+// 50542	Click the BUILD BUTTON (B) to open the BUILD MANAGER.
+50542	生産(BUILD)ボタン([B])をクリックして、ビルドマネージャー(BuildManager)を開いて下さい。
+// 50543	The Build Manager is organized according to Production Facilities.
+50543	The Build Manager is organized according to Production Facilities.
+// 50544	The currently displayed menu shows the available Fighter-Class ships that can be built. Click OK to Continue.#+
+50544	現在表示されているメニューが、生産できる利用可能なファイタークラスの船を表しています。 [OK]をクリックして続けます。#+
+// 50541	Click on the Scout icon to begin construction of a Scout squadron
+50541	スカウト(Scout)アイコンをクリックして、スカウト(Scout)隊の建造を開始して下さい。
+// 50546	Notice how the progress bar increases, indicating the status of the current build task.
+50546	現在の生産(BUILD)タスク状況を示すプログレスバーが増加していることに注意して下さい。
+// 50550	In order to perform upgrades to existing systems or to acquire new technology, a Research Module must be built. Click OK to Continue.#+
+50550	In order to perform upgrades to existing systems or to acquire new technology, a Research Module must be built. Click OK to Continue.#+
+// 50555	^__^
+50555	^__^
+// 50560	The Research Module is a Subsystem. Click on the subsystem panel to locate it.
+50560	The Research Module is a Subsystem. Click on the subsystem panel to locate it.
+// 50561	Build a Research Module on the Carrier by clicking on its icon now.
+50561	Build a Research Module on the Carrier by clicking on its icon now.
+// 50562	Subsystems allow you to customize your ships and unlock special abilities or new build options.
+50562	Subsystems allow you to customize your ships and unlock special abilities or new build options.
+// 50565	The Research Module is complete and is located here. Click OK to Continue.#+
+50565	The Research Module is complete and is located here. Click OK to Continue.#+
+// 50566	Subsystems can be selected by zooming the camera in, and clicking on the Subsystem itself.
+50566	Subsystems can be selected by zooming the camera in, and clicking on the Subsystem itself.
+// 50567	Select the Research Module now.
+50567	Select the Research Module now.
+// 50568	Leftclick on the Research Module to select it.
+50568	Leftclick on the Research Module to select it.
+// 50569	Good.  Subsystems can also be selected using the taskbar. Click OK to Continue.#+
+50569	Good.  Subsystems can also be selected using the taskbar. Click OK to Continue.#+
+// 50700	First, select the Carrier.
+50700	First, select the Carrier.
+// 50701	Now Leftclick on the Research Module icon to select it from the taskbar.
+50701	Now Leftclick on the Research Module icon to select it from the taskbar.
+// 50702	Excellent.
+50702	エクセレント！
+// 50570	New technologies and build options are now available. Click OK to Continue.#+
+50570	New technologies and build options are now available. Click OK to Continue.#+
+// 50571	Click on the RESEARCH BUTTON, or the Research Hotkey (R) to activate the Research Manager.
+50571	研究(RESERCH)ボタンをクリックするか、リサーチホットキー([R])で、リサーチマネージャー(ResearchManager)を表示して下さい。
+// 50577	This is the Research Manager.
+50577	これはリサーチマネージャー(ResearchManager)です。
+// 50580	Notice that "Enhanced Scout Sensors" technology is available for research. This improves Scout sensors. Click OK to Continue. #+
+50580	「Enhanced Scout Sensors」が 研究(RESERCH)可能になったことに注意して下さい。 これはスカウト(Scout)のセンサー能力を向上させます。 [OK]をクリックして続けます。#+
+// 50581	Click on "Enhanced Scout Sensors" to research Enhanced Scout Sensors.
+50581	「Enhanced Scout Sensors」をクリックして、 研究(RESERCH)を開始して下さい。
+// 50590	Each Research Item will unlock new build options or enhance your ships.
+50590	個々の研究(RESERCH)項目は、新しい生産オプションをアンロックしたり、船の能力を向上させるものです。
+// 50591	Deciding what to research or upgrade is critical for victory.
+50591	何を研究するか、またはアップグレードするかを決めるのは、勝利するために重要なことです。 [OK]をクリックして続けます。#+
+// 50596	Scout Sensor research complete.
+50596	スカウトセンサーの研究(RESERCH)が完了しました。
+// 50600	Stand by to begin combat lessons.
+50600	戦闘訓練の開始に備えてください。
+// 50601	A Squadron of Bombers has been constructed, and an unarmed Torpedo Frigate has been provided. Click OK to Continue.#+
+50601	ボマー(Bomber)の編隊が組まれており、また、非武装のトーピードフリゲート(TorpedoFrigate)が用意されています。 [OK]をクリックして続けます。#+
+// 50610	To attack a target, select the Bomber Squadron and RIGHT-CLICK on the Torpedo Frigate.
+50610	目標を攻撃するために、ボマー(Bomber)隊を選択し、トーピードフリゲート(TorpedoFrigate)を右クリックします。
+// 50619	Order the Bombers to attack the Torpedo Frigate now.
+50619	ボマー(Bomber)隊に、トーピードフリゲート(TorpedoFrigate)への攻撃を指示して下さい。
+// 50612	This is the basic method used for issuing an attack.
+50612	This is the basic method used for issuing an attack.
+// 50613	To attack multiple enemies, hold down CTRL and use the LEFT-MOUSE BUTTON to DRAG-SELECT a group of targets.
+50613	複数の敵を攻撃するには、[CTRL]キーを押しながら、目標のグループを左クリックでドラッグ選択します。
+// 50614	Attack the 3 Frigates now.
+50614	３つのフリゲート(Frigate)艦を攻撃して下さい。
+// 50630	Congratulations.
+50630	おめでとう！
+// 50631	You now understand all the basics required to play Homeworld. #+
+50631	これで、Homeworldをプレイするために必要なすべての基本が理解できました。#+
+// 50640	Good work.
+50640	Good work.
+
+rangeend
