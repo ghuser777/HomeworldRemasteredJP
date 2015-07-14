@@ -2,5 +2,6 @@
 !*.lua
 !*.txt
 !*.dat
+!*.md
 !*.
 !.gitignore
