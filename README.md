@@ -1,6 +1,8 @@
 # HomeworldRemasteredJP
 Homeworld Remasteredの日本語化
 
+master変更1
+
 ## 共通ファイル
 ### 着手
 * events.dat
