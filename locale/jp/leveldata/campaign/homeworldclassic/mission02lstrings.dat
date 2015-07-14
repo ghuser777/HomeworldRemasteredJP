@@ -2,15 +2,25 @@ filerange 61100 61109
 rangestart 61100 61109
 
 // Subtitles
+// 61100	02 - Outskirts of Kharak System
 61100	02 - Outskirts of Kharak System
-61101	OUTSKIRTS OF KHARAK SYSTEM
-61102	Send probe to the Khar-Selim
-61103	Salvage the Khar-Selim
-61104	Protect the Mothership
-61105	Defend Salvage Team
-61106	Defend the Mothership
-61107	Investigate power source
-61108	Destroy the attacking force
-61109	                      HYPERSPACE
+// 61101	OUTSKIRTS OF KHARAK SYSTEM
+61101	＜カラク星系の外縁＞
+// 61102	Send probe to the Khar-Selim
+61102	カー・セリムにプローブを送る
+// 61103	Salvage the Khar-Selim
+61103	カー・セリムをサルベージする
+// 61104	Protect the Mothership
+61104	マザーシップを防衛する
+// 61105	Defend Salvage Team
+61105	サルベージチームを守る
+// 61106	Defend the Mothership
+61106	マザーシップを防衛する
+// 61107	Investigate power source
+61107	動力源を調査する
+// 61108	Destroy the attacking force
+61108	攻撃部隊を殲滅する
+// 61109	                      HYPERSPACE
+61109	              ハイパースペース(HYPERSPACE)
 
 rangeend

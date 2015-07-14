@@ -39,7 +39,7 @@ rangestart 51000 52071
 // 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 // 51015	Cloak the Carrier by clicking on the flashing Cloak button on the Taskbar, or by SHIFT-RIGHT-CLICKING on the Carrier and choosing the Cloak special ability.
-51015	タスクバーの点滅する隠蔽(CLOAK)ボタンをクリックするか、キャリアー(Carrier)上で[SHIFT]+右クリックして「隠蔽(Cloak)」スペシャルアビリティを選択し、キャリアー(Carrier)を隠蔽(CLOAK)して下さい。
+51015	タスクバーの点滅する隠蔽(CLOAK)ボタンをクリックするか、キャリアー(Carrier)上で[SHIFT]+右クリックして「隠蔽(Cloak)」スペシャルアビリティを選択し、キャリアー(Carrier)を隠蔽(Cloak)して下さい。
 // 51019	Select the Marine frigate provided, and CAPTURE the enemy frigate by RIGHT-CLICKING on it
 51019	用意されたマリンフリゲート(MarineFrigate)を選択し、敵のフリゲート艦を右クリックして捕獲(Capture)して下さい。
 // 51022	If you wish to exit the tutorial, press F10 to bring up the in-game menu.
@@ -47,7 +47,7 @@ rangestart 51000 52071
 // 51025	Using drag-selecting or the SHIFT key, select all the indicated ships.
 51025	ドラッグ選択、または[SHIFT]キーを使用して、指定されたすべての船を選択して下さい。
 // 51026	Assign the ships you have selected in the previous step to a strikegroup. Strikegroup formation hotkeys are by default F5-F7. You may also use the strikegroup rollout located on the taskbar.
-51026	前のステップで選択した船をストライクグループ(Strikegroups)に割り当てます。ストライクグループフォーメーション用ホットキーは既定で[F5]-[F7]です。また、タスクバー上にあるストライクグループ用アイコンを使用してもよいです。
+51026	前のステップで選択した船をストライクグループ(Strikegroups)に割り当てます。ストライクグループフォーメーション用ホットキーは標準で[F5]-[F7]です。また、タスクバー上にあるストライクグループ用アイコンを使用してもよいです。
 // 51005	Enemy Frigate
 51005	敵フリゲート艦
 // 51006	Bring a ship here

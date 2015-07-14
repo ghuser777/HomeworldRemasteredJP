@@ -2,17 +2,283 @@ filerange 5600 5883
 rangestart 5600 5883
 
 // Subtitles
-5600	Frigate lost.
-5601	Mobile Refinery destroyed.
-5602	Destroyer lost.
-5603	Carrier destroyed.
-5604	Shipyard destroyed.
-5605	Battlecruiser destroyed.
-5606	Enemy Frigate captured.
-5607	Enemy Destroyer captured.
-5608	Enemy Carrier captured.
-5609	Enemy Shipyard captured.
-5610	Enemy Battlecruiser captured.
+// 5600	Frigate lost.
+// 5601	Mobile Refinery destroyed.
+// 5602	Destroyer lost.
+// 5603	Carrier destroyed.
+// 5604	Shipyard destroyed.
+// 5605	Battlecruiser destroyed.
+// 5606	Enemy Frigate captured.
+// 5607	Enemy Destroyer captured.
+// 5608	Enemy Carrier captured.
+// 5609	Enemy Shipyard captured.
+// 5610	Enemy Battlecruiser captured.
+// 5611	Frigate being boarded.
+// 5612	Destroyer being boarded.
+// 5613	Carrier being boarded.
+// 5614	Battlecruiser being boarded.
+// 5615	Mothership being boarded.
+// 5616	Shipyard being boarded.
+// 5617	Dreadnaught being boarded.
+// 5618	Mothership under attack.
+// 5619	Mothership under attack.
+// 5620	Mothership under attack.
+// 5621	Mothership under attack.
+// 5622	Mothership under attack.
+// 5623	Mothership under attack.
+// 5624	Dreadnaught under attack.
+// 5625	Dreadnaught under attack.
+// 5626	Dreadnaught under attack.
+// 5627	Dreadnaught under attack.
+// 5628	Dreadnaught under attack.
+// 5629	Dreadnaught under attack.
+// 5630	Dreadnaught Destroyed.
+// 5631	Dreadnaught Destroyed.
+// 5632	Sajuuk under attack.
+// 5633	Sajuuk under attack.
+// 5634	Sajuuk under attack.
+// 5635	Sajuuk under attack.
+// 5636	Sajuuk under attack.
+// 5637	Sajuuk under attack.
+// 5638	Sajuuk destroyed.
+// 5639	Sajuuk destroyed.
+// 5640	Shipyard destroyed.
+// 5641	Shipyard destroyed.
+// 5642	Torpedo detected.
+// 5643	Destroyer under attack.
+// 5644	Carrier under attack.
+// 5645	Battlecruiser under attack.
+// 5646	Shipyard under attack.
+// 5647	Subsystem lost.
+// 5648	Mothership Fighter Facility under attack.
+// 5649	Mothership Fighter Facility damaged.
+// 5650	Mothership Fighter Facility lost.
+// 5651	Mothership Corvette Facility under attack.
+// 5652	Mothership Corvette Facility damaged.
+// 5653	Mothership Corvette Facility lost.
+// 5654	Mothership Frigate Facility under attack.
+// 5655	Mothership Frigate Facility damaged.
+// 5656	Mothership Frigate Facility lost.
+// 5657	Mothership Advanced Frigate Facility under attack.
+// 5658	Mothership Advanced Frigate Facility damaged.
+// 5659	Mothership Advanced Frigate Facility lost.
+// 5660	Mothership Platform Facility under attack.
+// 5661	Mothership Platform Facility damaged.
+// 5662	Mothership Platform Facility lost.
+// 5663	Mothership Capital Ship Facility under attack.
+// 5664	Mothership Capital Ship Facility damaged.
+// 5665	Mothership Capital Ship Facility lost.
+// 5666	Mothership Advanced Capital Ship Facility under attack.
+// 5667	Mothership Advanced Capital Ship Facility damaged.
+// 5668	Mothership Advanced Capital Ship Facility lost.
+// 5669	Mothership Research Module under attack.
+// 5670	Mothership Research Module damaged.
+// 5671	Mothership Research Module lost.
+// 5672	Mothership Sensor Array under attack.
+// 5673	Mothership Sensor Array damaged.
+// 5674	Mothership Sensor Array lost.
+// 5675	Mothership Cloak Generator under attack.
+// 5676	Mothership Cloak Generator damaged.
+// 5677	Mothership Cloak Generator lost.
+// 5678	Mothership Hyperspace Module under attack.
+// 5679	Mothership Hyperspace Module damaged.
+// 5680	Mothership Hyperspace Module lost.
+// 5681	Mothership Fire Control Tower under attack.
+// 5682	Mothership Fire Control Tower damaged.
+// 5683	Mothership Fire Control Tower lost.
+// 5684	Mothership Engines under attack.
+// 5685	Mothership Engines damaged.
+// 5686	Mothership Engines disabled. We can't move.
+// 5687	Mothership Engines repaired. We can move.
+// 5688	Advanced Research Module Under Attack
+// 5689	Advanced Research Module damaged
+// 5690	Advanced Research Module lost
+// 5691	Resource Collector destroyed.
+// 5692	Resource Collector lost.
+// 5693	Mobile Refinery under fire.
+// 5694	Mobile Refinery under attack.
+// 5695	Unit Limit Reached.
+// 5696	Unit Limit increased.
+// 5697	Unit Limit decreased.
+// 5698	Scout squadron complete.
+// 5699	Interceptor squadron complete.
+// 5700	Bomber squadron complete.
+// 5701	Gunship Corvette squadron complete.
+// 5702	Pulsar Gunship squadron complete.
+// 5703	Minelayer Corvette complete.
+// 5704	Flak Frigate complete.
+// 5705	Torpedo Frigate complete.
+// 5706	Support Frigate complete.
+// 5707	Marine Frigate complete.
+// 5708	Defense Field Frigate complete.
+// 5709	Destroyer complete.
+// 5710	Carrier complete.
+// 5711	Battlecruiser complete.
+// 5712	Shipyard has arrived.
+// 5713	Gun Platform complete.
+// 5714	Ion Cannon Turret complete.
+// 5715	Resource Collector complete.
+// 5716	Mobile Refinery complete.
+// 5717	Probe complete.
+// 5718	ECM Probe complete.
+// 5719	Proximity Sensor complete.
+// 5720	Mothership Advanced Research Module Complete.
+// 5721	Carrier Fighter Facility complete.
+// 5722	Carrier Corvette Facility complete.
+// 5723	Mothership Fighter Facility complete.
+// 5724	Mothership Corvette Facility complete.
+// 5725	Mothership Frigate Facility complete.
+// 5726	Mothership Advanced Frigate Facility complete.
+// 5727	Mothership Platform Facility complete.
+// 5728	Mothership Capital Ship Facility complete.
+// 5729	Mothership Advanced Capital Ship Facility complete.
+// 5730	Mothership Research Module complete.
+// 5731	Mothership Sensors Array complete.
+// 5732	Mothership Cloak Generator complete.
+// 5733	Mothership Hyperspace Module complete.
+// 5734	Mothership Fire Control Tower complete.
+// 5735	New Build Options Available.
+// 5736	Strikegroup under attack.
+// 5737	Group one under attack.
+// 5738	Group two under attack.
+// 5739	Group three under attack.
+// 5740	Group four under attack.
+// 5741	Group five under attack.
+// 5742	Group six under attack.
+// 5743	Group seven under attack.
+// 5744	Group eight under attack.
+// 5745	Group nine under attack.
+// 5746	Group ten under attack.
+// 5747	Group one reports enemy contact.
+// 5748	Group two reports enemy contact.
+// 5749	Group three reports enemy contact.
+// 5750	Group four reports enemy contact.
+// 5751	Group five reports enemy contact.
+// 5752	Group six reports enemy contact.
+// 5753	Group seven reports enemy contact.
+// 5754	Group eight reports enemy contact.
+// 5755	Group nine reports enemy contact.
+// 5756	Group ten reports enemy contact.
+// 5757	Group One has defeated the enemy.
+// 5758	Group Two has defeated the enemy.
+// 5759	Group Three has defeated the enemy.
+// 5760	Group Four has defeated the enemy.
+// 5761	Group Five has defeated the enemy.
+// 5762	Group Six has defeated the enemy.
+// 5763	Group Seven has defeated the enemy.
+// 5764	Group Eight has defeated the enemy.
+// 5765	Group Nine has defeated the enemy.
+// 5766	Group Ten has defeated the enemy.
+// 5767	Group One reports victory.
+// 5768	Group Two reports victory.
+// 5769	Group Three reports victory.
+// 5770	Group Four reports victory.
+// 5771	Group Five reports victory.
+// 5772	Group Six reports victory.
+// 5773	Group Seven reports victory.
+// 5774	Group Eight reports victory.
+// 5775	Group Nine reports victory.
+// 5776	Group Ten reports victory.
+// 5777	Group One lost.
+// 5778	Group Two lost.
+// 5779	Group Three lost.
+// 5780	Group Four lost.
+// 5781	Group Five lost.
+// 5782	Group Six lost.
+// 5783	Group Seven lost.
+// 5784	Group Eight lost.
+// 5785	Group Nine lost.
+// 5786	Group Ten lost.
+// 5787	Group One destroyed.
+// 5789	Group Two destroyed.
+// 5790	Group Three destroyed.
+// 5791	Group Four destroyed.
+// 5792	Group Five destroyed.
+// 5793	Group Six destroyed.
+// 5794	Group Seven destroyed.
+// 5795	Group Eight destroyed.
+// 5796	Group Nine destroyed.
+// 5797	Group Ten destroyed.
+// 5798	Group One defeated.
+// 5799	Group Two defeated.
+// 5800	Group Three defeated.
+// 5801	Group Four defeated.
+// 5802	Group Five defeated.
+// 5803	Group Six defeated.
+// 5804	Group Seven defeated.
+// 5805	Group Eight defeated.
+// 5806	Group Nine defeated.
+// 5807	Group Ten defeated.
+// 5808	Research complete.
+// 5809	New Research available.
+// 5810	Insufficient resources. Research paused.
+// 5811	Upgrade complete.
+// 5812	New Upgrades available.
+// 5813	Insufficient resources. Upgrades paused.
+// 5814	New construction options available.
+// 5815	New Fighters available for construction.
+// 5816	New corvettes available for construction.
+// 5817	New frigates available for construction.
+// 5818	New capital ships available for construction.
+// 5819	New supercapital ships available for construction.
+// 5820	New utility class ships available for construction.
+// 5821	New platforms available for construction.
+// 5822	Research Module complete.
+// 5823	Advanced Research Module complete.
+// 5824	Probe deployed.
+// 5825	Enemy Probe detected.
+// 5826	Enemy Probe detected.
+// 5827	Insufficient resources for Hyperspace jump.  Jump aborted.
+// 5828	Insufficient resources for Hyperspace jump.  Jump aborted.
+// 5829	Unit Limit reached.
+// 5830	Unit Limit reached.
+// 5831	Unit Limit reached.
+// 5832	Unit Limit reached.
+// 5850	Resources Exhausted
+// 5851	MISSION FAILED
+// 5852	MISSION SUCCESSFUL
+// 5853	Heavy Cruiser destroyed.
+// 5854	Heavy Cruiser captured.
+// 5855	Heavy Cruiser being boarded.
+// 5856	Heavy Cruiser under attack.
+// 5857	Resource Controller destroyed.
+// 5858	Resource Controller captured.
+// 5859	Resource Controller being boarded.
+// 5860	Resource Controller under attack.
+// 5861	Scout complete.
+// 5862	Interceptor complete.
+// 5863	Assault Bomber complete.
+// 5864	Defender complete.
+// 5865	Cloaked Fighter complete.
+// 5866	Defense Fighter complete.
+// 5867	Light Corvette complete.
+// 5868	Heavy Corvette complete.
+// 5869	Multi-Gun Corvette complete.
+// 5870	Repair Corvette complete.
+// 5871	Salvage Corvette complete.
+// 5872	Support Frigate complete.
+// 5873	Assault Frigate complete.
+// 5874	Ion Cannon Frigate complete.
+// 5875	Drone Frigate complete.
+// 5876	Defense Field Frigate complete.
+// 5877	Heavy Cruiser complete.
+// 5878	Resource Controller complete.
+// 5879	Cloak Generator complete.
+// 5880	GravWell Generator complete.
+// 5881	Proximity Sensor complete.
+// 5882	Sensors Array complete.
+// 5883	Cannot complete transfer.
+5600	Frigateを失いました。
+5601	Mobile Refineryが破壊されました。
+5602	Destroyerを失いました。
+5603	Carrierが破壊されました。
+5604	Shipyardが破壊されました。
+5605	Battlecruiserが破壊されました。
+5606	敵Frigateを捕獲しました。
+5607	敵Destroyerを捕獲しました。
+5608	敵Carrierを捕獲しました。
+5609	敵Shipyardを捕獲しました。
+5610	敵Battlecruiserを捕獲しました。
 5611	Frigate being boarded.
 5612	Destroyer being boarded.
 5613	Carrier being boarded.
@@ -20,253 +286,253 @@ rangestart 5600 5883
 5615	Mothership being boarded.
 5616	Shipyard being boarded.
 5617	Dreadnaught being boarded.
-5618	Mothership under attack.
-5619	Mothership under attack.
-5620	Mothership under attack.
-5621	Mothership under attack.
-5622	Mothership under attack.
-5623	Mothership under attack.
-5624	Dreadnaught under attack.
-5625	Dreadnaught under attack.
-5626	Dreadnaught under attack.
-5627	Dreadnaught under attack.
-5628	Dreadnaught under attack.
-5629	Dreadnaught under attack.
-5630	Dreadnaught Destroyed.
-5631	Dreadnaught Destroyed.
-5632	Sajuuk under attack.
-5633	Sajuuk under attack.
-5634	Sajuuk under attack.
-5635	Sajuuk under attack.
-5636	Sajuuk under attack.
-5637	Sajuuk under attack.
-5638	Sajuuk destroyed.
-5639	Sajuuk destroyed.
-5640	Shipyard destroyed.
-5641	Shipyard destroyed.
-5642	Torpedo detected.
-5643	Destroyer under attack.
-5644	Carrier under attack.
-5645	Battlecruiser under attack.
-5646	Shipyard under attack.
-5647	Subsystem lost.
-5648	Mothership Fighter Facility under attack.
-5649	Mothership Fighter Facility damaged.
-5650	Mothership Fighter Facility lost.
-5651	Mothership Corvette Facility under attack.
-5652	Mothership Corvette Facility damaged.
-5653	Mothership Corvette Facility lost.
-5654	Mothership Frigate Facility under attack.
-5655	Mothership Frigate Facility damaged.
-5656	Mothership Frigate Facility lost.
-5657	Mothership Advanced Frigate Facility under attack.
-5658	Mothership Advanced Frigate Facility damaged.
-5659	Mothership Advanced Frigate Facility lost.
-5660	Mothership Platform Facility under attack.
-5661	Mothership Platform Facility damaged.
-5662	Mothership Platform Facility lost.
-5663	Mothership Capital Ship Facility under attack.
-5664	Mothership Capital Ship Facility damaged.
-5665	Mothership Capital Ship Facility lost.
-5666	Mothership Advanced Capital Ship Facility under attack.
-5667	Mothership Advanced Capital Ship Facility damaged.
-5668	Mothership Advanced Capital Ship Facility lost.
-5669	Mothership Research Module under attack.
-5670	Mothership Research Module damaged.
-5671	Mothership Research Module lost.
-5672	Mothership Sensor Array under attack.
-5673	Mothership Sensor Array damaged.
-5674	Mothership Sensor Array lost.
-5675	Mothership Cloak Generator under attack.
-5676	Mothership Cloak Generator damaged.
-5677	Mothership Cloak Generator lost.
-5678	Mothership Hyperspace Module under attack.
-5679	Mothership Hyperspace Module damaged.
-5680	Mothership Hyperspace Module lost.
-5681	Mothership Fire Control Tower under attack.
-5682	Mothership Fire Control Tower damaged.
-5683	Mothership Fire Control Tower lost.
-5684	Mothership Engines under attack.
-5685	Mothership Engines damaged.
-5686	Mothership Engines disabled. We can't move.
-5687	Mothership Engines repaired. We can move.
-5688	Advanced Research Module Under Attack
-5689	Advanced Research Module damaged
-5690	Advanced Research Module lost
-5691	Resource Collector destroyed.
-5692	Resource Collector lost.
-5693	Mobile Refinery under fire.
-5694	Mobile Refinery under attack.
-5695	Unit Limit Reached.
-5696	Unit Limit increased.
-5697	Unit Limit decreased.
-5698	Scout squadron complete.
-5699	Interceptor squadron complete.
-5700	Bomber squadron complete.
-5701	Gunship Corvette squadron complete.
-5702	Pulsar Gunship squadron complete.
-5703	Minelayer Corvette complete.
-5704	Flak Frigate complete.
-5705	Torpedo Frigate complete.
-5706	Support Frigate complete.
-5707	Marine Frigate complete.
-5708	Defense Field Frigate complete.
-5709	Destroyer complete.
-5710	Carrier complete.
-5711	Battlecruiser complete.
+5618	Mothershipが攻撃を受けています。
+5619	Mothershipが攻撃を受けています。
+5620	Mothershipが攻撃を受けています。
+5621	Mothershipが攻撃を受けています。
+5622	Mothershipが攻撃を受けています。
+5623	Mothershipが攻撃を受けています。
+5624	Dreadnaughtが攻撃を受けています。
+5625	Dreadnaughtが攻撃を受けています。
+5626	Dreadnaughtが攻撃を受けています。
+5627	Dreadnaughtが攻撃を受けています。
+5628	Dreadnaughtが攻撃を受けています。
+5629	Dreadnaughtが攻撃を受けています。
+5630	Dreadnaughtが破壊されました。
+5631	Dreadnaughtが破壊されました。
+5632	Sajuukが攻撃を受けています。
+5633	Sajuukが攻撃を受けています。
+5634	Sajuukが攻撃を受けています。
+5635	Sajuukが攻撃を受けています。
+5636	Sajuukが攻撃を受けています。
+5637	Sajuukが攻撃を受けています。
+5638	Sajuukが破壊されました。
+5639	Sajuukが破壊されました。
+5640	Shipyardが破壊されました。
+5641	Shipyardが破壊されました。
+5642	Torpedoを発見しました。
+5643	Destroyerが攻撃を受けています。
+5644	Carrierが攻撃を受けています。
+5645	Battlecruiserが攻撃を受けています。
+5646	Shipyardが攻撃を受けています。
+5647	Subsystemを失いました。
+5648	Mothership Fighter Facilityが攻撃を受けています。
+5649	Mothership Fighter Facilityがダメージを受けています。
+5650	Mothership Fighter Facilityを失いました。
+5651	Mothership Corvette Facilityが攻撃を受けています。
+5652	Mothership Corvette Facilityがダメージを受けています。
+5653	Mothership Corvette Facilityを失いました。
+5654	Mothership Frigate Facilityが攻撃を受けています。
+5655	Mothership Frigate Facilityがダメージを受けています。
+5656	Mothership Frigate Facilityを失いました。
+5657	Mothership Advanced Frigate Facilityが攻撃を受けています。
+5658	Mothership Advanced Frigate Facilityがダメージを受けています。
+5659	Mothership Advanced Frigate Facilityを失いました。
+5660	Mothership Platform Facilityが攻撃を受けています。
+5661	Mothership Platform Facilityがダメージを受けています。
+5662	Mothership Platform Facilityを失いました。
+5663	Mothership Capital Ship Facilityが攻撃を受けています。
+5664	Mothership Capital Ship Facilityがダメージを受けています。
+5665	Mothership Capital Ship Facilityを失いました。
+5666	Mothership Advanced Capital Ship Facilityが攻撃を受けています。
+5667	Mothership Advanced Capital Ship Facilityがダメージを受けています。
+5668	Mothership Advanced Capital Ship Facilityを失いました。
+5669	Mothership Research Moduleが攻撃を受けています。
+5670	Mothership Research Moduleがダメージを受けています。
+5671	Mothership Research Moduleを失いました。
+5672	Mothership Sensor Arrayが攻撃を受けています。
+5673	Mothership Sensor Arrayがダメージを受けています。
+5674	Mothership Sensor Arrayを失いました。
+5675	Mothership Cloak Generatorが攻撃を受けています。
+5676	Mothership Cloak Generatorがダメージを受けています。
+5677	Mothership Cloak Generatorを失いました。
+5678	Mothership Hyperspace Moduleが攻撃を受けています。
+5679	Mothership Hyperspace Moduleがダメージを受けています。
+5680	Mothership Hyperspace Moduleを失いました。
+5681	Mothership Fire Control Towerが攻撃を受けています。
+5682	Mothership Fire Control Towerがダメージを受けています。
+5683	Mothership Fire Control Towerを失いました。
+5684	Mothership Enginesが攻撃を受けています。
+5685	Mothership Enginesがダメージを受けています。
+5686	Mothership Enginesは無効です。私達は移動できません。
+5687	Mothership Enginesを修理しました。私達は移動できます。
+5688	Advanced Research Moduleが攻撃を受けています。
+5689	Advanced Research Moduleがダメージを受けています。
+5690	Advanced Research Moduleを失いました。
+5691	Resource Collectorが破壊されました。
+5692	Resource Collectorを失いました。
+5693	Mobile Refineryが攻撃を受けています。
+5694	Mobile Refineryが攻撃を受けています。
+5695	ユニット数上限に到達しました。
+5696	ユニット数上限が増加しました。
+5697	ユニット数上限が減少しました。
+5698	Scout squadron生産完了。
+5699	Interceptor squadron生産完了。
+5700	Bomber squadron生産完了。
+5701	Gunship Corvette squadron生産完了。
+5702	Pulsar Gunship squadron生産完了。
+5703	Minelayer Corvette生産完了。
+5704	Flak Frigate生産完了。
+5705	Torpedo Frigate生産完了。
+5706	Support Frigate生産完了。
+5707	Marine Frigate生産完了。
+5708	Defense Field Frigate生産完了。
+5709	Destroyer生産完了。
+5710	Carrier生産完了。
+5711	Battlecruiser生産完了。
 5712	Shipyard has arrived.
-5713	Gun Platform complete.
-5714	Ion Cannon Turret complete.
-5715	Resource Collector complete.
-5716	Mobile Refinery complete.
-5717	Probe complete.
-5718	ECM Probe complete.
-5719	Proximity Sensor complete.
-5720	Mothership Advanced Research Module Complete.
-5721	Carrier Fighter Facility complete.
-5722	Carrier Corvette Facility complete.
-5723	Mothership Fighter Facility complete.
-5724	Mothership Corvette Facility complete.
-5725	Mothership Frigate Facility complete.
-5726	Mothership Advanced Frigate Facility complete.
-5727	Mothership Platform Facility complete.
-5728	Mothership Capital Ship Facility complete.
-5729	Mothership Advanced Capital Ship Facility complete.
-5730	Mothership Research Module complete.
-5731	Mothership Sensors Array complete.
-5732	Mothership Cloak Generator complete.
-5733	Mothership Hyperspace Module complete.
-5734	Mothership Fire Control Tower complete.
-5735	New Build Options Available.
-5736	Strikegroup under attack.
-5737	Group one under attack.
-5738	Group two under attack.
-5739	Group three under attack.
-5740	Group four under attack.
-5741	Group five under attack.
-5742	Group six under attack.
-5743	Group seven under attack.
-5744	Group eight under attack.
-5745	Group nine under attack.
-5746	Group ten under attack.
-5747	Group one reports enemy contact.
-5748	Group two reports enemy contact.
-5749	Group three reports enemy contact.
-5750	Group four reports enemy contact.
-5751	Group five reports enemy contact.
-5752	Group six reports enemy contact.
-5753	Group seven reports enemy contact.
-5754	Group eight reports enemy contact.
-5755	Group nine reports enemy contact.
-5756	Group ten reports enemy contact.
-5757	Group One has defeated the enemy.
-5758	Group Two has defeated the enemy.
-5759	Group Three has defeated the enemy.
-5760	Group Four has defeated the enemy.
-5761	Group Five has defeated the enemy.
-5762	Group Six has defeated the enemy.
-5763	Group Seven has defeated the enemy.
-5764	Group Eight has defeated the enemy.
-5765	Group Nine has defeated the enemy.
-5766	Group Ten has defeated the enemy.
-5767	Group One reports victory.
-5768	Group Two reports victory.
-5769	Group Three reports victory.
-5770	Group Four reports victory.
-5771	Group Five reports victory.
-5772	Group Six reports victory.
-5773	Group Seven reports victory.
-5774	Group Eight reports victory.
-5775	Group Nine reports victory.
-5776	Group Ten reports victory.
-5777	Group One lost.
-5778	Group Two lost.
-5779	Group Three lost.
-5780	Group Four lost.
-5781	Group Five lost.
-5782	Group Six lost.
-5783	Group Seven lost.
-5784	Group Eight lost.
-5785	Group Nine lost.
-5786	Group Ten lost.
-5787	Group One destroyed.
-5789	Group Two destroyed.
-5790	Group Three destroyed.
-5791	Group Four destroyed.
-5792	Group Five destroyed.
-5793	Group Six destroyed.
-5794	Group Seven destroyed.
-5795	Group Eight destroyed.
-5796	Group Nine destroyed.
-5797	Group Ten destroyed.
-5798	Group One defeated.
-5799	Group Two defeated.
-5800	Group Three defeated.
-5801	Group Four defeated.
-5802	Group Five defeated.
-5803	Group Six defeated.
-5804	Group Seven defeated.
-5805	Group Eight defeated.
-5806	Group Nine defeated.
-5807	Group Ten defeated.
-5808	Research complete.
-5809	New Research available.
-5810	Insufficient resources. Research paused.
-5811	Upgrade complete.
-5812	New Upgrades available.
-5813	Insufficient resources. Upgrades paused.
-5814	New construction options available.
-5815	New Fighters available for construction.
-5816	New corvettes available for construction.
-5817	New frigates available for construction.
-5818	New capital ships available for construction.
-5819	New supercapital ships available for construction.
-5820	New utility class ships available for construction.
-5821	New platforms available for construction.
-5822	Research Module complete.
-5823	Advanced Research Module complete.
-5824	Probe deployed.
-5825	Enemy Probe detected.
-5826	Enemy Probe detected.
-5827	Insufficient resources for Hyperspace jump.  Jump aborted.
-5828	Insufficient resources for Hyperspace jump.  Jump aborted.
-5829	Unit Limit reached.
-5830	Unit Limit reached.
-5831	Unit Limit reached.
-5832	Unit Limit reached.
-5850	Resources Exhausted
-5851	MISSION FAILED
-5852	MISSION SUCCESSFUL
-5853	Heavy Cruiser destroyed.
-5854	Heavy Cruiser captured.
+5713	Gun Platform生産完了。
+5714	Ion Cannon Turret生産完了。
+5715	Resource Collector生産完了。
+5716	Mobile Refinery生産完了。
+5717	Probe生産完了。
+5718	ECM Probe生産完了。
+5719	Proximity Sensor生産完了。
+5720	Mothership Advanced Research Module生産完了。
+5721	Carrier Fighter Facility生産完了。
+5722	Carrier Corvette Facility生産完了。
+5723	Mothership Fighter Facility生産完了。
+5724	Mothership Corvette Facility生産完了。
+5725	Mothership Frigate Facility生産完了。
+5726	Mothership Advanced Frigate Facility生産完了。
+5727	Mothership Platform Facility生産完了。
+5728	Mothership Capital Ship Facility生産完了。
+5729	Mothership Advanced Capital Ship Facility生産完了。
+5730	Mothership Research Module生産完了。
+5731	Mothership Sensors Array生産完了。
+5732	Mothership Cloak Generator生産完了。
+5733	Mothership Hyperspace Module生産完了。
+5734	Mothership Fire Control Tower生産完了。
+5735	新たな生産オプションが利用可能です。
+5736	Strikegroupが攻撃を受けています。
+5737	グループ1が攻撃を受けています。
+5738	グループ2が攻撃を受けています。
+5739	グループ3が攻撃を受けています。
+5740	グループ4が攻撃を受けています。
+5741	グループ5が攻撃を受けています。
+5742	グループ6が攻撃を受けています。
+5743	グループ7が攻撃を受けています。
+5744	グループ8が攻撃を受けています。
+5745	グループ9が攻撃を受けています。
+5746	グループ10が攻撃を受けています。
+5747	グループ1が接敵を報告。
+5748	グループ2が接敵を報告。
+5749	グループ3が接敵を報告。
+5750	グループ4が接敵を報告。
+5751	グループ5が接敵を報告。
+5752	グループ6が接敵を報告。
+5753	グループ7が接敵を報告。
+5754	グループ8が接敵を報告。
+5755	グループ9が接敵を報告。
+5756	グループ10が接敵を報告。
+5757	グループ1が敵を倒しました。
+5758	グループ2が敵を倒しました。
+5759	グループ3が敵を倒しました。
+5760	グループ4が敵を倒しました。
+5761	グループ5が敵を倒しました。
+5762	グループ6が敵を倒しました。
+5763	グループ7が敵を倒しました。
+5764	グループ8が敵を倒しました。
+5765	グループ9が敵を倒しました。
+5766	グループ10が敵を倒しました。
+5767	グループ1が勝利を報告。
+5768	グループ2が勝利を報告。
+5769	グループ3が勝利を報告。
+5770	グループ4が勝利を報告。
+5771	グループ5が勝利を報告。
+5772	グループ6が勝利を報告。
+5773	グループ7が勝利を報告。
+5774	グループ8が勝利を報告。
+5775	グループ9が勝利を報告。
+5776	グループ10が勝利を報告。
+5777	グループ1を失いました。
+5778	グループ2を失いました。
+5779	グループ3を失いました。
+5780	グループ4を失いました。
+5781	グループ5を失いました。
+5782	グループ6を失いました。
+5783	グループ7を失いました。
+5784	グループ8を失いました。
+5785	グループ9を失いました。
+5786	グループ10を失いました。
+5787	グループ1が破壊されました。
+5789	グループ2が破壊されました。
+5790	グループ3が破壊されました。
+5791	グループ4が破壊されました。
+5792	グループ5が破壊されました。
+5793	グループ6が破壊されました。
+5794	グループ7が破壊されました。
+5795	グループ8が破壊されました。
+5796	グループ9が破壊されました。
+5797	グループ10が破壊されました。
+5798	グループ1が敗北しました。
+5799	グループ2が敗北しました。
+5800	グループ3が敗北しました。
+5801	グループ4が敗北しました。
+5802	グループ5が敗北しました。
+5803	グループ6が敗北しました。
+5804	グループ7が敗北しました。
+5805	グループ8が敗北しました。
+5806	グループ9が敗北しました。
+5807	グループ10が敗北しました。
+5808	研究完了。
+5809	新たな研究が可能です。
+5810	リソース不足です。研究を一時停止します。
+5811	アップグレード完了。
+5812	新たなアップグレードが可能です。
+5813	リソース不足。アップグレードを一時停止します。
+5814	新たな生産オプションが利用可能です。
+5815	新たなFightersが生産可能です。
+5816	新たなCorvettesが生産可能です。
+5817	新たなFrigatesが生産可能です。
+5818	新たなCapital shipsが生産可能です。
+5819	新たなSupercapital shipsが生産可能です。
+5820	新たなUtility class shipsが生産可能です。
+5821	新たなPlatformsを生産できます。
+5822	Research Module生産完了。
+5823	Advanced Research Module生産完了。
+5824	Probeを展開しました。
+5825	敵Probeを発見しました。
+5826	敵Probeを発見しました。
+5827	ハイパースペースジャンプのためのリソースが不足しています。ジャンプを中止します。
+5828	ハイパースペースジャンプのためのリソースが不足しています。ジャンプを中止します。
+5829	ユニット数上限に到達しました。
+5830	ユニット数上限に到達しました。
+5831	ユニット数上限に到達しました。
+5832	ユニット数上限に到達しました。
+5850	リソース枯渇
+5851	ミッション失敗
+5852	ミッション成功
+5853	Heavy Cruiserが破壊されました。
+5854	Heavy Cruiserを捕獲しました。
 5855	Heavy Cruiser being boarded.
-5856	Heavy Cruiser under attack.
-5857	Resource Controller destroyed.
-5858	Resource Controller captured.
+5856	Heavy Cruiserが攻撃を受けています。
+5857	Resource Controllerが破壊されました。
+5858	Resource Controllerを捕獲しました。
 5859	Resource Controller being boarded.
-5860	Resource Controller under attack.
-5861	Scout complete.
-5862	Interceptor complete.
-5863	Assault Bomber complete.
-5864	Defender complete.
-5865	Cloaked Fighter complete.
-5866	Defense Fighter complete.
-5867	Light Corvette complete.
-5868	Heavy Corvette complete.
-5869	Multi-Gun Corvette complete.
-5870	Repair Corvette complete.
-5871	Salvage Corvette complete.
-5872	Support Frigate complete.
-5873	Assault Frigate complete.
-5874	Ion Cannon Frigate complete.
-5875	Drone Frigate complete.
-5876	Defense Field Frigate complete.
-5877	Heavy Cruiser complete.
-5878	Resource Controller complete.
-5879	Cloak Generator complete.
-5880	GravWell Generator complete.
-5881	Proximity Sensor complete.
-5882	Sensors Array complete.
-5883	Cannot complete transfer.
+5860	Resource Controllerが攻撃を受けています。
+5861	Scout生産完了。
+5862	Interceptor生産完了。
+5863	Assault Bomber生産完了。
+5864	Defender生産完了。
+5865	Cloaked Fighter生産完了。
+5866	Defense Fighter生産完了。
+5867	Light Corvette生産完了。
+5868	Heavy Corvette生産完了。
+5869	Multi-Gun Corvette生産完了。
+5870	Repair Corvette生産完了。
+5871	Salvage Corvette生産完了。
+5872	Support Frigate生産完了。
+5873	Assault Frigate生産完了。
+5874	Ion Cannon Frigate生産完了。
+5875	Dr1 Frigate生産完了。
+5876	Defense Field Frigate生産完了。
+5877	Heavy Cruiser生産完了。
+5878	Resource Controller生産完了。
+5879	Cloak Generator生産完了。
+5880	GravWell Generator生産完了。
+5881	Proximity Sensor生産完了。
+5882	Sensors Array生産完了。
+5883	転送を完了できません。
 
 rangeend

@@ -51,7 +51,7 @@ rangestart 50000 50441
 // 50310	The camera can be zoomed by scrolling the MOUSE WHEEL or by holding down both mouse buttons while moving the mouse forwards and backwards.
 50310	カメラは、マウスホイールを回転させるか、両方のマウスボタンを押したまま前後にマウスを動かすことで、ズーム(拡大・縮小)することができます。
 // 50441	Hold down the LEFT MOUSE BUTTON or SHIFT while moving the mouse to change the vertical height of a move order.
-50441	移動命令の垂直方向の高さを変更するには、マウスの左ボタンまたは[Shift]キーを押したままマウスを動かします。
+50441	移動命令の垂直方向の高さを変更するには、マウスの左ボタンまたは[SHIFT]キーを押したままマウスを動かします。
 // 50009	Move to the asteroid field
 50009	Move to the asteroid field
 // 50010	Right-click on any of these asteroids to move here
@@ -163,7 +163,7 @@ rangestart 50000 50441
 // 50054	Click OK to continue, or keep practising Camera Panning.#+
 50054	[OK]をクリックして、パン(視点移動)の練習を続けましょう。#+
 // 50060	To focus the camera on a ship, press the MIDDLE MOUSE BUTTON or use the FOCUS Key.
-50060	船にカメラのフォーカスを合わせるために、マウスの中央ボタンを押すか、フォーカス(FOCUS)キーを使用して下さい。
+50060	船にカメラのフォーカスを合わせるために、マウスの中央ボタンを押すか、フォーカスキーを使用して下さい。
 // 50061	This snaps the Camera to the currently selected ship, in this case, the scouts.
 50061	カメラは、現在選択しているスカウト(Scout)隊に合わされます。
 // 50062	The default Focus key is F.
