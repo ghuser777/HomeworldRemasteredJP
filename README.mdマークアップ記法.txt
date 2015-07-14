@@ -1,6 +1,8 @@
 # HomeworldRemasteredJP
 Homeworld Remasteredの日本語化
 
+masterブランチの方を変更
+
 # README.md記入サンプル
 
 # 斜体
