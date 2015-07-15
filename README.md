@@ -5,9 +5,10 @@ Homeworld Remasteredの日本語化作業
 ## 日本語化の仕方
 1. HomeWorld 攻略WikiからRemastered用の日本語フォントをダウンロードする。
 http://homeworld.wiki.fc2.com/wiki/MOD
-※日本語化の仕方は上記日本語フォントのreame.txtに書いてありますが、一部誤字脱字・漏れなでがあるので、あらためて以下に書きます。
+* 日本語化の仕方は上記日本語フォントのreame.txtに書いてありますが、一部誤字脱字・漏れなでがあるので、あらためて以下に書きます。
+
 2. HomeworldのBigファイルを展開するためのプログラムツールをSteamから手に入れる。
-Steamを起動して、「ライブラリ」から「ツール」を選択、リストが表示されるので「Homeworld Remastered Toolkit」をダブルクリックか右クリックメニューからインストール。
+* Steamを起動して、「ライブラリ」から「ツール」を選択、リストが表示されるので「Homeworld Remastered Toolkit」をダブルクリックか右クリックメニューからインストール。
 
 
 
