@@ -2,11 +2,17 @@ filerange 61150 61176
 rangestart 61150 61176
 
 // Subtitles
-61150	KHARAK SYSTEM
-61155	Defend cryo trays
-61157	Capture enemy ship using 2 Salvage Corvettes
-61159	Salvage cryo trays
+// 61150	KHARAK SYSTEM
+61150	カラク星系(KHARAK SYSTEM)
+// 61155	Defend cryo trays
+61155	クライオトレイを防衛する
+// 61157	Capture enemy ship using 2 Salvage Corvettes
+61157	サルベージコルベット2機で敵船を捕獲する
+// 61159	Salvage cryo trays
+61159	クライオトレイを回収する
+// 61173	03 - Return To Kharak
 61173	03 - Return To Kharak
-61176	Cryogenic Trays loaded.  Hyperspace module charged.  It's time to go.
+// 61176	Cryogenic Trays loaded.  Hyperspace module charged.  It's time to go.
+61176	冷凍睡眠トレイ積載完了。ハーパースペースモジュールチャージ完了。行く時間です。
 
 rangeend

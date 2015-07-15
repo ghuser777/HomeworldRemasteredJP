@@ -2,30 +2,55 @@ filerange 66437 66461
 rangestart 66437 66461
 
 // Subtitles
-66437	Group three moving in... alright now, stay together... ready... SPREAD!
-66438	Surface attack group to first positions...
-66439	Incoming missiles...
-66440	Evasive maneuvers!
-66441	We're hit! Damage report!
-66442	What the...?
-66443	There's another one...
-66444	Prepare for immediate surface bombardment!
-66445	Standing by.
-66446	Commence surface delivery.
-66447	Delivery confirmed.
-66448	All targets acquired.
-66449	Multiple impacts confirmed.
-66450	Surface temperature fifteen-twenty-three and climbing...
-66451	Estimated immediate casualties: 98 percent.
-66452	Surface temperature seventeen-forty-two and stable...
-66453	Orbital target acquired.
-66454	Watch the spread pattern... stay sharp.
-66455	Target destroyed.
-66456	Requesting clearance to dock
-66457	Clearance granted.
-66458	Primary directive achieved.
-66459	Prepare for secondary directive.
-66460	Fleet trajectory calculated and locked in.
-66461	Prepare for hyperspace.
+// 66437	Group three moving in... alright now, stay together... ready... SPREAD!
+66437	グループスリーは移動している……了解、共に待機する……準備を……。散開！
+// 66438	Surface attack group to first positions...
+66438	地表攻撃部隊は初期位置へ……。
+// 66439	Incoming missiles...
+66439	ミサイルが向かって来ている……。
+// 66440	Evasive maneuvers!
+66440	回避行動！
+// 66441	We're hit! Damage report!
+66441	我々は攻撃を受けている！ 被害報告！
+// 66442	What the...?
+66442	何が……？
+// 66443	There's another one...
+66443	もうひとつくる……。
+// 66444	Prepare for immediate surface bombardment!
+66444	すぐに地表爆撃の準備を！
+// 66445	Standing by.
+66445	準備完了。
+// 66446	Commence surface delivery.
+66446	地表への射出を開始せよ。
+// 66447	Delivery confirmed.
+66447	射出確認。
+// 66448	All targets acquired.
+66448	全ての目標が得られた。
+// 66449	Multiple impacts confirmed.
+66449	複数の着弾を確認。
+// 66450	Surface temperature fifteen-twenty-three and climbing...
+66450	地表温度は1523、まだ上昇している……。
+// 66451	Estimated immediate casualties: 98 percent.
+66451	予想される現在の死傷者は、98パーセント。
+// 66452	Surface temperature seventeen-forty-two and stable...
+66452	地表温度は1742、安定した……。
+// 66453	Orbital target acquired.
+66453	軌道の目標が得られた。
+// 66454	Watch the spread pattern... stay sharp.
+66454	拡散パターンを見極めろ……ぼんやりとするな。
+// 66455	Target destroyed.
+66455	攻撃目標を破壊した。
+// 66456	Requesting clearance to dock
+66456	ドッグへの着艦許可を求める。
+// 66457	Clearance granted.
+66457	着艦許可を認める。
+// 66458	Primary directive achieved.
+66458	第一指令を達成した。
+// 66459	Prepare for secondary directive.
+66459	第ニ指令の準備を。
+// 66460	Fleet trajectory calculated and locked in.
+66460	艦隊軌道を計算しロック。
+// 66461	Prepare for hyperspace.
+66461	パイパースペースの準備を。
 
 rangeend

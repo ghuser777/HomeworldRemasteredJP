@@ -2,29 +2,53 @@ filerange 60429 60815
 rangestart 60429 60815
 
 // Subtitles
-60429	No one's left... Everything's gone...!  Kharak is burning!
-60430	Kharak is being consumed by a firestorm.  The Scaffold has been destroyed.  All orbital facilities destroyed.  Significant debris ring in low Kharak orbit.  Receiving no communications from anywhere in the system... Not even beacons.
-60431	Wait!  On the maintenance frequency.  I'm getting a signal from the Cryo Tray systems in orbit.  One of them is suffering a massive malfunction.
-60432	Dispatch Salvage Corvettes immediately to collect the trays.
-60433	These ships are different from those we encountered at the Khar-Selim.  It is likely they were involved in the destruction of Kharak.
-60434	Capture at least one vessel for interrogation and destroy the rest.
-60435	Those trays contain all that remain of our people.  Without them, we will become extinct.
-60436	Hostile vessel captured.  Crew interned.  Interrogation is underway.  While searching the enemy ship's computer systems, we came across these flight recordings.  Stand by for playback.
-60462	Analysis of the recording indicates that the Kharak missile defenses heavily damaged the attacking fleet.  However, we have concluded that at present they can still easily defeat us.  We have therefore plotted a course to a deep space asteroid belt.  There we can hide and prepare our fleet for an assault.
-60463	Our research division has analyzed the captured frigate.  We have reverse engineered the drive technology and developed two new ships.  Plans for a third vessel are underway, but will require Frigate Chassis research.
-60464	Cryo tray loaded.  One hundred thousand people secured.
-60465	Cryo tray loaded.  Two hundred thousand people secured.
-60466	Cryo tray loaded.  Three hundred thousand people secured.
-60467	Cryo tray loaded.  Four hundred thousand people secured.
-60468	Cryo tray loaded.  Five hundred thousand people secured.
-60469	Withdraw attack and deploy a Salvage Team.  We need that ship.
-60470	Cryo trays loaded and secure.  Hyperspace module charged.  There's nothing left for us here.  Let's go.
-60471	Unidentified Hostiles
-60472	Taiidan Empire
-60759	The Cryo Trays are under attack.  Defend them.
-60760	Enemy units neutralized.  Begin salvaging the cryo trays.
-60814	The enemy is attempting to destroy our colonist cryo trays!  Defend our people at all costs!
-60815	We must learn the nature of this new threat.  Use Salvage Corvettes to bring in an enemy ship intact for interrogation.
-60473	The cryo trays are exposed.  Use Salvage Corvettes to load the trays into the Mothership immediately.
+// 60429	No one's left... Everything's gone...!  Kharak is burning!
+60429	ひとつも残されていない…… 何もかも消えてしまった！ カラクが燃えています！
+// 60430	Kharak is being consumed by a firestorm.  The Scaffold has been destroyed.  All orbital facilities destroyed.  Significant debris ring in low Kharak orbit.  Receiving no communications from anywhere in the system... Not even beacons.
+60430	カラクは猛火によって焼き尽くされています。 スカフォルドは破壊されました。 全ての軌道施設が破壊されました。 カラクの低軌道上にかなりの残骸があります。 システムのどこからも通信が受け取れません…… ビーコンさえありません。
+// 60431	Wait!  On the maintenance frequency.  I'm getting a signal from the Cryo Tray systems in orbit.  One of them is suffering a massive malfunction.
+60431	待って下さい！ 保守周波数帯に、私は軌道上のクライオ(冷凍睡眠)トレイシステムから信号を受信しています。 それらのひとつに重大な障害が発生しています。
+// 60432	Dispatch Salvage Corvettes immediately to collect the trays.
+60432	トレイを回収するために、直ちにサルベージコルベットを向かわせて下さい。
+// 60433	These ships are different from those we encountered at the .  It is likely they were involved in the destruction of Kharak.
+60433	これらの船は、我々がカー・セリムで遭遇したものとは異なり、恐らくはカラクの破壊に関係しています。
+// 60434	Capture at least one vessel for interrogation and destroy the rest.
+60434	尋問のために少なくとも一隻は捕獲し、残りは破壊して下さい。
+// 60435	Those trays contain all that remain of our people.  Without them, we will become extinct.
+60435	これらのトレイは私達人類に残された全てです。 これら無しでは、私達は絶滅するでしょう。
+// 60436	Hostile vessel captured.  Crew interned.  Interrogation is underway.  While searching the enemy ship's computer systems, we came across these flight recordings.  Stand by for playback.
+60436	敵船を捕獲しました。 乗員を拘禁しました。 尋問を進めています。 敵船のコンピュータシステムを検索中に、我々はこれらの飛行記録を見つけました。 再生のために待機して下さい。
+// 60462	Analysis of the recording indicates that the Kharak missile defenses heavily damaged the attacking fleet.  However, we have concluded that at present they can still easily defeat us.  We have therefore plotted a course to a deep space asteroid belt.  There we can hide and prepare our fleet for an assault.
+60462	記録の分析結果は、カラクのミサイル防衛が敵攻撃艦隊に重い損傷を与えたことを示しています。 しかしながら現時点では、彼らはまだ容易に我々を破ることが出来ると結論付けます。 そのため我々は、深宇宙のアステロイド地帯への進路を計画しています。 そこに隠れ、我々の艦隊に襲撃のための準備をさせることが出来ます。
+// 60463	Our research division has analyzed the captured frigate.  We have reverse engineered the drive technology and developed two new ships.  Plans for a third vessel are underway, but will require Frigate Chassis research.
+60463	我々の研究部門が、捕獲したフリゲート艦を分析しました。 駆動技術をリバースエンジニアし、二つの新しい船を開発しました。 第三の船の計画も進行中ですが、フリゲートシャーシ(FrigateChassis)の研究を必要とするでしょう。
+// 60464	Cryo tray loaded.  One hundred thousand people secured.
+60464	クライオトレイが積載されました。 十万の人々が守られました。
+// 60465	Cryo tray loaded.  Two hundred thousand people secured.
+60465	クライオトレイが積載されました。 二十万の人々が守られました。
+// 60466	Cryo tray loaded.  Three hundred thousand people secured.
+60466	クライオトレイが積載されました。 三十万の人々が守られました。
+// 60467	Cryo tray loaded.  Four hundred thousand people secured.
+60467	クライオトレイが積載されました。 四十万の人々が守られました。
+// 60468	Cryo tray loaded.  Five hundred thousand people secured.
+60468	クライオトレイが積載されました。 五十万の人々が守られました。
+// 60469	Withdraw attack and deploy a Salvage Team.  We need that ship.
+60469	攻撃を止め、サルベージチームを展開して下さい。 我々はその船が必要です。
+// 60470	Cryo trays loaded and secure.  Hyperspace module charged.  There's nothing left for us here.  Let's go.
+60470	クライオトレイは積載され、守られました。 ハイパースペースモジュールがチャージされました。 ここには我々のために残されたものが何もありません。 行きましょう。
+// 60471	Unidentified Hostiles
+60471	未知の敵対船
+// 60472	Taiidan Empire
+60472	タイダン(Taiidan)帝国
+// 60759	The Cryo Trays are under attack.  Defend them.
+60759	クライオ(冷凍睡眠)トレイが攻撃を受けています。 それらを守って下さい。
+// 60760	Enemy units neutralized.  Begin salvaging the cryo trays.
+60760	敵艦船を制圧しました。 クライオトレイの回収を始めて下さい。
+// 60814	The enemy is attempting to destroy our colonist cryo trays!  Defend our people at all costs!
+60814	敵は、我々の入植者用クライオトレイ(CryoTrays)を破壊しようとしています！ あらゆる犠牲を払ってでも我々の仲間を守って下さい！
+// 60815	We must learn the nature of this new threat.  Use Salvage Corvettes to bring in an enemy ship intact for interrogation.
+60815	我々は、この新たな脅威の本質を学ばなければなりません。 尋問のために、無傷のまま敵船を手に入れるよう、サルベージコルベット(SalvageCorvettes)を使用して下さい。
+// 60473	The cryo trays are exposed.  Use Salvage Corvettes to load the trays into the Mothership immediately.
+60473	クライオトレイがさらされています。 直ちにマザーシップにトレイを積載するために、サルベージコルベットを使用して下さい。
 
 rangeend

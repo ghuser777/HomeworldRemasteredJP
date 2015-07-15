@@ -2,12 +2,19 @@ filerange 65422 65428
 rangestart 65422 65428
 
 // Subtitles
-65422	Analysis of wreckage reveals the hostile units are using strike craft ranging from Fighters to combat Corvettes.
-65423	All pilots will be briefed in case hostiles have penetrated farther into the Kharak system.
-65424	On our return to Kharak, the final outfit of the Mothership must be accelerated in order to defend against possible future attacks.
-65425	Many major Mothership systems are still incomplete.
-65426	We will notify Kharak's Missile Defense System of this possible threat.
-65427	The Mothership will then dock with the Scaffold for repairs.
-65428	Stand by for Hyperspace exit to Kharak.
+// 65422	Analysis of wreckage reveals the hostile units are using strike craft ranging from Fighters to combat Corvettes.
+65422	残骸の分析から、敵艦船はファイターから戦闘用コルベットにまで及ぶストライククラフトを用いてることが明らかになっています。
+// 65423	All pilots will be briefed in case hostiles have penetrated farther into the Kharak system.
+65423	全パイロットには、敵艦船がカラク星系深くに侵攻した場合に備えて指示が与えられます。
+// 65424	On our return to Kharak, the final outfit of the Mothership must be accelerated in order to defend against possible future attacks.
+65424	カラクへの帰還において、予想される攻撃に対抗するために、マザーシップの最終偽装作業を加速させなければなりません。
+// 65425	Many major Mothership systems are still incomplete.
+65425	多くの主要なマザーシップシステムはまだ不完全です。
+// 65426	We will notify Kharak's Missile Defense System of this possible threat.
+65426	我々は、起こり得る脅威についてカラクのミサイル防衛システムに知らせます。
+// 65427	The Mothership will then dock with the Scaffold for repairs.
+65427	マザーシップは、修理のためにスカフォルドとドッキングするでしょう。
+// 65428	Stand by for Hyperspace exit to Kharak.
+65428	カラクへのハイパースペース離脱に備えてください。
 
 rangeend

@@ -11,9 +11,9 @@ rangestart 61100 61109
 // 61103	Salvage the Khar-Selim
 61103	カー・セリムをサルベージする
 // 61104	Protect the Mothership
-61104	マザーシップを防衛する
+61104	マザーシップを守る
 // 61105	Defend Salvage Team
-61105	サルベージチームを守る
+61105	サルベージチームを防衛する
 // 61106	Defend the Mothership
 61106	マザーシップを防衛する
 // 61107	Investigate power source
