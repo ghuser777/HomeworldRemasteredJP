@@ -1,7 +1,7 @@
 # HomeworldRemasteredJP
 Homeworld Remasteredの日本語化作業
-
-
+  
+  
 
 
 ## 日本語化の仕方
@@ -91,6 +91,8 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 \translation\locale\jp\fontmap.luaを開き、フォント定義(Blender.rcfとSmallFonts7.rcf)を全て、日本語フォントのファイル名(MigMix2p.rcf)に書き換える。
 
+### 翻訳する
+
 \jp内のDATを翻訳してShift_JIS（CP932）で保存する。
 
 ### Homeworldの起動方法
@@ -98,11 +100,11 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に" -moddatapath translation -locale jp"を指定して実行すればOK。
 
 ※起動設定はSteamで、Homeworld Remasteredのプロパティ→一般タブ→起動設定...で設定できる。
-
-
-
+  
+  
 
 ## 共通ファイル
+
 ### 着手
 * events.dat
 * fontmap.lua
