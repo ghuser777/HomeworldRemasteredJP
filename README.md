@@ -8,19 +8,91 @@ http://homeworld.wiki.fc2.com/wiki/MOD
 
 日本語化の仕方は上記日本語フォントのreame.txtに書いてありますが、一部誤字脱字・漏れなどがあるので、あらためて以下に書きます。
 
-1. HomeworldのBigファイルを展開するためのプログラムツールをSteamから手に入れる。
+### 暗号化されたBigファイルを復号するプログラムを入手する。
 
-Steamを起動して「ライブラリ」から「ツール」を選択し、一覧が表示されるので「Homeworld Remastered Toolkit」をダブルクリックするか右クリックメニューからインストール。
+・bigDecrypter.exe  
+Homeworld RemastererdのDataフォルダに含まれている暗号化されたBigファイルをArchive.exeで扱える形式に復号するプログラム。  
+海外有志によって作成された物で下記のサイトに有るbigDecrypter_1.4.zipが該当する。  
+https://github.com/mon/bigDecrypter/releases
 
+使い方は復号したいBigフィアルをdropBigHere.batにドロップする。  
+ファイルをドロップするとドロップしたファイルと同じ場所に"<ファイル名>_decrypted"の名前で復号されたファイルが作成される。
 
+### 復号したBigファイルを個々のファイルに展開するプログラムを入手する
 
+bigDecrypter.exeで復号したBigファイルを個々のファイルに展開するためのプログラムツール(Archive.exe)をSteamから手に入れる。
 
+Steamを起動して「ライブラリ」から「ツール」を選択し、一覧が表示されるので「Homeworld Remastered Toolkit」をダブルクリック又は右クリックメニューからインストールする。
 
+Toolkitをインストールすると、Archive.exeは標準で以下のフォルダにあるはず。  
+`C:\Program Files (x86)\Steam\steamapps\common\Homeworld\GBXTools\WorkshopTool`
 
+Archive.exeの使い方は、コマンドプロンプトで以下のコマンドを実行。  
+`Archive.exe -a <Bigファイル名> -e <展開先のフォルダ名>`
 
+### 作業に必要なBigファイルを復号＆展開する
 
+dropBigHere.batとArchive.exeを使って、Bigファイルを復号＆展開する。必要となるBigファイルは下記。  
+※2015年7月4日時点。
 
+C:\Program Files (x86)\Steam\steamapps\common\Homeworld\HomeworldRM\Data
+* English.big
+* EnglishHW1Campaign.big
+* EnglishHW2Campaign.big
+* EnglishSpeech.big
+* EnglishSpeechHW1Campaign.big
+* EnglishSpeechHW2Campaign.big
+* HW2Campaign.big
+* Music.big
+* MusicHW1Campaign.big
+* MusicHW2Campaign.big
 
+C:\Program Files (x86)\Steam\steamapps\common\Homeworld\HomeworldRM\DataUpdates
+* UpdateEnglish.big
+* UpdateEnglishSpeech.big
+* UpdateEnglishSpeechHW2Campaign.big
+* UpdateMusic.big
+* UpdateMusicHW1Campaign.big
+
+### Homeworld Remasteredのフォルダに新規フォルダを作成し、必要なファイルをコピーする。
+
+C:\Program Files (x86)\Steam\steamapps\common\Homeworld\HomeworldRMフォルダの下に、下記フォルダを作成する。
+* \translation\locale\jp
+* \translation\ui\font
+
+以下Bigファイルの内容をjpフォルダにコピーする。
+* English.big
+* EnglishHW1Campaign.big
+* EnglishHW2Campaign.big
+* UpdateEnglish.big
+
+以下Bigファイルの内容をtranslationフォルダにコピーする。
+* EnglishSpeech.big
+* EnglishSpeechHW1Campaign.big
+* EnglishSpeechHW2Campaign.big
+* Music.big
+* MusicHW1Campaign.big
+* MusicHW2Campaign.big
+* UpdateEnglishSpeech.big
+* UpdateEnglishSpeechHW2Campaign.big
+* UpdateMusic.big
+* UpdateMusicHW1Campaign.big
+
+HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピーする。
+
+日本語フォントファイルを\translation\ui\fontへコピーする。
+
+空のテキストファイルをkeeper.txtの名前で\translationに作成する。
+
+\translation\locale\jp\fontmap.luaを開き、フォント定義(Blender.rcfとSmallFonts7.rcf)を全て、日本語フォントのファイル名(MigMix2p.rcf)に書き換える。
+
+\jp内のDATを翻訳してSHift_JIS（CP932）で保存する。
+
+### Homeworldの起動方法
+
+準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に" -moddatapath translation -locale jp"を指定して実行すればOK。
+
+※起動設定はSteamで、Homeworld Remasteredのプロパティ→一般タブ→起動設定...で設定できる。
 
 
 ## 共通ファイル
