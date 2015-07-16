@@ -29,7 +29,7 @@ rangestart 51000 52071
 // 51021	Exit the tutorial
 51021	チュートリアルを終了する
 // 51010	Select the three squadrons of Interceptors by dragging a bandbox around them.
-51010	３つのインターセプター(Interceptor)隊の周りをドラッグして範囲選択します。
+51010	三つのインターセプター(Interceptor)隊の周りをドラッグして範囲選択します。
 // 51011	Assign the Interceptors to Control Group 1 by selecting the ships and pressing CTRL+1.
 51011	船を選択してから[CTRL]+[1]を押して、グループ1にインターセプター(Interceptor)隊を割り当てて下さい。
 // 51012	Assign the Bombers to Control Group 2 by selecting the ships and pressing CTRL+2.
@@ -59,7 +59,7 @@ rangestart 51000 52071
 // 51031	Control Groups allow you to select a group of ships and assign them to one of the 10 number keys. Click OK to Continue.#+
 51031	グループ操作では、選択した船のグループに、1から10の数字キーのいずれかを割り当てることができます。 [OK]をクリックして続けます。#+
 // 51032	First, select the 3 squadrons of Interceptors.
-51032	最初に、３つのインターセプター(Interceptor)隊を選択します。
+51032	最初に、三つのインターセプター(Interceptor)隊を選択します。
 // 51040	Now press the CTRL key and the NUMBER ONE at the same time to assign the Interceptors to Group 1.
 51040	[CTRL]キーと[1]を同時に押して、グループ1にインターセプター(Interceptor)隊を割り当てて下さい。
 // 51050	You have now assigned that group to the number 1.

@@ -1,7 +1,7 @@
 # HomeworldRemasteredJP
 Homeworld Remasteredの日本語化作業
-  
-  
+
+
 
 
 ## 日本語化の仕方
@@ -100,8 +100,9 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に" -moddatapath translation -locale jp"を指定して実行すればOK。
 
 ※起動設定はSteamで、Homeworld Remasteredのプロパティ→一般タブ→起動設定...で設定できる。
-  
-  
+
+
+
 
 ## 共通ファイル
 
@@ -121,6 +122,9 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * resource.dat
 * ships.dat
 * ui.dat
+
+
+
 
 ## Homeworld Remastered チュートリアル
 * チュートリアル 01 完了
@@ -145,6 +149,9 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 15
 * ミッション 16
 
+
+
+
 ## Homeworld 2 Remastered
 * ミッション 01
 * ミッション 02
@@ -162,6 +169,34 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 14
 * ミッション 15
 
+
+
+
 ## Multiplayer
 ？
+
+
+
+
+## 用語統一
+
+###
+* 外来語の語尾は伸ばす。センサ、コントローラ→センサー、コントローラー。
+
+### 一般用語
+* Build	建造（艦船）、建設（施設）
+* Construction	建造（艦船）、建設（施設）
+* Collection, Collect	収集。文脈により「集める」
+* Harvest	収集
+* Production	生産
+* Research	研究
+* Resource	資源
+* Salvage	敵船を「捕獲」。データを「回収」。文脈により「サルベージ」
+
+### 固有名詞
+* Bentusi	ベントゥージ
+* Cryo Tray	クライオトレイ（冷凍睡眠トレイ）	※直訳:低温/冷凍トレー
+* Taiidan	タイダーン
+* Taiidan Empire	タイダーン帝国
+* Turanic Raiders	トゥラニックレイダース
 

@@ -5,7 +5,7 @@ rangestart 60376 60806
 // 60376	Fleet Intelligence going online.  Our task is to analyze all sensor data and generate mission objectives.  Before the hyperdrive test, several trials must be completed.
 60376	艦隊インテリジェンスがオンラインになりました。我々の役割は全センサーからのデータを分析しミッションの目的(Objectives)を生み出すことです。ハイパードライブテストの前に、いくつかのテストを終えなければなりません。
 // 60377	Test construction by building the primary research ship.
-60377	第一のリサーチシップ(ResearchShip)を生産することで、建造のテストを行って下さい。
+60377	第一のリサーチシップ(ResearchShip)を建造することで、建造テストを行って下さい。
 // 60378	Test resource processing by harvesting the asteroids provided nearby.
 60378	近くに提供されたアステロイド帯を収集(Harvest)することで、資源(Resource)処理のテストを行って下さい。
 // 60379	Stand by to begin combat trials.  First, we will be monitoring formation performance.
@@ -23,7 +23,7 @@ rangestart 60376 60806
 // 60385	Tactics trial complete.
 60385	戦術テストは完了しました。
 // 60386	The next trial will test the performance of the Salvage Corvette.  Build one and capture the Target Drone here.
-60386	次のテストはSalvageCorvetteの性能を試すことになります。1機を生産し、ここで目標のドローンを捕獲(Capture)して下さい。
+60386	次のテストはSalvageCorvetteの性能を試すことになります。1機を建造し、ここで目標のドローンを捕獲(Capture)して下さい。
 // 60387	Target Drone destroyed.  A replacement Drone is being sent to the same location.  Completion of this trial requires a successful capture of the drone.  Begin again.
 60387	目標のドローンを破壊しました。交換用ドローンは同じ場所に送られます。このテストの完了には、ドローンの捕獲(Capture)に成功する必要があります。再開します。
 // 60388	Interceptors are ready for construction.
@@ -37,7 +37,7 @@ rangestart 60376 60806
 // 60392	Stand by for Hyperdrive test.  Internal pressure doors will be sealed in 2 minutes.  Abort systems standing by.
 60392	ハイパードライブテストに備えてください。内部の圧力ドアは2分内に閉鎖します。異常検知システム準備完了。
 // 60393	Hyperspace module fully charged.  I am ready to initiate quantum wave generation on your mark.  Good luck, everyone.
-60393	ハイパースペースモジュールはフルチャージされました。貴官が指示した座標への量子波生成を始める準備が出来ています。全乗組員の幸運を祈ります。
+60393	ハイパースペースモジュールはフルチャージされました。貴官が指示した座標への量子波生成を始める準備が出来ています。全乗員の幸運を祈ります。
 // 60394	All sections have reported in.  We are clear to proceed.  Trigger the hyperspace drive at your discretion.
 60394	全部門の報告が入りました。続行に問題はありません。貴官の裁量によりハイパースペースドライブを指示して下さい。
 // 60395	Combat Training

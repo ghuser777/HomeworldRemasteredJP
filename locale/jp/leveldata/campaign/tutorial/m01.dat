@@ -13,7 +13,7 @@ rangestart 50000 50441
 // 50004	Select and focus on 2nd scout group
 50004	Select and focus on 2nd scout group
 // 50005	Select both groups of scouts
-50005	２つのスカウト(Scout)隊を選択する
+50005	二つのスカウト(Scout)隊を選択する
 // 50006	Activate the sensors manager
 50006	センサーマネージャーを表示する
 // 50007	Move ships to asteroid field
@@ -43,7 +43,7 @@ rangestart 50000 50441
 // 50306	The sensors manager can be activated by pressing SPACE or by clicking on the Sensors button in the middle of the taskbar.
 50306	センサーマネージャー(SensorsManager)は、スペースキーを押すか、タスクバー中央のセンサーアイコンをクリックして表示することができます。
 // 50307	Issue a relative move command by selecting your scouts and right-clicking on one of the asteroids.
-50307	スカウト(Scout)隊を選択し、アステロイド帯のうちの1つを右クリックすることで、相対的な移動命令を出して下さい。
+50307	スカウト(Scout)隊を選択し、アステロイド帯のうちの一つを右クリックすることで、相対的な移動命令を出して下さい。
 // 50308	Activate the movement disc by selecting a ship and right-clicking on an empty area of the screen. You may also activate the movement disc by pressing the default movement key, M.
 50308	Activate the movement disc by selecting a ship and right-clicking on an empty area of the screen. You may also activate the movement disc by pressing the default movement key, M.
 // 50309	The OBJECTIVES window can be accessed by clicking on the objectives button on the taskbar.
@@ -123,9 +123,9 @@ rangestart 50000 50441
 // 50080	New reinforcements available.
 50080	新しい後続部隊が利用可能です。
 // 50083	A second Scout Squadron is launching.
-50083	２つ目のスカウト(Scout)隊が発進しました。
+50083	二つ目のスカウト(Scout)隊が発進しました。
 // 50090	To select multiple squadrons, first hold down the LEFT MOUSE BUTTON and then DRAG a BOX around both Scout Squadrons. Do this now.
-50090	複数の部隊を選択するには、マウスの左ボタンを押したまま2つのスカウト(Scout)隊が収まるように四角くドラッグして範囲選択します。やってみてください。
+50090	複数の部隊を選択するには、マウスの左ボタンを押したまま二つのスカウト(Scout)隊が収まるように四角くドラッグして範囲選択します。やってみてください。
 // 50091	This is called DRAG-SELECTING.
 50091	これを「ドラッグ選択(DRAG-SELECTING)」と呼んでいます。
 // 50040	Excellent work. Click OK to Continue.#+
@@ -181,7 +181,7 @@ rangestart 50000 50441
 // 50130	The Sensors Manager allows you to see the game world from a much greater distance and is used for strategic movement and command of ships. Click OK to Continue.#+
 50130	センサーマネージャーは、より離れた位置から全体を見渡すことを可能にし、より戦略的に船の移動や命令を出すことができます。[OK]をクリックして続けます。#+
 // 50131	The two green dots represent the two Scout squadrons.
-50131	２つの緑色のドットが、２つのスカウト(Scout)隊を表します。
+50131	二つの緑色のドットが、二つのスカウト(Scout)隊を表します。
 // 50132	From the Sensors Manager you can see distant objects such as these asteroids.
 50132	センサーマネージャーでは、これらのアステロイド帯のような遠くに離れたものを見ることができます。
 // 50133	The Sensors Manager also displays objective information. Click OK to Continue.#+

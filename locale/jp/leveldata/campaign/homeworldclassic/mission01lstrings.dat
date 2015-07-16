@@ -3,19 +3,19 @@ rangestart 61050 61059
 
 // Subtitles
 // 61050	KHARAK SYSTEM
-61050	カラク星系(KHARAK SYSTEM)
+61050	＜カラク星系(KHARAK SYSTEM)＞
 // 61051	Harvest asteroids
-61051	アステロイドを収集
+61051	アステロイドを収集する
 // 61052	Construct a Research Ship
-61052	Research Shipを建造
+61052	Research Shipを建造する
 // 61053	Research Fighter Chassis
-61053	Fighter Chassisを研究
+61053	Fighter Chassisを研究する
 // 61054	Destroy Target Drones using a formation
-61054	フォーメーションを使用しドローンを破壊
+61054	フォーメーションを使用しドローンを破壊する
 // 61055	Destroy Target Drones using tactics
-61055	戦術(Tactics)を使用しドローンを破壊
+61055	戦術(Tactics)を使用しドローンを破壊する
 // 61056	Capture the Drone using a Salvage Corvette.
-61056	Salvage Corvetteでドローンを捕獲
+61056	Salvage Corvetteでドローンを捕獲する
 61057	Use Interceptors to destroy advanced drones
 // 61058	                      HYPERSPACE
 61058	            ハーパースペース(HYPERSPACE)
