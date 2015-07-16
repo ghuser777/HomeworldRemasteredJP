@@ -180,23 +180,58 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 ## 用語の統一
 
-###
+### ルール
 * 外来語の語尾は伸ばす。センサ、コントローラ→センサー、コントローラー。
+* 初めて出現する固有名詞や用語は、「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英単語の空白は削除する（Cryo Tray→CryoTray）。空白以降で改行されてしまうことがあるため。
+* また、カタカナ語の意味がわからないような単語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
+* イベント文章内では「サルベージコルベット(SalvageCorvette)」などとカタカナで表記するが。命令一覧の○○strings.datでは艦船名等を英文字のまま記述する（「Salvage Corvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れるため。またビルドマネージャーやリサーチマネージャーの英語艦船名表記と合わせるため。  
+* ○○strings.datで英文字表記する際は「SalvageCorvette」などと空白を削除しなくても良い。○○strings.datは章見出し又は命令一覧のため記述が短いので勝手に改行される心配をする必要がないため。  
 
-### 一般用語
+### 用語
+* Asteroid	アステロイド/アステロイド帯
 * Build	建造（艦船）、建設（施設）
+* Capture	敵船を「捕獲」。文脈により「手に入れる」
 * Construction	建造（艦船）、建設（施設）
 * Collection, Collect	収集。文脈により「集める」
+* Drone	ドローン
+* Formation	フォーメーション
 * Harvest	収集	※直訳:収穫、採取など
+* Hyperspace	ハイパースペース
 * Production	生産
+* Objectives	目的
 * Research	研究
 * Resource	資源
 * Salvage	敵船を「捕獲」。データを「回収」。文脈により「サルベージ」「手に入れる」
+* Tactics	戦術
+* Target	目標
+* Trial	訓練、テスト
+* Vessel	船、艦船
 
 ### 固有名詞
 * Bentusi	ベントゥージ
-* Cryo Tray	クライオトレイ（冷凍睡眠トレイ）	※直訳:低温/冷凍トレー
+* Guidestone	ガイドストーン
+* Hiigara	ヒガーラ
+* Karan S'jet	カラン・スジェット
+* Khar-Selim	カー・セリム
+* Kharak	カラク
+* Kharak System	カラク星系
 * Taiidan	タイダーン
 * Taiidan Empire	タイダーン帝国
 * Turanic Raiders	トゥラニックレイダース
+
+### 艦船・施設
+* Bomber	ボマー	※爆撃機
+* Carrier	キャリアー	※空母
+* Cruiser	クルーザー	※巡洋艦
+* Cryo Tray	クライオトレイ	※冷凍睡眠トレイ	※直訳:低温/冷凍トレー
+* Destroyer	デストロイヤー	※駆逐艦
+* Fighter	ファイター。文脈により「戦闘機」
+* Frigate	フリゲート
+* Interceptor	インターセプター	※迎撃機
+* Mothership	マザーシップ	※母船
+* Research Ship	リサーチシップ	※研究船
+* Resource Collecter	リソースコレクター
+* Scout	スカウト	※偵察機
+* Scaffold	スカフォルド	※直訳:足場
+* Torpedo Frigate	トーピードフリゲート	※魚雷/水雷フリゲート艦
 
