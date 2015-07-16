@@ -110,7 +110,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * events.dat
 * fontmap.lua
 
-### 未着手
+### 未着手（未確認）
 * ati.dat
 * buildresearch.dat
 * delete.dat
@@ -135,7 +135,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 01 完了
 * ミッション 02 完了
 * ミッション 03 完了
-* ミッション 04
+* ミッション 04 編集中
 * ミッション 05
 * ミッション 06
 * ミッション 07
@@ -178,7 +178,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 
 
-## 用語統一
+## 用語の統一
 
 ###
 * 外来語の語尾は伸ばす。センサ、コントローラ→センサー、コントローラー。
@@ -187,11 +187,11 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Build	建造（艦船）、建設（施設）
 * Construction	建造（艦船）、建設（施設）
 * Collection, Collect	収集。文脈により「集める」
-* Harvest	収集
+* Harvest	収集	※直訳:収穫、採取など
 * Production	生産
 * Research	研究
 * Resource	資源
-* Salvage	敵船を「捕獲」。データを「回収」。文脈により「サルベージ」
+* Salvage	敵船を「捕獲」。データを「回収」。文脈により「サルベージ」「手に入れる」
 
 ### 固有名詞
 * Bentusi	ベントゥージ
