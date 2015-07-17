@@ -25,7 +25,7 @@ rangestart 60376 60806
 // 60386	The next trial will test the performance of the Salvage Corvette.  Build one and capture the Target Drone here.
 60386	次のテストはSalvageCorvetteの性能を試すことになります。1機を建造し、ここで目標のドローンを捕獲(Capture)して下さい。
 // 60387	Target Drone destroyed.  A replacement Drone is being sent to the same location.  Completion of this trial requires a successful capture of the drone.  Begin again.
-60387	目標のドローンを破壊しました。交換用ドローンは同じ場所に送られます。このテストの完了には、ドローンの捕獲(Capture)に成功する必要があります。再開します。
+60387	目標のドローンを破壊しました。交換用ドローンは同じ場所に送られます。このテストの完了には、ドローンの捕獲に成功する必要があります。再開します。
 // 60388	Interceptors are ready for construction.
 60388	Interceptors are ready for construction.
 // 60389	Advanced Target Drones with heavier armor have been provided.  Using Interceptors, begin the mock combat exercise here.

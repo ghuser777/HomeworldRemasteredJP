@@ -7,52 +7,52 @@ rangestart 60478 60819
 // 60479	Scanner data indicates asteroid density is highest in this region.  Commence resource gathering.
 60479	スキャナーからのデータがアステロイド密度が最も高いこの領域を示しています。 資源の収集を開始して下さい。
 // 60480	Resource Controllers are available for construction.  To improve the efficiency of collection, build one and position it near the asteroid vein.
-60480	リソースコントローラー(ResourceController)の建造が可能になりました。 収集効率を改善するために、建造した一隻をアステロイド鉱脈の近くに配置して下さい。
+60480	リソースコントローラー(ResourceController)の建造が可能になりました。 収集効率を改善するために、建造した一隻をアステロイド鉱脈の近くに配備して下さい。
 // 60481	Long range sensors indicate a Mothership-class mass signature.  It's coming in fast.  Power readings are off the scale.  Full combat alert.  Stand by for contact.
 60481	長距離センサーがマザーシップ級の質量反応を示しています。 それは間近に迫ってきています。 動力測定値はゲージを振りきっています。 最大級の戦闘警報。 接触に備えて下さい。
 // 60492	Turanic Raiders, servants of the Taiidan, are arriving.  They must not learn of our contact.  We must depart.  All that moves is easily heard in the void.  We will listen for you.  Farewell.
-60492	トゥラニックレイダース(TuranicRaiders)――タイダーン(Taiidan)のしもべ達が到着する。 彼らに我々の接触を知られてはならない。 我々は去らなければならない。 すべての活動は虚空の中でも容易に聞こえる。 我々はあなた方のために耳を研ぎ澄ますだろう。 さらばだ。
+60492	トゥラニックレイダース(TuranicRaiders)――タイダーン(Taiidan)のしもべが到着する。 彼らに我々の接触を知られてはならない。 我々は去らなければならない。 すべての活動は虚空の中でも容易に聞こえる。 我々はあなた方のために耳を研ぎ澄ますだろう。 さらばだ。
 // 60493	Turanic Raiders, servants of the Kushan, are arriving.  They must not learn of our contact.  We must depart.  All that moves is easily heard in the void.  We will listen for you.  Farewell.
 60493	Turanic Raiders, servants of the Kushan, are arriving.  They must not learn of our contact.  We must depart.  All that moves is easily heard in the void.  We will listen for you.  Farewell.
 // 60494	The Bentusi wish only to trade and make contact.  Your attack is unwarranted and ill-advised.  Stop now.
-60494	The Bentusi wish only to trade and make contact.  Your attack is unwarranted and ill-advised.  Stop now.
+60494	ベントゥージは交易と接触のみを希望している。 あなた方の攻撃は不当で無分別だ。 今すぐ停止しなさい。
 // 60495	Recommend immediate cease-fire.
-60495	Recommend immediate cease-fire.
+60495	即時の停戦を推奨します。
 // 60496	You insist on conflict.  This is most unfortunate.
-60496	You insist on conflict.  This is most unfortunate.
+60496	あなた方は衝突を主張する。 これはとても残念なことだ。
 // 60497	Turanic Raider fighters are attacking our resource operation.  Defend it and prepare for more hostile ships to arrive.
-60497	Turanic Raider fighters are attacking our resource operation.  Defend it and prepare for more hostile ships to arrive.
+60497	トゥラニックレイダーファイターが我々の資源オペレーションを攻撃しています。 それを守り、より多くの敵船の到着に備えてください。
 // 60498	Several Turanic Raider capital ships have just emerged from hyperspace near the Mothership.
-60498	Several Turanic Raider capital ships have just emerged from hyperspace near the Mothership.
+60498	何隻かのトゥラニックレイダーキャピタルシップ(CapitalShip)が、マザーシップの近くにたった今ハイパースペースから出現しました。
 // 60499	The Raider Carrier has been located.  It is reinforcing their squadrons of Fighters and Corvettes.
-60499	The Raider Carrier has been located.  It is reinforcing their squadrons of Fighters and Corvettes.
+60499	レイダーキャリアーが存在します。 これが彼らのファイター編隊とコルベットを増援しています。
 // 60500	The Carrier is retreating.  If it escapes, they will warn the Taiidan fleet of our pursuit.  Do not allow them to hyperspace.
-60500	The Carrier is retreating.  If it escapes, they will warn the Taiidan fleet of our pursuit.  Do not allow them to hyperspace.
+60500	キャリアーが退却していきます。 もしこれを逃がせば、我々の追撃をタイダーン艦隊に警告するでしょう。 彼らがハイパースペースに入ることを許してはなりません。
 // 60501	The Carrier is retreating.  If it escapes, they will warn the Kushan fleet of our pursuit.  Do not allow them to hyperspace.
 60501	The Carrier is retreating.  If it escapes, they will warn the Kushan fleet of our pursuit.  Do not allow them to hyperspace.
 // 60502	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Taiidan fleet that devastated Kharak.  Using data from the Taiidan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
-60502	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Taiidan fleet that devastated Kharak.  Using data from the Taiidan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
+60502	トゥラニックレイダースは破れました。 我々は現在、当面の目標――カラクを破壊したタイダーン艦隊への攻撃準備に戻ることが出来ます。 カラクで捕獲したタイダーン船からのデータを使い、彼らの位置を測定することが出来ました。 もし我々が今攻撃すれば、彼らが損傷を受けた状態を利用することが出来ます。 ハイパースペース座標が艦隊司令官に転送されました。
 // 60503	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Kushan fleet that devastated Kharak.  Using data from the Kushan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
 60503	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Kushan fleet that devastated Kharak.  Using data from the Kushan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
 // 60504	Turanic Raiders
-60504	Turanic Raiders
+60504	トゥラニックレイダース
 // 60505	Bentusi
-60505	Bentusi
+60505	ベントゥージ
 // 60761	To increase harvesting efficiency, move your Resource Controller as close to heavy resource areas as possible.
-60761	収集の効率を上げるために、リソースコントローラーをできるだけ多数の資源があるエリアに近づくよう動かして下さい。
+60761	収集の効率を上げるために、リソースコントローラーをできるだけ多数の資源があるエリアに近づけるように移動して下さい。
 // 60816	Turanic Raider fighters are attacking.   Prepare for more hostile ships to arrive
-60816	Turanic Raider fighters are attacking.   Prepare for more hostile ships to arrive
+60816	トゥラニックレイダーファイターが攻撃してきます。 より多くの敵船の到着に備えてください。
 // 60817	We require additional resources to expand our fleet.  Build and deploy a Resource Controller to maximize raw material collection.
-60817	We require additional resources to expand our fleet.  Build and deploy a Resource Controller to maximize raw material collection.
+60817	我々の艦隊を拡大するために追加の資源が必要になります。 原材料の収集を最大化するために、リソースコントローラー(ResourceController)を建造し配備して下さい。
 // 60818	Hostiles identified as Turanic Raiders are again attacking the Mothership.  Defend the fleet and destroy the attackers.
-60818	Hostiles identified as Turanic Raiders are again attacking the Mothership.  Defend the fleet and destroy the attackers.
+60818	トゥラニックレイダースと判明した敵船が再びマザーシップを攻撃してきます。 艦隊を防衛し攻撃者を破壊して下さい。
 // 60819	The Turanic Raider carrier is attempting to retreat to warn the Taiidan fleet of our pursuit.  Destroy them before they hyperspace.
-60819	The Turanic Raider carrier is attempting to retreat to warn the Taiidan fleet of our pursuit.  Destroy them before they hyperspace.
+60819	トゥラニックレイダーキャリアーが、我々の追撃をタイダーン艦隊に警告するために退却しようとしています。 ハイパースペースの前に彼らを破壊して下さい。
 // 60506	Additional usable materials identified.  Deploy Resource Collectors to begin collection of these valuable resources.
-60506	Additional usable materials identified.  Deploy Resource Collectors to begin collection of these valuable resources.
+60506	追加の利用可能な物質を確認しました。 これらの貴重な資源の収集を開始するためにリソースコレクターを展開して下さい。
 // 60507	Turanic Raider Ion Array Frigate
-60507	Turanic Raider Ion Array Frigate
+60507	トゥラニックレイダーIon Array Frigate
 // 60508	Turanic Raider Mothership
-60508	Turanic Raider Mothership
+60508	トゥラニックレイダーMothership
 
 rangeend

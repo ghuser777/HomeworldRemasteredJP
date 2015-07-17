@@ -2,13 +2,21 @@ filerange 65504 65511
 rangestart 65504 65511
 
 // Subtitles
-65504	We have repaired the damage incurred by the Turanic Raiders.
-65505	Combat and sensor systems returning to optimal functionality.
+// 65504	We have repaired the damage incurred by the Turanic Raiders.
+65504	我々はトゥラニックレイダースによって受けた損傷を修理しました。
+// 65505	Combat and sensor systems returning to optimal functionality.
+65505	戦闘並びにセンサーシステムは最適な機能性を取り戻しています。
+// 65506	I can't believe this happened.
 65506	I can't believe this happened.
-65507	Our first hyperdrive test led to near genocide.
-65508	Kharak... destroyed.
-65509	All of us, all that's left, hunted by two alien races...
-65510	We must focus on the matter at hand: elimination of the fleet that destroyed our world.
-65511	Coming up on hyperspace coordinates.
+// 65507	Our first hyperdrive test led to near genocide.
+65507	私達の最初のハイパードライブテストは大量虐殺に近い事を招きました。
+// 65508	Kharak... destroyed.
+65508	カラクは……破壊されてしまいました……
+// 65509	All of us, all that's left, hunted by two alien races...
+65509	私達の全て、残っている全ても、二つの異星種族によって脅かされ……
+// 65510	We must focus on the matter at hand: elimination of the fleet that destroyed our world.
+65510	我々は当面の問題――我々の世界を破壊した艦隊の排除に焦点を絞らなければなりません。
+// 65511	Coming up on hyperspace coordinates.
+65511	ハイパースペース座標に到達します。
 
 rangeend

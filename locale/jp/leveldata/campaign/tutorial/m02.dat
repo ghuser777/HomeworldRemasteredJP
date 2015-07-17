@@ -117,7 +117,7 @@ rangestart 50500 50702
 // 50600	Stand by to begin combat lessons.
 50600	戦闘訓練の開始に備えてください。
 // 50601	A Squadron of Bombers has been constructed, and an unarmed Torpedo Frigate has been provided. Click OK to Continue.#+
-50601	ボマー(Bomber)の編隊が組まれており、また、非武装のトーピードフリゲート(TorpedoFrigate)が用意されています。 [OK]をクリックして続けます。#+
+50601	ボマー(Bomber)の編隊が建造されており、また、非武装のトーピードフリゲート(TorpedoFrigate)が用意されています。 [OK]をクリックして続けます。#+
 // 50610	To attack a target, select the Bomber Squadron and RIGHT-CLICK on the Torpedo Frigate.
 50610	目標を攻撃するために、ボマー(Bomber)隊を選択し、トーピードフリゲート(TorpedoFrigate)を右クリックします。
 // 50619	Order the Bombers to attack the Torpedo Frigate now.

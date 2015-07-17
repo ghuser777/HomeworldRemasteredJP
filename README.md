@@ -135,8 +135,8 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 01 完了
 * ミッション 02 完了
 * ミッション 03 完了
-* ミッション 04 編集中
-* ミッション 05
+* ミッション 04 完了
+* ミッション 05 編集中
 * ミッション 06
 * ミッション 07
 * ミッション 08
@@ -179,20 +179,22 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 
 ## 用語の統一
-
-### ルール
+* おおまかな用語統一案。ただし文脈に沿って、より適切な言い回しがあれば変更可。
 * 外来語の語尾は伸ばす。センサ、コントローラ→センサー、コントローラー。
+* 通常、艦船名・地名・人名など固有名詞は、「サルベージコルベット(SalvageCorvette)」などとカタカナで表記する。
 * 初めて出現する固有名詞や用語は、「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英単語の空白は削除する（Cryo Tray→CryoTray）。空白以降で改行されてしまうことがあるため。
 * また、カタカナ語の意味がわからないような単語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
-* イベント文章内では「サルベージコルベット(SalvageCorvette)」などとカタカナで表記するが。命令一覧の○○strings.datでは艦船名等を英文字のまま記述する（「Salvage Corvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れるため。またビルドマネージャーやリサーチマネージャーの英語艦船名表記と合わせるため。  
-* ○○strings.datで英文字表記する際は「SalvageCorvette」などと空白を削除しなくても良い。○○strings.datは章見出し又は命令一覧のため記述が短いので勝手に改行される心配をする必要がないため。  
+* ただし、○○strings.datでは艦船名等を英文字のまま記述する（「Salvage Corvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れてしまうため。また、ビルドマネージャーやリサーチマネージャーの英文字艦船名表記と合わせるため。
+* ○○strings.datで英文字表記する際は「SalvageCorvette」などと空白を削除せず「Salvage Corvette」と元々の表記で記述する。○○strings.datの内容は、章見出し及び命令一覧のため記述が短かく、勝手に改行される心配をする必要がないため。
+* 「※直訳:」は参考情報。
 
 ### 用語
 * Asteroid	アステロイド/アステロイド帯
 * Build	建造（艦船）、建設（施設）
-* Capture	敵船を「捕獲」。文脈により「手に入れる」
+* Capture	捕獲
 * Construction	建造（艦船）、建設（施設）
 * Collection, Collect	収集。文脈により「集める」
+* Deploy	配備、展開
 * Drone	ドローン
 * Formation	フォーメーション
 * Harvest	収集	※直訳:収穫、採取など
@@ -201,13 +203,14 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Objectives	目的
 * Research	研究
 * Resource	資源
-* Salvage	敵船を「捕獲」。データを「回収」。文脈により「サルベージ」「手に入れる」
+* Salvage	サルベージ、回収
 * Tactics	戦術
 * Target	目標
 * Trial	訓練、テスト
 * Vessel	船、艦船
 
 ### 固有名詞
+なるべく元の発音に近いようにカタカナ化している。  
 * Bentusi	ベントゥージ
 * Guidestone	ガイドストーン
 * Hiigara	ヒガーラ
@@ -220,18 +223,19 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Turanic Raiders	トゥラニックレイダース
 
 ### 艦船・施設
-* Bomber	ボマー	※爆撃機
-* Carrier	キャリアー	※空母
-* Cruiser	クルーザー	※巡洋艦
+* Bomber	ボマー	※直訳:爆撃機
+* Carrier	キャリアー	※直訳:空母
+* Cruiser	クルーザー	※直訳:巡洋艦
 * Cryo Tray	クライオトレイ	※冷凍睡眠トレイ	※直訳:低温/冷凍トレー
-* Destroyer	デストロイヤー	※駆逐艦
+* Destroyer	デストロイヤー	※直訳:駆逐艦
 * Fighter	ファイター。文脈により「戦闘機」
 * Frigate	フリゲート
-* Interceptor	インターセプター	※迎撃機
-* Mothership	マザーシップ	※母船
-* Research Ship	リサーチシップ	※研究船
+* Interceptor	インターセプター	※直訳:迎撃機
+* Mothership	マザーシップ	※直訳:母船
+* Research Ship	リサーチシップ	※直訳:研究船
 * Resource Collecter	リソースコレクター
-* Scout	スカウト	※偵察機
+* Scout	スカウト	※直訳:偵察機
 * Scaffold	スカフォルド	※直訳:足場
-* Torpedo Frigate	トーピードフリゲート	※魚雷/水雷フリゲート艦
+* Strikecraft	ストライククラフト
+* Torpedo Frigate	トーピードフリゲート	※直訳:魚雷/水雷フリゲート艦
 

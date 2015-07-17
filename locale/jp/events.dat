@@ -268,17 +268,17 @@ rangestart 5600 5883
 // 5881	Proximity Sensor complete.
 // 5882	Sensors Array complete.
 // 5883	Cannot complete transfer.
-5600	Frigateを失いました。
-5601	Mobile Refineryが破壊されました。
-5602	Destroyerを失いました。
-5603	Carrierが破壊されました。
-5604	Shipyardが破壊されました。
-5605	Battlecruiserが破壊されました。
-5606	敵Frigateを捕獲しました。
-5607	敵Destroyerを捕獲しました。
-5608	敵Carrierを捕獲しました。
-5609	敵Shipyardを捕獲しました。
-5610	敵Battlecruiserを捕獲しました。
+5600	Frigateを失った
+5601	Mobile Refineryが破壊された
+5602	Destroyerを失った
+5603	Carrierが破壊された
+5604	Shipyardが破壊された
+5605	Battlecruiserが破壊された
+5606	敵Frigateを捕獲した
+5607	敵Destroyerを捕獲した
+5608	敵Carrierを捕獲した
+5609	敵Shipyardを捕獲した
+5610	敵Battlecruiserを捕獲した
 5611	Frigate being boarded.
 5612	Destroyer being boarded.
 5613	Carrier being boarded.
@@ -286,253 +286,253 @@ rangestart 5600 5883
 5615	Mothership being boarded.
 5616	Shipyard being boarded.
 5617	Dreadnaught being boarded.
-5618	Mothershipが攻撃を受けています。
-5619	Mothershipが攻撃を受けています。
-5620	Mothershipが攻撃を受けています。
-5621	Mothershipが攻撃を受けています。
-5622	Mothershipが攻撃を受けています。
-5623	Mothershipが攻撃を受けています。
-5624	Dreadnaughtが攻撃を受けています。
-5625	Dreadnaughtが攻撃を受けています。
-5626	Dreadnaughtが攻撃を受けています。
-5627	Dreadnaughtが攻撃を受けています。
-5628	Dreadnaughtが攻撃を受けています。
-5629	Dreadnaughtが攻撃を受けています。
-5630	Dreadnaughtが破壊されました。
-5631	Dreadnaughtが破壊されました。
-5632	Sajuukが攻撃を受けています。
-5633	Sajuukが攻撃を受けています。
-5634	Sajuukが攻撃を受けています。
-5635	Sajuukが攻撃を受けています。
-5636	Sajuukが攻撃を受けています。
-5637	Sajuukが攻撃を受けています。
-5638	Sajuukが破壊されました。
-5639	Sajuukが破壊されました。
-5640	Shipyardが破壊されました。
-5641	Shipyardが破壊されました。
-5642	Torpedoを発見しました。
-5643	Destroyerが攻撃を受けています。
-5644	Carrierが攻撃を受けています。
-5645	Battlecruiserが攻撃を受けています。
-5646	Shipyardが攻撃を受けています。
-5647	Subsystemを失いました。
-5648	Mothership Fighter Facilityが攻撃を受けています。
-5649	Mothership Fighter Facilityがダメージを受けています。
-5650	Mothership Fighter Facilityを失いました。
-5651	Mothership Corvette Facilityが攻撃を受けています。
-5652	Mothership Corvette Facilityがダメージを受けています。
-5653	Mothership Corvette Facilityを失いました。
-5654	Mothership Frigate Facilityが攻撃を受けています。
-5655	Mothership Frigate Facilityがダメージを受けています。
-5656	Mothership Frigate Facilityを失いました。
-5657	Mothership Advanced Frigate Facilityが攻撃を受けています。
-5658	Mothership Advanced Frigate Facilityがダメージを受けています。
-5659	Mothership Advanced Frigate Facilityを失いました。
-5660	Mothership Platform Facilityが攻撃を受けています。
-5661	Mothership Platform Facilityがダメージを受けています。
-5662	Mothership Platform Facilityを失いました。
-5663	Mothership Capital Ship Facilityが攻撃を受けています。
-5664	Mothership Capital Ship Facilityがダメージを受けています。
-5665	Mothership Capital Ship Facilityを失いました。
-5666	Mothership Advanced Capital Ship Facilityが攻撃を受けています。
-5667	Mothership Advanced Capital Ship Facilityがダメージを受けています。
-5668	Mothership Advanced Capital Ship Facilityを失いました。
-5669	Mothership Research Moduleが攻撃を受けています。
-5670	Mothership Research Moduleがダメージを受けています。
-5671	Mothership Research Moduleを失いました。
-5672	Mothership Sensor Arrayが攻撃を受けています。
-5673	Mothership Sensor Arrayがダメージを受けています。
-5674	Mothership Sensor Arrayを失いました。
-5675	Mothership Cloak Generatorが攻撃を受けています。
-5676	Mothership Cloak Generatorがダメージを受けています。
-5677	Mothership Cloak Generatorを失いました。
-5678	Mothership Hyperspace Moduleが攻撃を受けています。
-5679	Mothership Hyperspace Moduleがダメージを受けています。
-5680	Mothership Hyperspace Moduleを失いました。
-5681	Mothership Fire Control Towerが攻撃を受けています。
-5682	Mothership Fire Control Towerがダメージを受けています。
-5683	Mothership Fire Control Towerを失いました。
-5684	Mothership Enginesが攻撃を受けています。
-5685	Mothership Enginesがダメージを受けています。
-5686	Mothership Enginesは無効です。私達は移動できません。
-5687	Mothership Enginesを修理しました。私達は移動できます。
-5688	Advanced Research Moduleが攻撃を受けています。
-5689	Advanced Research Moduleがダメージを受けています。
-5690	Advanced Research Moduleを失いました。
-5691	Resource Collectorが破壊されました。
-5692	Resource Collectorを失いました。
-5693	Mobile Refineryが攻撃を受けています。
-5694	Mobile Refineryが攻撃を受けています。
-5695	ユニット数上限に到達しました。
-5696	ユニット数上限が増加しました。
-5697	ユニット数上限が減少しました。
-5698	Scout squadron生産完了。
-5699	Interceptor squadron生産完了。
-5700	Bomber squadron生産完了。
-5701	Gunship Corvette squadron生産完了。
-5702	Pulsar Gunship squadron生産完了。
-5703	Minelayer Corvette生産完了。
-5704	Flak Frigate生産完了。
-5705	Torpedo Frigate生産完了。
-5706	Support Frigate生産完了。
-5707	Marine Frigate生産完了。
-5708	Defense Field Frigate生産完了。
-5709	Destroyer生産完了。
-5710	Carrier生産完了。
-5711	Battlecruiser生産完了。
+5618	Mothershipが攻撃を受けている
+5619	Mothershipが攻撃を受けている
+5620	Mothershipが攻撃を受けている
+5621	Mothershipが攻撃を受けている
+5622	Mothershipが攻撃を受けている
+5623	Mothershipが攻撃を受けている
+5624	Dreadnaughtが攻撃を受けている
+5625	Dreadnaughtが攻撃を受けている
+5626	Dreadnaughtが攻撃を受けている
+5627	Dreadnaughtが攻撃を受けている
+5628	Dreadnaughtが攻撃を受けている
+5629	Dreadnaughtが攻撃を受けている
+5630	Dreadnaughtが破壊された
+5631	Dreadnaughtが破壊された
+5632	Sajuukが攻撃を受けている
+5633	Sajuukが攻撃を受けている
+5634	Sajuukが攻撃を受けている
+5635	Sajuukが攻撃を受けている
+5636	Sajuukが攻撃を受けている
+5637	Sajuukが攻撃を受けている
+5638	Sajuukが破壊された
+5639	Sajuukが破壊された
+5640	Shipyardが破壊された
+5641	Shipyardが破壊された
+5642	Torpedoを発見した
+5643	Destroyerが攻撃を受けている
+5644	Carrierが攻撃を受けている
+5645	Battlecruiserが攻撃を受けている
+5646	Shipyardが攻撃を受けている
+5647	Subsystemを失った
+5648	Mothership Fighter Facilityが攻撃を受けている
+5649	Mothership Fighter Facilityがダメージを受けている
+5650	Mothership Fighter Facilityを失った
+5651	Mothership Corvette Facilityが攻撃を受けている
+5652	Mothership Corvette Facilityがダメージを受けている
+5653	Mothership Corvette Facilityを失った
+5654	Mothership Frigate Facilityが攻撃を受けている
+5655	Mothership Frigate Facilityがダメージを受けている
+5656	Mothership Frigate Facilityを失った
+5657	Mothership Advanced Frigate Facilityが攻撃を受けている
+5658	Mothership Advanced Frigate Facilityがダメージを受けている
+5659	Mothership Advanced Frigate Facilityを失った
+5660	Mothership Platform Facilityが攻撃を受けている
+5661	Mothership Platform Facilityがダメージを受けている
+5662	Mothership Platform Facilityを失った
+5663	Mothership Capital Ship Facilityが攻撃を受けている
+5664	Mothership Capital Ship Facilityがダメージを受けている
+5665	Mothership Capital Ship Facilityを失った
+5666	Mothership Advanced Capital Ship Facilityが攻撃を受けている
+5667	Mothership Advanced Capital Ship Facilityがダメージを受けている
+5668	Mothership Advanced Capital Ship Facilityを失った
+5669	Mothership Research Moduleが攻撃を受けている
+5670	Mothership Research Moduleがダメージを受けている
+5671	Mothership Research Moduleを失った
+5672	Mothership Sensor Arrayが攻撃を受けている
+5673	Mothership Sensor Arrayがダメージを受けている
+5674	Mothership Sensor Arrayを失った
+5675	Mothership Cloak Generatorが攻撃を受けている
+5676	Mothership Cloak Generatorがダメージを受けている
+5677	Mothership Cloak Generatorを失った
+5678	Mothership Hyperspace Moduleが攻撃を受けている
+5679	Mothership Hyperspace Moduleがダメージを受けている
+5680	Mothership Hyperspace Moduleを失った
+5681	Mothership Fire Control Towerが攻撃を受けている
+5682	Mothership Fire Control Towerがダメージを受けている
+5683	Mothership Fire Control Towerを失った
+5684	Mothership Enginesが攻撃を受けている
+5685	Mothership Enginesがダメージを受けている
+5686	Mothership Enginesが無効。移動できない
+5687	Mothership Enginesを修理した。移動可能
+5688	Advanced Research Moduleが攻撃を受けている
+5689	Advanced Research Moduleがダメージを受けている
+5690	Advanced Research Moduleを失った
+5691	Resource Collectorが破壊された
+5692	Resource Collectorを失った
+5693	Mobile Refineryが攻撃を受けている
+5694	Mobile Refineryが攻撃を受けている
+5695	ユニット数上限に到達した
+5696	ユニット数上限が増加した
+5697	ユニット数上限が減少した
+5698	Scout squadron生産完了
+5699	Interceptor squadron生産完了
+5700	Bomber squadron生産完了
+5701	Gunship Corvette squadron生産完了
+5702	Pulsar Gunship squadron生産完了
+5703	Minelayer Corvette生産完了
+5704	Flak Frigate生産完了
+5705	Torpedo Frigate生産完了
+5706	Support Frigate生産完了
+5707	Marine Frigate生産完了
+5708	Defense Field Frigate生産完了
+5709	Destroyer生産完了
+5710	Carrier生産完了
+5711	Battlecruiser生産完了
 5712	Shipyard has arrived.
-5713	Gun Platform生産完了。
-5714	Ion Cannon Turret生産完了。
-5715	Resource Collector生産完了。
-5716	Mobile Refinery生産完了。
-5717	Probe生産完了。
-5718	ECM Probe生産完了。
-5719	Proximity Sensor生産完了。
-5720	Mothership Advanced Research Module生産完了。
-5721	Carrier Fighter Facility生産完了。
-5722	Carrier Corvette Facility生産完了。
-5723	Mothership Fighter Facility生産完了。
-5724	Mothership Corvette Facility生産完了。
-5725	Mothership Frigate Facility生産完了。
-5726	Mothership Advanced Frigate Facility生産完了。
-5727	Mothership Platform Facility生産完了。
-5728	Mothership Capital Ship Facility生産完了。
-5729	Mothership Advanced Capital Ship Facility生産完了。
-5730	Mothership Research Module生産完了。
-5731	Mothership Sensors Array生産完了。
-5732	Mothership Cloak Generator生産完了。
-5733	Mothership Hyperspace Module生産完了。
-5734	Mothership Fire Control Tower生産完了。
-5735	新たな建造が利用可能です。
-5736	Strikegroupが攻撃を受けています。
-5737	グループ1が攻撃を受けています。
-5738	グループ2が攻撃を受けています。
-5739	グループ3が攻撃を受けています。
-5740	グループ4が攻撃を受けています。
-5741	グループ5が攻撃を受けています。
-5742	グループ6が攻撃を受けています。
-5743	グループ7が攻撃を受けています。
-5744	グループ8が攻撃を受けています。
-5745	グループ9が攻撃を受けています。
-5746	グループ10が攻撃を受けています。
-5747	グループ1が接敵を報告。
-5748	グループ2が接敵を報告。
-5749	グループ3が接敵を報告。
-5750	グループ4が接敵を報告。
-5751	グループ5が接敵を報告。
-5752	グループ6が接敵を報告。
-5753	グループ7が接敵を報告。
-5754	グループ8が接敵を報告。
-5755	グループ9が接敵を報告。
-5756	グループ10が接敵を報告。
-5757	グループ1が敵を倒しました。
-5758	グループ2が敵を倒しました。
-5759	グループ3が敵を倒しました。
-5760	グループ4が敵を倒しました。
-5761	グループ5が敵を倒しました。
-5762	グループ6が敵を倒しました。
-5763	グループ7が敵を倒しました。
-5764	グループ8が敵を倒しました。
-5765	グループ9が敵を倒しました。
-5766	グループ10が敵を倒しました。
-5767	グループ1が勝利を報告。
-5768	グループ2が勝利を報告。
-5769	グループ3が勝利を報告。
-5770	グループ4が勝利を報告。
-5771	グループ5が勝利を報告。
-5772	グループ6が勝利を報告。
-5773	グループ7が勝利を報告。
-5774	グループ8が勝利を報告。
-5775	グループ9が勝利を報告。
-5776	グループ10が勝利を報告。
-5777	グループ1を失いました。
-5778	グループ2を失いました。
-5779	グループ3を失いました。
-5780	グループ4を失いました。
-5781	グループ5を失いました。
-5782	グループ6を失いました。
-5783	グループ7を失いました。
-5784	グループ8を失いました。
-5785	グループ9を失いました。
-5786	グループ10を失いました。
-5787	グループ1が破壊されました。
-5789	グループ2が破壊されました。
-5790	グループ3が破壊されました。
-5791	グループ4が破壊されました。
-5792	グループ5が破壊されました。
-5793	グループ6が破壊されました。
-5794	グループ7が破壊されました。
-5795	グループ8が破壊されました。
-5796	グループ9が破壊されました。
-5797	グループ10が破壊されました。
-5798	グループ1が敗北しました。
-5799	グループ2が敗北しました。
-5800	グループ3が敗北しました。
-5801	グループ4が敗北しました。
-5802	グループ5が敗北しました。
-5803	グループ6が敗北しました。
-5804	グループ7が敗北しました。
-5805	グループ8が敗北しました。
-5806	グループ9が敗北しました。
-5807	グループ10が敗北しました。
-5808	研究完了。
-5809	新たな研究が可能です。
-5810	資源不足です。研究を一時停止します。
-5811	アップグレード完了。
-5812	新たなアップグレードが可能です。
-5813	資源不足です。アップグレードを一時停止します。
-5814	新たな建造オプションが利用可能です。
-5815	新たなFightersが建造可能です。
-5816	新たなCorvettesが建造可能です。
-5817	新たなFrigatesが建造可能です。
-5818	新たなCapital shipsが建造可能です。
-5819	新たなSupercapital shipsが建造可能です。
-5820	新たなUtility class shipsが建造可能です。
-5821	新たなPlatformsを建設できます。
-5822	Research Module生産完了。
-5823	Advanced Research Module生産完了。
-5824	Probeを展開しました。
-5825	敵Probeを発見しました。
-5826	敵Probeを発見しました。
-5827	ハイパースペースジャンプのための資源が不足しています。ジャンプを中止します。
-5828	ハイパースペースジャンプのための資源が不足しています。ジャンプを中止します。
-5829	ユニット数上限に到達しました。
-5830	ユニット数上限に到達しました。
-5831	ユニット数上限に到達しました。
-5832	ユニット数上限に到達しました。
+5713	Gun Platform生産完了
+5714	Ion Cannon Turret生産完了
+5715	Resource Collector生産完了
+5716	Mobile Refinery生産完了
+5717	Probe生産完了
+5718	ECM Probe生産完了
+5719	Proximity Sensor生産完了
+5720	Mothership Advanced Research Module生産完了
+5721	Carrier Fighter Facility生産完了
+5722	Carrier Corvette Facility生産完了
+5723	Mothership Fighter Facility生産完了
+5724	Mothership Corvette Facility生産完了
+5725	Mothership Frigate Facility生産完了
+5726	Mothership Advanced Frigate Facility生産完了
+5727	Mothership Platform Facility生産完了
+5728	Mothership Capital Ship Facility生産完了
+5729	Mothership Advanced Capital Ship Facility生産完了
+5730	Mothership Research Module生産完了
+5731	Mothership Sensors Array生産完了
+5732	Mothership Cloak Generator生産完了
+5733	Mothership Hyperspace Module生産完了
+5734	Mothership Fire Control Tower生産完了
+5735	新たな建造が利用可能
+5736	Strikegroupが攻撃を受けている
+5737	グループ1が攻撃を受けている
+5738	グループ2が攻撃を受けている
+5739	グループ3が攻撃を受けている
+5740	グループ4が攻撃を受けている
+5741	グループ5が攻撃を受けている
+5742	グループ6が攻撃を受けている
+5743	グループ7が攻撃を受けている
+5744	グループ8が攻撃を受けている
+5745	グループ9が攻撃を受けている
+5746	グループ10が攻撃を受けている
+5747	グループ1が接敵を報告
+5748	グループ2が接敵を報告
+5749	グループ3が接敵を報告
+5750	グループ4が接敵を報告
+5751	グループ5が接敵を報告
+5752	グループ6が接敵を報告
+5753	グループ7が接敵を報告
+5754	グループ8が接敵を報告
+5755	グループ9が接敵を報告
+5756	グループ10が接敵を報告
+5757	グループ1が敵を倒した
+5758	グループ2が敵を倒した
+5759	グループ3が敵を倒した
+5760	グループ4が敵を倒した
+5761	グループ5が敵を倒した
+5762	グループ6が敵を倒した
+5763	グループ7が敵を倒した
+5764	グループ8が敵を倒した
+5765	グループ9が敵を倒した
+5766	グループ10が敵を倒した
+5767	グループ1が勝利を報告
+5768	グループ2が勝利を報告
+5769	グループ3が勝利を報告
+5770	グループ4が勝利を報告
+5771	グループ5が勝利を報告
+5772	グループ6が勝利を報告
+5773	グループ7が勝利を報告
+5774	グループ8が勝利を報告
+5775	グループ9が勝利を報告
+5776	グループ10が勝利を報告
+5777	グループ1を失った
+5778	グループ2を失った
+5779	グループ3を失った
+5780	グループ4を失った
+5781	グループ5を失った
+5782	グループ6を失った
+5783	グループ7を失った
+5784	グループ8を失った
+5785	グループ9を失った
+5786	グループ10を失った
+5787	グループ1が破壊された
+5789	グループ2が破壊された
+5790	グループ3が破壊された
+5791	グループ4が破壊された
+5792	グループ5が破壊された
+5793	グループ6が破壊された
+5794	グループ7が破壊された
+5795	グループ8が破壊された
+5796	グループ9が破壊された
+5797	グループ10が破壊された
+5798	グループ1が敗北した
+5799	グループ2が敗北した
+5800	グループ3が敗北した
+5801	グループ4が敗北した
+5802	グループ5が敗北した
+5803	グループ6が敗北した
+5804	グループ7が敗北した
+5805	グループ8が敗北した
+5806	グループ9が敗北した
+5807	グループ10が敗北した
+5808	研究完了
+5809	新たな研究が利用可能
+5810	資源不足。研究を一時停止
+5811	アップグレード完了
+5812	新たなアップグレードが可能
+5813	資源不足。アップグレードを一時停止
+5814	新たな建造オプションが利用可能
+5815	新たなFightersが建造可能
+5816	新たなCorvettesが建造可能
+5817	新たなFrigatesが建造可能
+5818	新たなCapital shipsが建造可能
+5819	新たなSupercapital shipsが建造可能
+5820	新たなUtility class shipsが建造可能
+5821	新たなPlatformsが建設可能
+5822	Research Module生産完了
+5823	Advanced Research Module生産完了
+5824	Probeを配備した
+5825	敵Probeを発見した
+5826	敵Probeを発見した
+5827	ハイパースペースジャンプのための資源不足。ジャンプを中止
+5828	ハイパースペースジャンプのための資源不足。ジャンプを中止
+5829	ユニット数上限に到達した
+5830	ユニット数上限に到達した
+5831	ユニット数上限に到達した
+5832	ユニット数上限に到達した
 5850	資源枯渇
 5851	ミッション失敗
 5852	ミッション成功
-5853	Heavy Cruiserが破壊されました。
-5854	Heavy Cruiserを捕獲しました。
+5853	Heavy Cruiserが破壊された
+5854	Heavy Cruiserを捕獲した
 5855	Heavy Cruiser being boarded.
-5856	Heavy Cruiserが攻撃を受けています。
-5857	Resource Controllerが破壊されました。
-5858	Resource Controllerを捕獲しました。
+5856	Heavy Cruiserが攻撃を受けている
+5857	Resource Controllerが破壊された
+5858	Resource Controllerを捕獲した
 5859	Resource Controller being boarded.
-5860	Resource Controllerが攻撃を受けています。
-5861	Scout生産完了。
-5862	Interceptor生産完了。
-5863	Assault Bomber生産完了。
-5864	Defender生産完了。
-5865	Cloaked Fighter生産完了。
-5866	Defense Fighter生産完了。
-5867	Light Corvette生産完了。
-5868	Heavy Corvette生産完了。
-5869	Multi-Gun Corvette生産完了。
-5870	Repair Corvette生産完了。
-5871	Salvage Corvette生産完了。
-5872	Support Frigate生産完了。
-5873	Assault Frigate生産完了。
-5874	Ion Cannon Frigate生産完了。
-5875	Dr1 Frigate生産完了。
-5876	Defense Field Frigate生産完了。
-5877	Heavy Cruiser生産完了。
-5878	Resource Controller生産完了。
-5879	Cloak Generator生産完了。
-5880	GravWell Generator生産完了。
-5881	Proximity Sensor生産完了。
-5882	Sensors Array生産完了。
-5883	転送を完了できません。
+5860	Resource Controllerが攻撃を受けている
+5861	Scout生産完了
+5862	Interceptor生産完了
+5863	Assault Bomber生産完了
+5864	Defender生産完了
+5865	Cloaked Fighter生産完了
+5866	Defense Fighter生産完了
+5867	Light Corvette生産完了
+5868	Heavy Corvette生産完了
+5869	Multi-Gun Corvette生産完了
+5870	Repair Corvette生産完了
+5871	Salvage Corvette生産完了
+5872	Support Frigate生産完了
+5873	Assault Frigate生産完了
+5874	Ion Cannon Frigate生産完了
+5875	Dr1 Frigate生産完了
+5876	Defense Field Frigate生産完了
+5877	Heavy Cruiser生産完了
+5878	Resource Controller生産完了
+5879	Cloak Generator生産完了
+5880	GravWell Generator生産完了
+5881	Proximity Sensor生産完了
+5882	Sensors Array生産完了
+5883	転送を完了できない
 
 rangeend

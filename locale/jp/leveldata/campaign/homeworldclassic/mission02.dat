@@ -13,7 +13,7 @@ rangestart 60401 60813
 // 60405	Send a probe to make contact and re-establish communications.
 60405	通信を再確立し交信するために、プローブ(Probe)を送って下さい。
 // 60406	The Khar-Selim has been destroyed.  Heavy weapon damage is visible on the remaining fragment.  A Salvage Corvette must be sent to retrieve the mission data recorder.
-60406	カー・セリム(Khar-Selim)は破壊されました。 残された残骸から重火器によるダメージであることは明らかです。 ミッションデータレコーダを手に入れるためにサルベージコルベット(SalvageCorvette)を送られなければなりません。
+60406	カー・セリム(Khar-Selim)は破壊されました。 残された残骸から重火器によるダメージであることは明らかです。 ミッションデータレコーダーを回収するためにサルベージコルベット(SalvageCorvette)を送らなければなりません。
 // 60407	They're attacking?!. . . The Mothership is under attack!!
 60407	彼らは襲ってきている！？ マザーシップは攻撃を受けています！！
 // 60408	Engage incoming units.  The Mothership must be defended.
@@ -43,7 +43,7 @@ rangestart 60401 60813
 // 60420	To protect against penetration of the Kharak system, destroy the attacking force completely.
 60420	カラク(Kharak)星系への侵攻を防ぐため、攻撃的な戦力を完全に破壊して下さい。
 // 60421	Enemy units are retreating.  Objectives complete.  Stand by for immediate return to Kharak.
-60421	敵艦船が撤退します。 目的を完了しました。 カラク(Kharak)への即時帰還に備えてください。
+60421	敵艦船が退却していきます。 目的を完了しました。 カラク(Kharak)への即時帰還に備えてください。
 // 60422	Unidentified Hostiles
 60422	未確認敵対船
 // 60423	Turanic Raiders
@@ -55,15 +55,15 @@ rangestart 60401 60813
 // 60757	To protect against penetration of the Kharak system, destroy the attacking force completely.
 60757	カラク(Kharak)星系への侵攻を防ぐため、攻撃的な戦力を完全に破壊して下さい。
 // 60807	The Khar-Selim has activated its automated beacon.  Construct and deploy a probe to investigate the status of the Khar-Selim.
-60807	カー・セリム(Khar-Selim)は自動ビーコンを発信しています。 カー・セリムの状況を調査するためにプローブ(Probe)を生産し送り出して下さい。
+60807	カー・セリム(Khar-Selim)は自動ビーコンを発信しています。 カー・セリムの状況を調査するためにプローブ(Probe)を建造し展開して下さい。
 // 60808	We need to find out what happened to the Khar-Selim.  Send a Salvage Corvette to the wreckage to retrieve its mission data recorder.
-60808	我々は、カー・セリム(Khar-Selim)に何が起こったかを知る必要があります。 ミッションデータレコーダーを入手するために、残骸にサルベージコルベット(SalvageCorvette)を送って下さい。。
+60808	我々は、カー・セリム(Khar-Selim)に何が起こったかを知る必要があります。 ミッションデータレコーダーを回収するために、残骸にサルベージコルベット(SalvageCorvette)を送って下さい。。
 // 60809	Unknown hostile vessels are attacking the Mothership!  Deploy strikecraft to protect the Mothership from these assailants.
 60809	未知の敵対船がマザーシップを攻撃しています！ これらの攻撃者からマザーシップを守るための攻撃部隊を展開して下さい。
 // 60810	Unknown hostiles are on an intercept course with our Salvage Corvette.  Ensure the delivery of the data recorder to the Mothership.
 60810	未知の敵対船は、我々のサルベージコルベット(SalvageCorvette)を補足できるコースにいます。 マザーシップへのデータレコーダー輸送を確実にして下さい。
 // 60811	Sensors show a large force of hostiles on an attack vector.  We must deploy a sizable defense force to engage this threat.
-60811	センサーが、攻撃姿勢とった敵対する大きな戦力を示しています。 我々は、この脅威に対応できるかなりの防衛部隊を展開する必要があります。
+60811	センサーが、攻撃姿勢とった敵対する大きな戦力を示しています。 我々は、この脅威に対応できるかなりの防衛部隊を配備する必要があります。
 // 60812	We detect a large power source at the origin of the enemy fleet.  Send forces or a probe to investigate this anomaly.
 60812	我々は、敵艦隊の出現方向に大きな動力源を検出しました。 この異常を調査するための部隊またはプローブ(Probe)を送り出して下さい。
 // 60813	The enemy carrier is constantly reinforcing the attack.  Destroy the carrier to put an end to the threat.
