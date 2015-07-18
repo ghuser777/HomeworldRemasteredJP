@@ -31,21 +31,21 @@ rangestart 51000 52071
 // 51010	Select the three squadrons of Interceptors by dragging a bandbox around them.
 51010	三つのインターセプター(Interceptor)隊の周りをドラッグして範囲選択します。
 // 51011	Assign the Interceptors to Control Group 1 by selecting the ships and pressing CTRL+1.
-51011	船を選択してから[CTRL]+[1]を押して、グループ1にインターセプター(Interceptor)隊を割り当てて下さい。
+51011	船を選択してから[CTRL]+[1]を押して、グループ1にインターセプター(Interceptor)隊を割り当ててください。
 // 51012	Assign the Bombers to Control Group 2 by selecting the ships and pressing CTRL+2.
-51012	船を選択してから[CTRL]+[2]を押して、グループ2にボマー(Bomber)隊を割り当てて下さい。
+51012	船を選択してから[CTRL]+[2]を押して、グループ2にボマー(Bomber)隊を割り当ててください。
 // 51013	Select available Fighters and issue an attack order on the unarmed  Vaygr Frigate.
-51013	利用可能な戦闘機を選択し、武装解除したヴェイガー(Vaygr)のフリゲート艦に攻撃命令を出して下さい。
+51013	利用可能な戦闘機を選択し、武装解除したヴェイガー(Vaygr)のフリゲート艦に攻撃命令を出してください。
 // 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 // 51015	Cloak the Carrier by clicking on the flashing Cloak button on the Taskbar, or by SHIFT-RIGHT-CLICKING on the Carrier and choosing the Cloak special ability.
-51015	タスクバーの点滅する隠蔽(CLOAK)ボタンをクリックするか、キャリアー(Carrier)上で[SHIFT]+右クリックして「隠蔽(Cloak)」スペシャルアビリティを選択し、キャリアー(Carrier)を隠蔽(Cloak)して下さい。
+51015	タスクバーの点滅する隠蔽(CLOAK)ボタンをクリックするか、キャリアー(Carrier)上で[SHIFT]+右クリックして「隠蔽(Cloak)」スペシャルアビリティを選択し、キャリアー(Carrier)を隠蔽(Cloak)してください。
 // 51019	Select the Marine frigate provided, and CAPTURE the enemy frigate by RIGHT-CLICKING on it
-51019	用意されたマリンフリゲート(MarineFrigate)を選択し、敵のフリゲート艦を右クリックして捕獲(Capture)して下さい。
+51019	用意されたマリンフリゲート(MarineFrigate)を選択し、敵のフリゲート艦を右クリックして捕獲(Capture)してください。
 // 51022	If you wish to exit the tutorial, press F10 to bring up the in-game menu.
 51022	チュートリアルを終了したい場合は、[F10]キーを押してゲーム内のメニューを表示します。　　
 // 51025	Using drag-selecting or the SHIFT key, select all the indicated ships.
-51025	ドラッグ選択、または[SHIFT]キーを使用して、指定されたすべての船を選択して下さい。
+51025	ドラッグ選択、または[SHIFT]キーを使用して、指定されたすべての船を選択してください。
 // 51026	Assign the ships you have selected in the previous step to a strikegroup. Strikegroup formation hotkeys are by default F5-F7. You may also use the strikegroup rollout located on the taskbar.
 51026	前のステップで選択した船をストライクグループ(Strikegroups)に割り当てます。ストライクグループフォーメーション用ホットキーは標準で[F5]-[F7]です。また、タスクバー上にあるストライクグループ用アイコンを使用してもよいです。
 // 51005	Enemy Frigate
@@ -61,7 +61,7 @@ rangestart 51000 52071
 // 51032	First, select the 3 squadrons of Interceptors.
 51032	最初に、三つのインターセプター(Interceptor)隊を選択します。
 // 51040	Now press the CTRL key and the NUMBER ONE at the same time to assign the Interceptors to Group 1.
-51040	[CTRL]キーと[1]を同時に押して、グループ1にインターセプター(Interceptor)隊を割り当てて下さい。
+51040	[CTRL]キーと[1]を同時に押して、グループ1にインターセプター(Interceptor)隊を割り当ててください。
 // 51050	You have now assigned that group to the number 1.
 51050	これで、ナンバー1にグループが割り当てられました。
 // 51051	From now on, pressing the NUMBER 1 key, or clicking on the ONE icon on the task bar, will select Group One. Click OK to Continue.#+
@@ -71,9 +71,9 @@ rangestart 51000 52071
 // 51055	Up to 10 Groups can be assigned, each corresponding to one of the Number Keys.#+
 51055	最大10グループまで、それぞれの数字キーに割り当てることができます。#+
 // 51054	Now assign the newly arrived Bombers to Group 2.
-51054	グループ2に、新たに到着したボマー(Bomber)隊を割り当てて下さい。
+51054	グループ2に、新たに到着したボマー(Bomber)隊を割り当ててください。
 // 51060	Excellent.  Now order Group 2 to attack the Enemy Frigate that has just hyperspaced in.
-51060	エクセレント！ たった今ハイパースペース(Hyperspace)してきた敵のフリゲート艦に攻撃するよう、グループ2に命令して下さい。
+51060	エクセレント！ たった今ハイパースペース(Hyperspace)してきた敵のフリゲート艦に攻撃するよう、グループ2に命令してください。
 // 51070	Well done.
 51070	よくできましたね。
 // 51090	The next lesson covers Special Actions.
@@ -95,7 +95,7 @@ rangestart 51000 52071
 // 51111	To access the SHIFT MENU, HOLD DOWN SHIFT, and RIGHT-CLICK on a ship or empty space.
 51111	[SHIFT]メニューにアクセスするには、[SHIFT]キーを押しながら、船または何もない領域を右クリックします。
 // 51112	Using either the Special Actions commands icons menu on the taskbar, or the SHIFT MENU, order the Carrier to de-cloak.
-51112	タスクバーのアイコンメニューか、または[SHIFT]メニューからスペシャルアクションを実行して、キャリアー(Carrier)に隠蔽解除を命じて下さい。
+51112	タスクバーのアイコンメニューか、または[SHIFT]メニューからスペシャルアクションを実行して、キャリアー(Carrier)に隠蔽解除を命じてください。
 // 51120	Unlike Cloak, some Special Actions require a target.
 51120	隠蔽(CLOAK)とは違い、いくつかのスペシャルアクションはターゲットを必要とします。
 // 51121	This Marine Frigate is one such example.
@@ -133,13 +133,13 @@ rangestart 51000 52071
 // 52010	Strikegroups are tactical formations of ships designed to support each other in battle. Click OK to Continue.  #+
 52010	ストライクグループ(Strikegroups)は、戦闘でお互いをサポートするように設計された船の戦術フォーメーションです。 [OK]をクリックして続けます。#+
 // 52011	Drag select all of these ships.
-52011	これらの船すべてをドラッグ選択して下さい。
+52011	これらの船すべてをドラッグ選択してください。
 // 52013	Now, select a Strikegroup formation from the STRIKEGROUP Roll Out on the task bar.
-52013	タスクバーのストライクグループ(Strikegroups)用アイコンから、ストライクグループフォーメーションを選択して下さい。
+52013	タスクバーのストライクグループ(Strikegroups)用アイコンから、ストライクグループフォーメーションを選択してください。
 // 52012	Well done.  Strikegroups are more efficient than the collection of their parts.
 52012	よくできました。 ストライクグループ(Strikegroups)は、バラバラの集まりより効率的です。
 // 52014	However, you will notice that a Strikegroup will only travel as quickly as its slowest unit.
-52014	ただし、ストライクグループ(Strikegroups)は、一番遅いユニットの速度に合わせて移動することに注意して下さい。
+52014	ただし、ストライクグループ(Strikegroups)は、一番遅いユニットの速度に合わせて移動することに注意してください。
 // 52015	Therefore a Strikegroup is a tradeoff between speed and efficiency. #+
 52015	したがってストライクグループ(Strikegroups)は、スピードと効率の間のトレードオフがあります。#+
 // 52019	You can set Tactics for an entire Strikegroup, or for elements individually. Click OK to Continue. #+
@@ -147,7 +147,7 @@ rangestart 51000 52071
 // 52016	You now have full understanding of all the commands available in Homeworld.
 52016	You now have full understanding of all the commands available in Homeworld.
 // 52017	If you wish to practice these skills, you will be confronted by ever increasing Vaygr strike forces. #+
-52017	これまでのスキルを練習したいのであれば、どんどん増援されるヴェイガー(Vaygr)攻撃艦隊に立ち向かって下さい。#+
+52017	これまでのスキルを練習したいのであれば、どんどん増援されるヴェイガー(Vaygr)攻撃艦隊に立ち向かってください。#+
 // 52018	If you wish to play the full game, press esc to return to the menu.
 52018	If you wish to play the full game, press esc to return to the menu.
 // 51053	Good Job.
@@ -155,9 +155,9 @@ rangestart 51000 52071
 // 52030	Waypoints allow you to move your ships along specified paths. This can be used to move around asteroid fields or to set up sneak attacks. Click OK to Continue.#+
 52030	中間点(Waypoint)は、指定された経路に沿って船を移動することができます。これは、アステロイド帯を迂回したり、スニークアタック(SneakAttacks)を仕掛けるために利用できます。 [OK]をクリックして続けます。#+
 // 52031	Click on the WAYPOINT ICON (hotkey: W) to enter Waypoint mode.
-52031	中間点(Waypoint)モードを開始するには、中間点(Waypoint)アイコン(ホットキー:[W])をクリックして下さい。
+52031	中間点(Waypoint)モードを開始するには、中間点(Waypoint)アイコン(ホットキー:[W])をクリックしてください。
 // 52032	While in this mode, you can queue a series of move commands. Your ships will move to each destination point in sequence. Practice this now.
-52032	このモード中は、一連の移動指示をキューに入れることができます。あなたの船は、それぞれの目的地を順番に経由します。早速試して下さい。
+52032	このモード中は、一連の移動指示をキューに入れることができます。あなたの船は、それぞれの目的地を順番に経由します。早速試してください。
 // 52033	To end the waypoint, simply click on the Waypoint icon, the hotkey (W) or press ESC.#+
 52033	中間点(Waypoint)を終了するには、中間点(Waypoint)アイコンをクリックするか、ホットキー([W])または[ESC]キーを押します。#+
 // 52034	Waypoints can also be used to issue common commands such as Attack or Harvest.

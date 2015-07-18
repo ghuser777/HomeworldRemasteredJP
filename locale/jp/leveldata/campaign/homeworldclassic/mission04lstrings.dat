@@ -11,7 +11,7 @@ rangestart 61200 61213
 // 61204	Set up a collection operation.
 61204	収集作業を準備する
 // 61205	Move your resource controller as close to heavy resource areas as possible.  This will reduce your resource collectors dropoff time and increase your resource collection efficiency.
-61205	リソースコントローラーをできるだけ多数の資源があるエリアに近づけるように移動して下さい。 これはリソースコレクターの作業時間消費を短縮し、資源収集効率を向上させます。
+61205	リソースコントローラーをできるだけ多数の資源があるエリアに近づけるように移動してください。 これはリソースコレクターの作業時間消費を短縮し、資源収集効率を向上させます。
 // 61206	Welcome.
 61206	Welcome.
 // 61207	Thank you.  Enjoy your purchase.
@@ -27,6 +27,6 @@ rangestart 61200 61213
 // 61212	                HYPERSPACE
 61212	                HYPERSPACE
 // 61213	Destroy Retreating Turanic Raider Carrier
-61213	退却するTuranic Raider Carrierを破壊
+61213	退却するTuranicRaiderCarrierを破壊
 
 rangeend

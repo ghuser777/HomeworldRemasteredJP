@@ -2,12 +2,19 @@ filerange 61264 61270
 rangestart 61264 61270
 
 // Subtitles
+// 61264	05 - Great Wastelands
 61264	05 - Great Wastelands
-61265	GREAT WASTELANDS
-61266	Investigate the asteroid belt
-61267	Eradicate all enemy ships
-61268	Destroy enemy resource collector
-61269	Research Defender sub-systems
+// 61265	GREAT WASTELANDS
+61265	＜大いなる荒野(GREAT WASTELANDS)＞
+// 61266	Investigate the asteroid belt
+61266	アステロイド地帯を調査する
+// 61267	Eradicate all enemy ships
+61267	全ての敵船を殲滅する
+// 61268	Destroy enemy resource collector
+61268	敵ResourceCollectorを破壊する
+// 61269	Research Defender sub-systems
+61269	DefenderSub-systemsを研究する
+// 61270	                      HYPERSPACE
 61270	                      HYPERSPACE
 
 rangeend

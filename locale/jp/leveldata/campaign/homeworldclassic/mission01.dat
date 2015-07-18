@@ -5,25 +5,25 @@ rangestart 60376 60806
 // 60376	Fleet Intelligence going online.  Our task is to analyze all sensor data and generate mission objectives.  Before the hyperdrive test, several trials must be completed.
 60376	艦隊インテリジェンスがオンラインになりました。我々の役割は全センサーからのデータを分析しミッションの目的(Objectives)を生み出すことです。ハイパードライブテストの前に、いくつかのテストを終えなければなりません。
 // 60377	Test construction by building the primary research ship.
-60377	第一のリサーチシップ(ResearchShip)を建造することで、建造テストを行って下さい。
+60377	第一のリサーチシップ(ResearchShip)を建造することで、建造テストを行ってください。
 // 60378	Test resource processing by harvesting the asteroids provided nearby.
-60378	近くに提供されたアステロイド帯を収集(Harvest)することで、資源(Resource)処理のテストを行って下さい。
+60378	近くに提供されたアステロイド帯を収集(Harvest)することで、資源(Resource)処理のテストを行ってください。
 // 60379	Stand by to begin combat trials.  First, we will be monitoring formation performance.
-60379	戦闘テストに備えて下さい。始めに、我々はフォーメーション(Formation)による性能をモニタリングします。
+60379	戦闘テストに備えてください。始めに、我々はフォーメーション(Formation)による性能をモニタリングします。
 // 60380	Target Drones have been provided here.  Assign a formation to your Fighters and destroy the Drones.
-60380	目標のドローンをここに用意しました。戦闘機隊にフォーメーションを割り当て、ドローンを破壊して下さい。
+60380	目標のドローンをここに用意しました。戦闘機隊にフォーメーションを割り当て、ドローンを破壊してください。
 // 60381	Target Drones destroyed.  Replacement Drones are being sent to the same location.  Completion of this trial requires the use of a formation.  Begin again.
 60381	目標のドローンを破壊しました。交換用ドローンは同じ場所に送られます。このテストの完了には、フォーメーション(Formation)を使用する必要があります。再開します。
 // 60382	Formation trial complete.  Flight analysis shows a twenty-two percent increase in combat performance.
 60382	フォーメーションのテストが完了しました。戦闘分析は戦闘性能が22%向上することを示しています。
 // 60383	The next trial will test the effectiveness of tactics.  Stand by to begin tactics trial.  Use Aggressive or Evasive tactics, and engage the Target Drones here.
-60383	次のテストは戦術(Tactics)の有効性を試すことになります。戦術テストに備えて下さい。攻撃型(Aggressive)または回避型(Evasive)の戦術を使い、ここで目標のドローンと交戦して下さい。
+60383	次のテストは戦術(Tactics)の有効性を試すことになります。戦術テストに備えてください。攻撃型(Aggressive)または回避型(Evasive)の戦術を使い、ここで目標のドローンと交戦してください。
 // 60384	Target Drones destroyed.  Replacement Drones are being sent to the same location.  Completion of this trial requires the use of tactics.  Begin again.
 60384	目標のドローンを破壊しました。交換用ドローンは同じ場所に送られます。このテストの完了には、戦術(Tactics)を使用する必要があります。再開します。
 // 60385	Tactics trial complete.
 60385	戦術テストは完了しました。
 // 60386	The next trial will test the performance of the Salvage Corvette.  Build one and capture the Target Drone here.
-60386	次のテストはSalvageCorvetteの性能を試すことになります。1機を建造し、ここで目標のドローンを捕獲(Capture)して下さい。
+60386	次のテストはSalvageCorvetteの性能を試すことになります。1機を建造し、ここで目標のドローンを捕獲(Capture)してください。
 // 60387	Target Drone destroyed.  A replacement Drone is being sent to the same location.  Completion of this trial requires a successful capture of the drone.  Begin again.
 60387	目標のドローンを破壊しました。交換用ドローンは同じ場所に送られます。このテストの完了には、ドローンの捕獲に成功する必要があります。再開します。
 // 60388	Interceptors are ready for construction.
@@ -37,25 +37,25 @@ rangestart 60376 60806
 // 60392	Stand by for Hyperdrive test.  Internal pressure doors will be sealed in 2 minutes.  Abort systems standing by.
 60392	ハイパードライブテストに備えてください。内部の圧力ドアは2分内に閉鎖します。異常検知システム準備完了。
 // 60393	Hyperspace module fully charged.  I am ready to initiate quantum wave generation on your mark.  Good luck, everyone.
-60393	ハイパースペースモジュールはフルチャージされました。貴官が指示した座標への量子波生成を始める準備が出来ています。全乗員の幸運を祈ります。
+60393	ハイパースペースモジュールはフルチャージされました。貴官が指示した座標への量子波生成を始める準備ができています。全乗員の幸運を祈ります。
 // 60394	All sections have reported in.  We are clear to proceed.  Trigger the hyperspace drive at your discretion.
-60394	全部門の報告が入りました。続行に問題はありません。貴官の裁量によりハイパースペースドライブを指示して下さい。
+60394	全部門の報告が入りました。続行に問題はありません。貴官の裁量によりハイパースペースドライブを指示してください。
 // 60395	Combat Training
 60395	戦闘訓練
 // 60734	The primary Research Ship has been constructed and the Research Division is online.  Begin Fighter Chassis research immediately.
-60734	第一のResearchShipが建造され、研究部門がオンラインになりました。FighterChassisの研究をすぐに始めて下さい。
+60734	第一のResearchShipが建造され、研究部門がオンラインになりました。FighterChassisの研究をすぐに始めてください。
 // 60800	We must test the Mothership's resource processing capability.  Collect useable hard materials from the remaining asteroids in Kharak's orbit.
-60800	我々はマザーシップの資源処理能力をテストする必要があります。Kharak(カラク)軌道内の残りのアステロイドから利用可能な硬質材料を収集して下さい。
+60800	我々はマザーシップの資源処理能力をテストする必要があります。Kharak(カラーク)軌道内の残りのアステロイドから利用可能な硬質材料を収集してください。
 // 60801	Propulsion and weapons research is too hazardous to conduct within the Mothership.  Construct a research vessel to safely house these experiments.
-60801	推進装置や武器の研究をマザーシップ内で行うのはあまりにも危険です。これらの実験を安全に行えるResearchShipを建造して下さい。
+60801	推進装置や武器の研究をマザーシップ内で行うのはあまりにも危険です。これらの実験を安全に行えるResearchShipを建造してください。
 // 60802	Though unlikely, we must prepare for the possibility of encountering hostile alien craft.  We should finalize our plans for a proper zero-g fighter.
 60802	とはいえ我々は敵対的なエイリアンクラフトに遭遇する可能性のために準備する必要があります。我々は適切な無重力戦闘機のために我々の計画を最終決定する必要があります。
 // 60803	We need to test Fleet Command's command and control interface.  Assign strikecraft a formation and send them to destroy the assigned drones.
-60803	我々は艦隊司令部の命令および制御インターフェイスをテストする必要があります。ストライククラフトにフォーメーションを使用し、割り当てられたドローンを破壊するために向かわせて下さい。
+60803	我々は艦隊司令部の命令および制御インターフェイスをテストする必要があります。ストライククラフトにフォーメーションを使用し、割り当てられたドローンを破壊するために向かわせてください。
 // 60804	We must drill our pilots' handling of tactical adaptibility.  Assign them a new tactic and destroy the remaining drones.
-60804	我々は、パイロット達が戦術に適応できるよう教えこむ必要があります。彼らに新しい戦術(Tactics)を割り当て、残りのドローンを破壊して下さい。
+60804	我々は、パイロット達が戦術に適応できるよう教えこむ必要があります。彼らに新しい戦術(Tactics)を割り当て、残りのドローンを破壊してください。
 // 60805	It is time to test the hard asset retrieval process of the Salvage Corvette.  Capture the drone and return it to the Mothership for processing.
-60805	今回はSalvageCorvetteで船体を捕獲するためのテストです。ドローンを捕獲(Capture)し、処理のためにマザーシップに戻って下さい。
+60805	今回はSalvageCorvetteで船体を捕獲するためのテストです。ドローンを捕獲(Capture)し、処理のためにマザーシップに戻ってください。
 // 60806	We must test the combat effectiveness of our new fighter class, the Interceptor.  Use Interceptors to destroy the advanced combat drones.
 60806	We must test the combat effectiveness of our new fighter class, the Interceptor.  Use Interceptors to destroy the advanced combat drones.
 // 60396	Formation Trial Target Drones

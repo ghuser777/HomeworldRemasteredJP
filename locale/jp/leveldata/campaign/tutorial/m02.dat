@@ -35,11 +35,11 @@ rangestart 50500 50702
 // 50516	To activate the Research Menu, either click on the Research icon in the taskbar, or press the Research key (default key: R).
 50516	To activate the Research Menu, either click on the Research icon in the taskbar, or press the Research key (default key: R).
 // 50517	Click on the Scout Sensors research option in the "Technologies" section of the Research Menu to initiate research.
-50517	研究を開始するために、研究(RESEARCH)メニュー技術セクションの、スカウトセンサー研究オプションをクリックして下さい。
+50517	研究を開始するために、研究(RESEARCH)メニュー技術セクションの、スカウトセンサー研究オプションをクリックしてください。
 // 50518	Select the Bombers option from the Fighter section of the Build Menu.
 50518	Select the Bombers option from the Fighter section of the Build Menu.
 // 50519	Order your Fighter squadrons to attack the disarmed Drone frigate.
-50519	武装解除ドローンのフリゲート艦を攻撃するために、戦闘機隊に攻撃を指示して下さい。
+50519	武装解除ドローンのフリゲート艦を攻撃するために、戦闘機隊に攻撃を指示してください。
 // 50523	The Build Manager can be opened by clicking on the flashing BUILD icon on the taskbar. The default BUILD key is B.
 50523	タスクバー上で点滅している建造(BUILD)ボタンをクリックしてビルドマネージャー(BuildManager)を開くことができます。標準のビルドキーは[B]です。
 // 50524	While holding down CTRL, DRAG a BANDBOX around both targets to initiate an attack.
@@ -63,15 +63,15 @@ rangestart 50500 50702
 // 50540	Production ships, like this Carrier, can build ships.
 50540	生産船について、このキャリアー(Carrier)などで船を建造することができます。
 // 50542	Click the BUILD BUTTON (B) to open the BUILD MANAGER.
-50542	建造(BUILD)ボタン([B])をクリックして、ビルドマネージャー(BuildManager)を開いて下さい。
+50542	建造(BUILD)ボタン([B])をクリックして、ビルドマネージャー(BuildManager)を開いてください。
 // 50543	The Build Manager is organized according to Production Facilities.
 50543	The Build Manager is organized according to Production Facilities.
 // 50544	The currently displayed menu shows the available Fighter-Class ships that can be built. Click OK to Continue.#+
 50544	現在表示されているメニューが、生産できる利用可能なファイタークラスの船を表しています。 [OK]をクリックして続けます。#+
 // 50541	Click on the Scout icon to begin construction of a Scout squadron
-50541	スカウト(Scout)アイコンをクリックして、スカウト(Scout)隊の建造を開始して下さい。
+50541	スカウト(Scout)アイコンをクリックして、スカウト(Scout)隊の建造を開始してください。
 // 50546	Notice how the progress bar increases, indicating the status of the current build task.
-50546	現在の建造(BUILD)タスク状況を示すプログレスバーが増加していることに注意して下さい。
+50546	現在の建造(BUILD)タスク状況を示すプログレスバーが増加していることに注意してください。
 // 50550	In order to perform upgrades to existing systems or to acquire new technology, a Research Module must be built. Click OK to Continue.#+
 50550	In order to perform upgrades to existing systems or to acquire new technology, a Research Module must be built. Click OK to Continue.#+
 // 50555	^__^
@@ -101,13 +101,13 @@ rangestart 50500 50702
 // 50570	New technologies and build options are now available. Click OK to Continue.#+
 50570	New technologies and build options are now available. Click OK to Continue.#+
 // 50571	Click on the RESEARCH BUTTON, or the Research Hotkey (R) to activate the Research Manager.
-50571	研究(RESERCH)ボタンをクリックするか、リサーチホットキー([R])で、リサーチマネージャー(ResearchManager)を表示して下さい。
+50571	研究(RESERCH)ボタンをクリックするか、リサーチホットキー([R])で、リサーチマネージャー(ResearchManager)を表示してください。
 // 50577	This is the Research Manager.
 50577	これはリサーチマネージャー(ResearchManager)です。
 // 50580	Notice that "Enhanced Scout Sensors" technology is available for research. This improves Scout sensors. Click OK to Continue. #+
-50580	「Enhanced Scout Sensors」が 研究(RESERCH)可能になったことに注意して下さい。 これはスカウト(Scout)のセンサー能力を向上させます。 [OK]をクリックして続けます。#+
+50580	「Enhanced Scout Sensors」が 研究(RESERCH)可能になったことに注意してください。 これはスカウト(Scout)のセンサー能力を向上させます。 [OK]をクリックして続けます。#+
 // 50581	Click on "Enhanced Scout Sensors" to research Enhanced Scout Sensors.
-50581	「Enhanced Scout Sensors」をクリックして、 研究(RESERCH)を開始して下さい。
+50581	「Enhanced Scout Sensors」をクリックして、 研究(RESERCH)を開始してください。
 // 50590	Each Research Item will unlock new build options or enhance your ships.
 50590	個々の研究(RESERCH)項目は、新しい建造オプションをアンロックしたり、船の能力を向上させるものです。
 // 50591	Deciding what to research or upgrade is critical for victory.
@@ -121,13 +121,13 @@ rangestart 50500 50702
 // 50610	To attack a target, select the Bomber Squadron and RIGHT-CLICK on the Torpedo Frigate.
 50610	目標を攻撃するために、ボマー(Bomber)隊を選択し、トーピードフリゲート(TorpedoFrigate)を右クリックします。
 // 50619	Order the Bombers to attack the Torpedo Frigate now.
-50619	ボマー(Bomber)隊に、トーピードフリゲート(TorpedoFrigate)への攻撃を指示して下さい。
+50619	ボマー(Bomber)隊に、トーピードフリゲート(TorpedoFrigate)への攻撃を指示してください。
 // 50612	This is the basic method used for issuing an attack.
 50612	This is the basic method used for issuing an attack.
 // 50613	To attack multiple enemies, hold down CTRL and use the LEFT-MOUSE BUTTON to DRAG-SELECT a group of targets.
 50613	複数の敵を攻撃するには、[CTRL]キーを押しながら、目標のグループを左クリックでドラッグ選択します。
 // 50614	Attack the 3 Frigates now.
-50614	三つのフリゲート(Frigate)艦を攻撃して下さい。
+50614	三つのフリゲート(Frigate)艦を攻撃してください。
 // 50630	Congratulations.
 50630	おめでとう！
 // 50631	You now understand all the basics required to play Homeworld. #+
