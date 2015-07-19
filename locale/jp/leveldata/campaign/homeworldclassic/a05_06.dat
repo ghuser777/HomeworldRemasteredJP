@@ -2,8 +2,11 @@ filerange 65525 65527
 rangestart 65525 65527
 
 // Subtitles
-65525	We've completed decrypting data from the enemy frigate we captured in the Kharak system.
-65526	It appears to be an imperial broadcast.
-65527	In order to stay clear of these outposts, our course will take us into a turbulent asteroid field and through the heart of a nebula.
+// 65525	We've completed decrypting data from the enemy frigate we captured in the Kharak system.
+65525	我々はカァラーク星系で捕獲した敵フリゲート艦からのデータを解読し終えました。
+// 65526	It appears to be an imperial broadcast.
+65526	それは帝国の放送であるように思われます。
+// 65527	In order to stay clear of these outposts, our course will take us into a turbulent asteroid field and through the heart of a nebula.
+65527	彼らの前哨基地から免れたままでいるために、我々の進路は荒れたアステロイド地帯に入り星雲の中心部へ抜けることになるでしょう。
 
 rangeend

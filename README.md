@@ -137,8 +137,8 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 03 完了
 * ミッション 04 完了
 * ミッション 05 完了
-* ミッション 06
-* ミッション 07
+* ミッション 06 完了
+* ミッション 07 完了
 * ミッション 08
 * ミッション 09
 * ミッション 10
@@ -197,40 +197,47 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Build	建造（艦船）、建設（施設）
 * Capture	捕獲
 * Construction	建造（艦船）、建設（施設）
-* Collection, Collect	収集。文脈により「集める」
+* Collection, Collect	集める、収集
 * Deploy	配備、展開
 * Drone	ドローン
+* Enemy forces	敵軍、敵部隊
+* Enemy units	敵部隊
 * Formation	フォーメーション
-* Harvest	収集	※直訳:収穫、採取など
+* Harvest	収集
+* Hostile ships	敵対船、敵対する船
 * Hyperspace	ハイパースペース
 * Production	生産
 * Objectives	目的
 * Research	研究
 * Resource	資源
 * Salvage	サルベージ、回収
+* Ship	船、艦艇
 * Tactics	戦術
 * Target	目標
 * Trial	訓練、テスト
-* Vessel	船、艦船
+* Vessel	船、艦艇
 
 ### 固有名詞
-なるべく元の発音に近いようにカタカナ化している。  
+なるべく元の発音に近いようにカタカナ化しています。  
 * Bentusi	ベントゥージ
 * Guidestone	ガイドストーン
 * Hiigara	ヒガーラ
+* Kadesh	カデッシュ
 * Karan S'jet	カラン・スジェット
 * Khar-Selim	カー・セリム
-* Kharak	カラク
-* Kharak System	カラク星系
+* Kharak	カァラーク
+* Kharak System	カァラーク星系
 * Taiidan	タイダーン
 * Taiidan Empire	タイダーン帝国
 * Turanic Raiders	トゥラニックレイダース
 
 ### 艦船・施設
 * Bomber	ボマー	※直訳:爆撃機
+* Capital Ship	キャピタルシップ	※直訳:主力艦
 * Carrier	キャリアー	※直訳:空母
 * Cruiser	クルーザー	※直訳:巡洋艦
 * Cryo Tray	クライオトレイ	※冷凍睡眠トレイ	※直訳:低温/冷凍トレー
+* Defender	ディフェンダー	
 * Destroyer	デストロイヤー	※直訳:駆逐艦
 * Fighter	ファイター。文脈により「戦闘機」
 * Frigate	フリゲート
@@ -238,6 +245,8 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Mothership	マザーシップ	※直訳:母船
 * Research Ship	リサーチシップ	※直訳:研究船
 * Resource Collecter	リソースコレクター
+* Resource Controller	リソースコントローラー
+* Salvage Corvette	サルベージコルベット
 * Scout	スカウト	※直訳:偵察機
 * Scaffold	スカフォルド	※直訳:足場
 * Strikecraft	ストライククラフト

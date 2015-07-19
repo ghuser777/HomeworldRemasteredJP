@@ -45,7 +45,7 @@ rangestart 60376 60806
 // 60734	The primary Research Ship has been constructed and the Research Division is online.  Begin Fighter Chassis research immediately.
 60734	第一のResearchShipが建造され、研究部門がオンラインになりました。FighterChassisの研究をすぐに始めてください。
 // 60800	We must test the Mothership's resource processing capability.  Collect useable hard materials from the remaining asteroids in Kharak's orbit.
-60800	我々はマザーシップの資源処理能力をテストする必要があります。Kharak(カラーク)軌道内の残りのアステロイドから利用可能な硬質材料を収集してください。
+60800	我々はマザーシップの資源処理能力をテストする必要があります。Kharak(カァラーク)軌道内の残りのアステロイドから利用可能な硬質材料を集めてください。
 // 60801	Propulsion and weapons research is too hazardous to conduct within the Mothership.  Construct a research vessel to safely house these experiments.
 60801	推進装置や武器の研究をマザーシップ内で行うのはあまりにも危険です。これらの実験を安全に行えるResearchShipを建造してください。
 // 60802	Though unlikely, we must prepare for the possibility of encountering hostile alien craft.  We should finalize our plans for a proper zero-g fighter.

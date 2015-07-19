@@ -2,12 +2,19 @@ filerange 61350 61369
 rangestart 61350 61369
 
 // Subtitles
-61350	THE GARDENS OF KADESH
-61358	Yes, coordinates set.  Engage hyperdrive!
-61362	Enemy forces are concentrating on our Resource Collectors.  Allocate combat vessels to protect them.
-61366	Defend Fleet
-61367	Harvest Nebula
-61368	Protect Resourcers
+// 61350	THE GARDENS OF KADESH
+61350	＜カデッシュの庭(THE GARDENS OF KADESH)＞
+// 61358	Yes, coordinates set.  Engage hyperdrive!
+61358	はい、座標を指定しました。 ハイパードライブを開始してください！
+// 61362	Enemy forces are concentrating on our Resource Collectors.  Allocate combat vessels to protect them.
+61362	敵部隊は我々のリソースコレクターに集中しています。 それらを守るために戦闘艦艇を割り当ててください。
+// 61366	Defend Fleet
+61366	艦隊を防衛する
+// 61367	Harvest Nebula
+61367	星雲で収集する
+// 61368	Protect Resourcers
+61368	コレクターを守る
+// 61369	07 - The Gardens of Kadesh
 61369	07 - The Gardens of Kadesh
 
 rangeend

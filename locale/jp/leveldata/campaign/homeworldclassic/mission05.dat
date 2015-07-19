@@ -9,7 +9,7 @@ rangestart 60511 60823
 // 60515	We detect large resource deposits but no vessels.  It is possible that the Kushan could be hiding in the denser portions of the belt. It may cause interference with our sensors.  Send probes to investigate.  All fleet assets should be kept on alert.
 60515	We detect large resource deposits but no vessels.  It is possible that the Kushan could be hiding in the denser portions of the belt. It may cause interference with our sensors.  Send probes to investigate.  All fleet assets should be kept on alert.
 // 60517	Ship profiles and markings match those from the recording at Kharak.  There is no doubt that this is the fleet.  Destroy them.
-60517	船の形状とマーキングがカラークで記録したものと一致します。 これがあの艦隊であることに疑う余地はありません。 それらを破壊してください。
+60517	船の形状とマーキングがカァラークで記録したものと一致します。 これがあの艦隊であることに疑う余地はありません。 それらを破壊してください。
 // 60518	Research Division reports it is now equipped for Ion Cannon technology.  We advise commencing research immediately.
 60518	研究部門はイオンキャノン(IonCannon)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
 // 60519	Research Division reports it is now equipped for Plasma Bomb technology.  We advise commencing research immediately.
@@ -19,7 +19,7 @@ rangestart 60511 60823
 // 60521	Enemy capital ships appear to be most heavily armored on the front and sides.  Our capital ships should be issued move orders while attacking to take advantage of the more vulnerable sides.
 60521	敵のキャピタルシップ(CapitalShip)は正面および側面がもっとも重装甲であると思われます。我々のキャピタルシップが攻撃する際により脆弱な面を利用するよう移動命令を出すべきです。
 // 60522	The enemy is using a new Fighter class ship with strong defensive capabilities but low maneuverability.  Our Research Division reports that it can produce a similar vessel.  Begin research as soon as possible.
-60522	敵は、機動性は低いものの強力な防衛能力を持つ新しいファイター級船を使っています。 我々の研究部門はそれと類似した船を生産することができると報告しています。 できるだけ早く研究を開始してください。
+60522	敵は、機動性は低いものの強力な防衛能力を持つ新しいファイター級艦艇を使っています。 我々の研究部門はそれと類似した船を生産することができると報告しています。 できるだけ早く研究を開始してください。
 // 60523	Taiidan fleet destroyed.  Hyperspace coordinates locked in.
 60523	タイダーン艦隊を殲滅しました。 ハイパースペース座標を固定。
 // 60524	Kushan fleet destroyed.  Hyperspace coordinates locked in.
@@ -31,11 +31,11 @@ rangestart 60511 60823
 // 60820	Sensors cannot penetrate the asteroid belt.  Send probes into the belt to scout for Taiidan vessels.
 60820	センサーはアステロイド地帯を走査することができません。  タイダーン船を偵察するためにプローブを送ってください。
 // 60821	We have located the Taiidan fleet responsible for destroying Kharak.  Destroy all enemy ships.  Show no mercy.
-60821	我々はカラーク破壊の元凶であるタイダーン艦隊を突き止めました。 全ての敵船を殲滅してください。 容赦は無用です。
+60821	我々はカァラーク破壊の元凶であるタイダーン艦隊を突き止めました。 全ての敵船を殲滅してください。 容赦は無用です。
 // 60822	The enemy is attempting to harvest resources from the asteroid field.  Destroy their collector to sabotage the efforts.
 60822	敵はアステロイド地帯から資源を収集しようとしています。 労力が無駄になるよう彼らのコレクターを破壊してください。
 // 60823	We believe we can reverse-engineer the enemy's defensive fighter.  Conduct research on these Defender sub-systems.
-60823	我々は、敵の防衛用戦闘機をリバースエンジニアできると思われます。 これらのディフェンダーサブシステム(DefenderSub-systems)の研究を行って下さい。
+60823	我々は、敵の防衛用戦闘機をリバースエンジニアできると思われます。 これらのディフェンダーサブシステム(DefenderSub-systems)の研究を行ってください。
 // 60526	Investigate
 60526	調査
 // 60527	Taiidan Carrier

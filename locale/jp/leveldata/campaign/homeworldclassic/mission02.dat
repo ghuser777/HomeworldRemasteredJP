@@ -17,13 +17,13 @@ rangestart 60401 60813
 // 60407	They're attacking?!. . . The Mothership is under attack!!
 60407	彼らは襲ってきている！？ マザーシップは攻撃を受けています！！
 // 60408	Engage incoming units.  The Mothership must be defended.
-60408	向かってくる船と交戦してください。 マザーシップを防衛する必要があります。
+60408	向かってくる部隊と交戦してください。 マザーシップを防衛する必要があります。
 // 60409	Hostile units destroyed.  Threat eliminated.
-60409	敵対的な船を破壊しました。 脅威は排除されました。
+60409	敵部隊を破壊しました。 脅威は排除されました。
 // 60410	Mothership sustained minor hull damage.  Repairs are underway.
 60410	マザーシップは軽微な被害を受けました。 修理を進めています。
 // 60411	Priority Alert!  Additional hostile units detected on an intercept course with the Khar-Selim.
-60411	優先警告！ カー・セリム(Khar-Selim)を補足するコースに、さらなる敵対的な船を発見しました。
+60411	優先警告！ カー・セリム(Khar-Selim)を補足するコースに、さらなる敵部隊を発見しました。
 // 60412	Protection of the Salvage team is a primary Objective.  It must return to Mothership with the mission recorder.  We need that data.
 60412	サルベージチームの保護が最優先目的です。 ミッションレコーダと共にマザーシップへ帰還しなくてはなりません。 我々はそのデータを必要としています。
 // 60413	Salvage Corvette has been destroyed.  Use an escort force to guard next team.  We need those records.
@@ -33,27 +33,27 @@ rangestart 60401 60813
 // 60415	What do you mean you detect a Hyperspace entry? The Mothership isn't due for...  - Sir, I have multiple contacts on closing vectors. Unknown profiles... No recognition codes... Uhh, they're not ours.  - Well if they're not ours, who the hell are they?  - Sir, they're coming in fast... Check... Incoming fire! We are under attack! They're getting through! Breaches across all decks! Hull integrity failing!  - Khar-Selim to Mothership.  If you are receiving, abort Hyperdrive test.  Repeat, abort Hyperdrive test!
 60415	貴官が検出したハイパースペース信号は何を意味している？マザーシップはまだ到着する予定ではないが……。 ――サー、特定周波数上で多数の交信を傍受しました。未知のプロファイル……非認証コード……まさか、それらは我々のものではありません！ ――もしそれらが確実に我々のものでないとしたら、一体誰のものだというのか？ ――サー、それらが間近に迫っています……確認を……砲火が来ます！我々は攻撃を受けています！彼らにやられた！全デッキに亀裂が発生！船体強度が低下！ ――カー・セリムからマザーシップへ！ もしこれを受信しているならハイパードライブテストを中止せよ。 繰り返す、ハイパードライブテストを中止せよ！
 // 60416	We are detecting enemy units advancing on our position.  Organize a defensive force to protect the Mothership.
-60416	我々のいる位置に向かって進行中の敵船を発見しました。 マザーシップを守るために防衛部隊を編成してください。
+60416	我々のいる位置に向かって進行中の敵部隊を発見しました。 マザーシップを守るために防衛部隊を編成してください。
 // 60417	Large power signature detected nearby. Recommend immediate investigation.
 60417	近くに大きな動力源を検出しました。直ちに調査することを推奨します。
 // 60418	It's an enemy Carrier.  They appear to be reinforcing their squadrons of Fighters and Corvettes with it.
 60418	それは敵のキャリアー(Carrier)です。 彼らはそれによりファイターの編隊やコルベットを増援しています。
 // 60419	We have determined that these enemy units are inferior to ours.
-60419	我々は、これら敵船が我々よりも劣っていることを確認しました。
+60419	我々は、これら敵部隊が我々よりも劣っていることを確認しました。
 // 60420	To protect against penetration of the Kharak system, destroy the attacking force completely.
-60420	カラーク(Kharak)星系への侵攻を防ぐため、攻撃的な戦力を完全に破壊してください。
+60420	カァラーク(Kharak)星系への侵攻を防ぐため、攻撃的な戦力を完全に破壊してください。
 // 60421	Enemy units are retreating.  Objectives complete.  Stand by for immediate return to Kharak.
-60421	敵船が退却していきます。 目的を完了しました。 カラーク(Kharak)への即時帰還に備えてください。
+60421	敵部隊が退却していきます。 目的を完了しました。 カァラーク(Kharak)への即時帰還に備えてください。
 // 60422	Unidentified Hostiles
-60422	未確認敵対船
+60422	未確認の敵対者
 // 60423	Turanic Raiders
 60423	トゥラニックレイダース(Turanic Raiders)
 // 60751	Objectives complete.  Stand by for immediate return to Kharak.
-60751	目的を完了しました。 カラーク(Kharak)への即時帰還に備えてください。
+60751	目的を完了しました。 カァラーク(Kharak)への即時帰還に備えてください。
 // 60756	We have determined that these enemy units are inferior to ours.
-60756	我々は、これら敵船が我々よりも劣っていると確認しました。
+60756	我々は、これら敵部隊が我々よりも劣っていると確認しました。
 // 60757	To protect against penetration of the Kharak system, destroy the attacking force completely.
-60757	カラーク(Kharak)星系への侵攻を防ぐため、攻撃的な戦力を完全に破壊してください。
+60757	カァラーク(Kharak)星系への侵攻を防ぐため、攻撃的な戦力を完全に破壊してください。
 // 60807	The Khar-Selim has activated its automated beacon.  Construct and deploy a probe to investigate the status of the Khar-Selim.
 60807	カー・セリム(Khar-Selim)は自動ビーコンを発信しています。 カー・セリムの状況を調査するためにプローブ(Probe)を建造し展開してください。
 // 60808	We need to find out what happened to the Khar-Selim.  Send a Salvage Corvette to the wreckage to retrieve its mission data recorder.

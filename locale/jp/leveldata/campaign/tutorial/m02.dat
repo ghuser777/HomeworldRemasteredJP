@@ -61,13 +61,13 @@ rangestart 50500 50702
 // 50534	Additionally, pressing the Harvest Hotkey (H) will order selected Resource Collectors to Harvest nearby resources. Click OK to Continue.#+
 50534	さらに、ハーベストホットキー([H])を押すと、選択したリソースコレクターに、近くの資源を収集するよう指示をだすことができます。 [OK]をクリックして続けます。#+
 // 50540	Production ships, like this Carrier, can build ships.
-50540	生産船について、このキャリアー(Carrier)などで船を建造することができます。
+50540	生産船については、このキャリアー(Carrier)などの船で建造を行うことができます。
 // 50542	Click the BUILD BUTTON (B) to open the BUILD MANAGER.
 50542	建造(BUILD)ボタン([B])をクリックして、ビルドマネージャー(BuildManager)を開いてください。
 // 50543	The Build Manager is organized according to Production Facilities.
 50543	The Build Manager is organized according to Production Facilities.
 // 50544	The currently displayed menu shows the available Fighter-Class ships that can be built. Click OK to Continue.#+
-50544	現在表示されているメニューが、生産できる利用可能なファイタークラスの船を表しています。 [OK]をクリックして続けます。#+
+50544	現在表示されているメニューが、生産できる利用可能なファイタークラスの艦艇を表しています。 [OK]をクリックして続けます。#+
 // 50541	Click on the Scout icon to begin construction of a Scout squadron
 50541	スカウト(Scout)アイコンをクリックして、スカウト(Scout)隊の建造を開始してください。
 // 50546	Notice how the progress bar increases, indicating the status of the current build task.

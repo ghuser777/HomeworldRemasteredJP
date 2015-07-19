@@ -2,20 +2,35 @@ filerange 60528 60824
 rangestart 60528 60824
 
 // Subtitles
-60528	Hyperspace jump successful.
-60529	We haven't cleared the asteroid field.  Prepare for collisions.
-60530	Incoming asteroids must be destroyed before they impact with the Mothership.  Concentrate fire within this collision envelope.
-60531	Research Division reports it is now equipped for Super Capital Ship Drive technology.  We advise commencing research immediately.
-60532	Strike Craft are proving ineffective.  We recommend using primarily capital ships.
-60533	We've cleared the field.
-60534	Greetings.  We have come to trade.
-60535	This is a dangerous and unpredictable region.  Can you give us information that will guide us through the nebula?
-60536	We hear nothing there.  Even the Taiidan fear the Great Nebula.  No one returns.
+// 60528	Hyperspace jump successful.
+60528	ハイパースペースは成功しました。
+// 60529	We haven't cleared the asteroid field.  Prepare for collisions.
+60529	我々はアステロイド地帯を飛び越えられませんでした。 衝突に備えてください。
+// 60530	Incoming asteroids must be destroyed before they impact with the Mothership.  Concentrate fire within this collision envelope.
+60530	向かってくるアステロイドはマザーシップへと衝突する前に破壊しなければなりません。 この包囲網の中では砲火を集中してください。
+// 60531	Research Division reports it is now equipped for Super Capital Ship Drive technology.  We advise commencing research immediately.
+60531	研究部門はスーパーキャピタルシップドライブ(SuperCapitalShipDrive)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
+// 60532	Strike Craft are proving ineffective.  We recommend using primarily capital ships.
+60532	ストライククラフトでは効果が無いことが判明しています。 主にキャピタルシップの使用を進言します。
+// 60533	We've cleared the field.
+60533	我々はこの地帯を抜けました。
+// 60534	Greetings.  We have come to trade.
+60534	ご機嫌よう。 我々は交易にやってきた。
+// 60535	This is a dangerous and unpredictable region.  Can you give us information that will guide us through the nebula?
+60535	ここは危険で予測不可能な領域です。 私達が星雲を抜けるために必要な情報を提供することができますか?
+// 60536	We hear nothing there.  Even the Taiidan fear the Great Nebula.  No one returns.
+60536	我々はそこについて何も耳にしたことはない。 タイダーンでさえ偉大なる星雲を恐れている。 誰も戻ってこないのだ。
+// 60537	We hear nothing there.  Even the Kushan fear the Great Nebula.  No one returns.
 60537	We hear nothing there.  Even the Kushan fear the Great Nebula.  No one returns.
-60538	Hyperspace module fully charged.
-60539	Bentusi
-60763	Research Division reports it is now equipped for Ion Cannon technology.  We advise commencing research immediately.
-60765	Detecting incoming Bentusi vessel from the clearing ahead.
-60824	The Mothership is directly in the path of incoming asteroids.  Destroy these asteroids to protect the Mothership.
+// 60538	Hyperspace module fully charged.
+60538	ハイパースペースモジュールをフルチャージ。
+// 60539	Bentusi
+60539	ベントゥージ
+// 60763	Research Division reports it is now equipped for Ion Cannon technology.  We advise commencing research immediately.
+60763	研究部門はイオンキャノン(IonCannon)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
+// 60765	Detecting incoming Bentusi vessel from the clearing ahead.
+60765	開けた方向からベントゥージ船が向かってきていることを検出しています。
+// 60824	The Mothership is directly in the path of incoming asteroids.  Destroy these asteroids to protect the Mothership.
+60824	マザーシップは、迫り来るアステロイドの進路上にいます。 マザーシップを守るために、これらのアステロイドを破壊してください。
 
 rangeend

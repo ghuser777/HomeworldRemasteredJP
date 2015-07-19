@@ -2,32 +2,59 @@ filerange 60531 60827
 rangestart 60531 60827
 
 // Subtitles
-60540	The nebula is incredibly rich in energy and resources.  Energy levels are so high that our sensors are having trouble compensating.  Begin harvesting the nebula while we recalibrate the sensors.
-60541	There is a contact closing with the Mothership.  Sensor instability in this region makes it difficult to identify.
-60542	Prepare the Ambassador.
-60550	Delay the attacking ships while Fleet Command charges the hyperdrive module.  We should have the range to jump clear of the nebula.
-60551	Hyperspace module at 35%, ready in 8 minutes.
-60552	Hyperspace module at 90%, ready in 1 minute.
-60553	Hyperspace module fully charged.
-60554	Coordinates set.  Engage hyperdrive!
-60555	Hyperdrive jump failed!  The Quantum waveform collapsed before the fleet could enter hyperspace.
-60556	Analyzing malfunction.  Continue to protect the Mothership until the problem is solved.
-60557	Enemy forces are concentrating on our Resource Collectors.  Allocate combat vessels to protect them.
-60558	The Hyperdrive is back on-line.
+// 60540	The nebula is incredibly rich in energy and resources.  Energy levels are so high that our sensors are having trouble compensating.  Begin harvesting the nebula while we recalibrate the sensors.
+60540	星雲はエネルギーと資源が信じられないほど豊富です。 エネルギーレベルが非常に高いため、センサーの補正に問題が起きています。 センサーを再調整する間に、星雲での収集を開始してください。
+// 60541	There is a contact closing with the Mothership.  Sensor instability in this region makes it difficult to identify.
+60541	マザーシップは交信を閉鎖されています。 センサーの不安定性がこの領域における識別を難しくしています。
+// 60542	Prepare the Ambassador.
+60542	使節の準備をしてください。
+// 60550	Delay the attacking ships while Fleet Command charges the hyperdrive module.  We should have the range to jump clear of the nebula.
+60550	艦隊司令官がハイパードライブモジュールをチャージする間、攻撃して来る船を足止めして下さい。 我々は星雲外までジャンプできる距離を指定する必要があります。
+// 60551	Hyperspace module at 35%, ready in 8 minutes.
+60551	ハイパースペースモジュールは35%、準備完了まで8分です。
+// 60552	Hyperspace module at 90%, ready in 1 minute.
+60552	ハイパースペースモジュールは90%、準備完了まで1分です。
+// 60553	Hyperspace module fully charged.
+60553	ハイパースペースモジュールはフルチャージされました。
+// 60554	Coordinates set.  Engage hyperdrive!
+60554	座標を指定。 ハイパードライブを開始してください！
+// 60555	Hyperdrive jump failed!  The Quantum waveform collapsed before the fleet could enter hyperspace.
+60555	ハイパードライブジャンプは失敗しました！ 艦隊がハイパースペースに入ることができる前に量子波形が崩壊しました。
+// 60556	Analyzing malfunction.  Continue to protect the Mothership until the problem is solved.
+60556	誤作動を分析してください。 問題を解決するまでマザーシップを守り続けてください。
+// 60557	Enemy forces are concentrating on our Resource Collectors.  Allocate combat vessels to protect them.
+60557	敵部隊は我々のリソースコレクターに集中しています。 それらを守るために戦闘艦艇を割り当ててください。
+// 60558	The Hyperdrive is back on-line.
+60558	ハイパースペースドライブが復旧、オンラインです。
+// 60559	Let's put these fanatics behind us.
 60559	Let's put these fanatics behind us.
-60560	Kadeshi Fleet
-60767	Analyzing field.  Continue to protect the Mothership until the source is located.
-60768	The inhibitor field has disappeared.
-60769	The Hyperdrive is fully functional.
-60770	The enemy is relying heavily on Fighter-class ships.  Our Research division reports it can design a new type of Corvette specially suited to combat multiple fighters.  Begin research as soon as possible.
-60788	Hyperspace module charging, ready in eight minutes.
-60789	Hyperspace module charging, ready in one minute.
-60790	Hyperdrive jump failed!  The quantum waveform collapsed due to some kind of inhibitor field.
-60825	We are currently charging the Hyperspace Core to clear the nebula.  Protect the Mothership until the Hyperspace Core is fully charged.
-60826	We have jumped into a nebula dense with useable energy and materials.  Send Resource Collectors to capitalize on this valuable opportunity.
-60827	The enemy is attempting to destroy our Resource Collectors.  Send escort fleets to protect them from these fanatics.
-60531	Research Division reports it is now equipped for Super Capital Ship Drive technology.  We advise commencing research immediately.
-60543	Unkown Contact
-60544	Anomaly
+// 60560	Kadeshi Fleet
+60560	カデッシュ艦隊
+// 60767	Analyzing field.  Continue to protect the Mothership until the source is located.
+60767	フィールドを分析してください。 原因を突き止めるまでマザーシップを守り続けてください。
+// 60768	The inhibitor field has disappeared.
+60768	妨害フィールドが消滅しました。
+// 60769	The Hyperdrive is fully functional.
+60769	ハイパードライブは完全に機能しています。
+// 60770	The enemy is relying heavily on Fighter-class ships.  Our Research division reports it can design a new type of Corvette specially suited to combat multiple fighters.  Begin research as soon as possible.
+60770	敵はファイター級艦艇に大きく依存しています。 我々の研究部門は多数の戦闘機と戦うことに適した新しいタイプのコルベットを設計することができると報告しています。 できるだけ早く研究を開始してください。
+// 60788	Hyperspace module charging, ready in eight minutes.
+60788	ハイパースペースモジュールをチャージ中。準備完了まで8分です。
+// 60789	Hyperspace module charging, ready in one minute.
+60789	ハイパースペースモジュールをチャージ中。準備完了まで1分です。
+// 60790	Hyperdrive jump failed!  The quantum waveform collapsed due to some kind of inhibitor field.
+60790	ハイパードライブジャンプは失敗しました！ 何らかの種類の妨害フィールドが原因で量子波形が崩壊しました。
+// 60825	We are currently charging the Hyperspace Core to clear the nebula.  Protect the Mothership until the Hyperspace Core is fully charged.
+60825	我々は現在、星雲から脱出するためにハイパースペースコアをチャージしています。 ハイパースペースコアにフルチャージされるまでマザーシップを守ってください。
+// 60826	We have jumped into a nebula dense with useable energy and materials.  Send Resource Collectors to capitalize on this valuable opportunity.
+60826	我々は利用可能なエネルギーと物質が高密度にある星雲にジャンプしました。 この貴重な機会を生かすためにリソースコレクターを送ってください。
+// 60827	The enemy is attempting to destroy our Resource Collectors.  Send escort fleets to protect them from these fanatics.
+60827	敵は我々のリソースコレクターを破壊しようとしています。 これらの狂信者から守るために護衛艦隊を派遣してください。
+// 60531	Research Division reports it is now equipped for Super Capital Ship Drive technology.  We advise commencing research immediately.
+60531	研究部門はスーパーキャピタルシップドライブ(SuperCapitalShipDrive)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
+// 60543	Unkown Contact
+60543	未知の接触
+// 60544	Anomaly
+60544	異常
 
 rangeend
