@@ -17,7 +17,7 @@ rangestart 50000 50441
 // 50006	Activate the sensors manager
 50006	センサーマネージャーを表示する
 // 50007	Move ships to asteroid field
-50007	アステロイド帯に船を移動する
+50007	アステロイド地帯に船を移動する
 // 50008	Activate the movement disc
 50008	Activate the movement disc
 // 50011	Access the OBJECTIVES SCREEN
@@ -43,7 +43,7 @@ rangestart 50000 50441
 // 50306	The sensors manager can be activated by pressing SPACE or by clicking on the Sensors button in the middle of the taskbar.
 50306	センサーマネージャー(SensorsManager)は、スペースキーを押すか、タスクバー中央のセンサーアイコンをクリックして表示することができます。
 // 50307	Issue a relative move command by selecting your scouts and right-clicking on one of the asteroids.
-50307	スカウト(Scout)隊を選択し、アステロイド帯のうちの一つを右クリックすることで、相対的な移動命令を出してください。
+50307	スカウト(Scout)隊を選択し、アステロイドのうちの一つを右クリックすることで、相対的な移動命令を出してください。
 // 50308	Activate the movement disc by selecting a ship and right-clicking on an empty area of the screen. You may also activate the movement disc by pressing the default movement key, M.
 50308	Activate the movement disc by selecting a ship and right-clicking on an empty area of the screen. You may also activate the movement disc by pressing the default movement key, M.
 // 50309	The OBJECTIVES window can be accessed by clicking on the objectives button on the taskbar.
@@ -183,7 +183,7 @@ rangestart 50000 50441
 // 50131	The two green dots represent the two Scout squadrons.
 50131	二つの緑色のドットが、二つのスカウト(Scout)隊を表します。
 // 50132	From the Sensors Manager you can see distant objects such as these asteroids.
-50132	センサーマネージャーでは、これらのアステロイド帯のような遠くに離れたものを見ることができます。
+50132	センサーマネージャーでは、これらのアステロイドのような遠くに離れたものを見ることができます。
 // 50133	The Sensors Manager also displays objective information. Click OK to Continue.#+
 50133	センサーマネージャーは、オブジェクトの情報を表示することもできます。[OK]をクリックして続けます。#+
 // 50134	Camera control and ship selection work as normal in the Sensors Manager.
@@ -199,11 +199,11 @@ rangestart 50000 50441
 // 50143	Remember you can LEFT-CLICK or DRAG-SELECT the desired ships.
 50143	左クリックまたはドラッグで船を選択できることを思い出してください。
 // 50150	Now RIGHT-CLICK on this group of asteroids to issue a RIGHT-CLICK Move Command.
-50150	アステロイド帯のグループを右クリックすることで、移動の命令が出せます。
+50150	アステロイドのグループを右クリックすることで、移動の命令が出せます。
 // 50152	Well done.
 50152	うまくいきましたね。
 // 50153	RIGHT-CLICK Movement orders a ship to move to a specified landmark - for example, another ship, an asteroid or a piece of debris.
-50153	右クリックで、他の船やアステロイド帯、デブリなどに移動することができます。
+50153	右クリックで、他の船やアステロイド、デブリなどに移動することができます。
 // 50154	Remember you can rotate and zoom the Camera while issuing a move command. Click OK to Continue.#+
 50154	移動の命令を出している間も、ズームやカメラ回転の操作ができます。[OK]をクリックして続けます。#+
 // 50160	The scouts have reached their destination.

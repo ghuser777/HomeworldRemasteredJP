@@ -2,30 +2,55 @@ filerange 60544 60829
 rangestart 60544 60829
 
 // Subtitles
-60565	Something's wrong.  We've been pulled out of hyperspace.  We're still inside the nebula.
-60566	It's a trap!
-60567	Sensors detect hyperspace inhibitors in a triangular formation.  Even one can keep us from entering hyperspace.  All of them must be destroyed.
-60568	The nebula is still scrambling our sensors but it looks like we have incoming enemy units.
-60569	Research Division reports it is now equipped for Drone technology.  We advise commencing research immediately.
-60570	Research Division reports it is now equipped for Defense Field technology.  We advise commencing research immediately.
-60571	Again we offer you the chance to join us and live here in peace.
-60572	Our future lies elsewhere, but we already have something in common.  The hyperdrive technology we use is identical to yours.  Our ancestors left it in a wreckage on our planet.  We're on a mission to find our Homeworld.
-60573	You will fail.  The evil that drove us here will find and destroy you.  From you they will know of us and come here.  This cannot come to pass.
-60574	We have enemy units closing on multiple attack vectors.  Engage and destroy hostiles.
-60575	Enemy vessels retreating to this point.  This reading has been consistent despite sensor interference.  It has a friendly signature but it's not one of ours.
-60576	It looks just like the Khar-Toba.
-60577	In fact, metallurgy and structural composition are an identical match to the Khar-Toba wreckage on Kharak.
-60579	The inhibitor field has ceased.  Hyperspace module back online.
-60580	Kadeshi Fleet
-60771	We have enemy units closing on multiple attack vectors.  Engage and destroy hostiles.
-60772	The inhibitor field has ceased.  Hyperspace module back online.
-60773	It's the Khar-Toba.
-60774	Metallurgy and structural composition of the ship are an identical match to the Khar-Toba wreckage on Kharak.  Our origins are the same.
-60791	We cannot stay - we're on a journey.  But let there be peace between us, for we have something in common.  The hyperdrive technology left to us by our ancestors is identical to yours.  The Homeworld we seek may be yours as well.
-60828	The Kadeshi have deployed hyperspace inhibitors to prevent our escape.  Destroy all inhibitors to allow us to engage the Hyperspace Core.
-60829	The Kadeshi ambush has the Mothership surrounded.  Engage and destroy all hostiles.  Protect the Mothership at all costs.
-60544	Anomaly
-60563	Friendly Signal
-60564	Inhibitor Signal
+// 60565	Something's wrong.  We've been pulled out of hyperspace.  We're still inside the nebula.
+60565	何かがおかしい。 私達はハイパースペースから引き戻されました。 私達はまだ星雲の中にいます。
+// 60566	It's a trap!
+60566	罠です！
+// 60567	Sensors detect hyperspace inhibitors in a triangular formation.  Even one can keep us from entering hyperspace.  All of them must be destroyed.
+60567	センサーは三点にハイパースペース阻害装置を発見しました。 1基だけでも我々がハーパースペースに入るのを妨害することができます。 それら全てを破壊する必要があります。
+// 60568	The nebula is still scrambling our sensors but it looks like we have incoming enemy units.
+60568	星雲はまだ我々のセンサーを乱していますが、我々に敵部隊が向かってきているように見えます。
+// 60569	Research Division reports it is now equipped for Drone technology.  We advise commencing research immediately.
+60569	研究部門はドローン(Drone)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
+// 60570	Research Division reports it is now equipped for Defense Field technology.  We advise commencing research immediately.
+60570	研究部門はディフェンスフィールド(DefenseField)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
+// 60571	Again we offer you the chance to join us and live here in peace.
+60571	我らは、お前達が加わり、ここで平和に暮らす機会を再度提示しよう。
+// 60572	Our future lies elsewhere, but we already have something in common.  The hyperdrive technology we use is identical to yours.  Our ancestors left it in a wreckage on our planet.  We're on a mission to find our Homeworld.
+60572	私達の未来はほかの場所にあります――しかし、すでにお互いに共通するものがあります。 私達が使用するハイパードライブ技術はあなた方と同じなのです。 私達の祖先は、私達の惑星にあった残骸にそれを残しました。 私達は、私達の故郷(Homeworld)を見つけ出す使命を帯びているのです。
+// 60573	You will fail.  The evil that drove us here will find and destroy you.  From you they will know of us and come here.  This cannot come to pass.
+60573	お前達は失敗するだろう。 ここに我々を追いやった邪悪はお前達を見つけ、破滅させるだろう。 お前達から我々について知り、ここにやって来るだろう。 それを起こすわけにはいかない。
+// 60574	We have enemy units closing on multiple attack vectors.  Engage and destroy hostiles.
+60574	我々は敵部隊に全ての方角から包囲されています。 交戦し、敵を破壊して下さい。
+// 60575	Enemy vessels retreating to this point.  This reading has been consistent despite sensor interference.  It has a friendly signature but it's not one of ours.
+60575	敵船がこのポイントに後退しています。 この解析結果はセンサー干渉にもかかわらず一貫しています。 それは友軍の識別信号を発していますが、我々のうちの一隻ではありません。
+// 60576	It looks just like the Khar-Toba.
+60576	それはちょうどカー・トバ(Khar-Toba)のように見えます。
+// 60577	In fact, metallurgy and structural composition are an identical match to the Khar-Toba wreckage on Kharak.
+60577	実際のところ、金属精製及び構造組成はカァラークのカー・トバと一致します。
+// 60579	The inhibitor field has ceased.  Hyperspace module back online.
+60579	阻害フィールドは閉じました。 ハイパースペースモジュールが復帰しました。
+// 60580	Kadeshi Fleet
+60580	カデッシュ艦隊
+// 60771	We have enemy units closing on multiple attack vectors.  Engage and destroy hostiles.
+60771	我々は敵部隊に全ての方角から包囲されています。 交戦し、敵を破壊して下さい。
+// 60772	The inhibitor field has ceased.  Hyperspace module back online.
+60772	阻害フィールドは閉じました。 ハイパースペースモジュールが復旧しました。
+// 60773	It's the Khar-Toba.
+60773	それは、カー・トバ(Khar-Toba)です。
+// 60774	Metallurgy and structural composition of the ship are an identical match to the Khar-Toba wreckage on Kharak.  Our origins are the same.
+60774	金属精製及び構造組成はカァラークのカー・トバと一致します。 我々の起源は同じです。
+// 60791	We cannot stay - we're on a journey.  But let there be peace between us, for we have something in common.  The hyperdrive technology left to us by our ancestors is identical to yours.  The Homeworld we seek may be yours as well.
+60791	私達は留まることは出来ません――私達は旅をしています。 しかし、お互いに共通するものがあることで私達の間には平和の兆しがあります。 私達の祖先が残したハイパードライブ技術は、あなた方と同じなのです。 私達が探し求める故郷(Homeworld)はあなた方と同じなのかも知れません。
+// 60828	The Kadeshi have deployed hyperspace inhibitors to prevent our escape.  Destroy all inhibitors to allow us to engage the Hyperspace Core.
+60828	カデッシュは、我々の脱出を防ぐためにハイパースペース阻害装置を展開しています。 我々はハイパースペースコアに接続できるようにするために、全ての阻害装置を破壊してください。
+// 60829	The Kadeshi ambush has the Mothership surrounded.  Engage and destroy all hostiles.  Protect the Mothership at all costs.
+60829	カデッシュの待ち伏せがマザーシップを取り囲んでいます。 交戦し、敵を破壊して下さい。 何としてでもマザーシップを守ってください。
+// 60544	Anomaly
+60544	異常
+// 60563	Friendly Signal
+60563	友軍識別信号
+// 60564	Inhibitor Signal
+60564	阻害信号
 
 rangeend

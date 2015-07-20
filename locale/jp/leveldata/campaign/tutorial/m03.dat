@@ -153,7 +153,7 @@ rangestart 51000 52071
 // 51053	Good Job.
 51053	Good Job.
 // 52030	Waypoints allow you to move your ships along specified paths. This can be used to move around asteroid fields or to set up sneak attacks. Click OK to Continue.#+
-52030	中間点(Waypoint)は、指定された経路に沿って船を移動することができます。これは、アステロイド帯を迂回したり、スニークアタック(SneakAttacks)を仕掛けるために利用できます。 [OK]をクリックして続けます。#+
+52030	中間点(Waypoint)は、指定された経路に沿って船を移動することができます。これは、アステロイド地帯を迂回したり、スニークアタック(SneakAttacks)を仕掛けるために利用できます。 [OK]をクリックして続けます。#+
 // 52031	Click on the WAYPOINT ICON (hotkey: W) to enter Waypoint mode.
 52031	中間点(Waypoint)モードを開始するには、中間点(Waypoint)アイコン(ホットキー:[W])をクリックしてください。
 // 52032	While in this mode, you can queue a series of move commands. Your ships will move to each destination point in sequence. Practice this now.

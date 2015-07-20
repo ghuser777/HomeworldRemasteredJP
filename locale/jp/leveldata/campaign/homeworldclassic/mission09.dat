@@ -2,34 +2,63 @@ filerange 60587 60832
 rangestart 60587 60832
 
 // Subtitles
-60587	Anomaly detected.  Override engaged.
-60588	Sensors detect a vessel here.  It doesn't match any of the profiles we have encountered.  Send in a team to investigate.
-60589	We are detecting various ships surrounding the alien vessel.  They appear to be inactive.
-60590	Attention!  Those ships are operational.  We believe the control center is the alien vessel.  It should be neutralized.
-60591	We've lost control of capital ships in close proximity to the alien vessel.
-60592	We've determined that the alien control field covers this area.  No capital ships should cross into this zone or we will lose them.
-60593	Our weapons are having minimal effect on the alien vessel but each strike causes a tiny fluctuation in the control field.
-60594	Direct all fire at the alien ship in an attempt to disable the field.
-60595	After seizing the Missile Destroyer, construction reports we can now build a similar vessel.
-60596	Alien vessel neutralized.  Our crews have regained control.
-60597	While the field was up they were able to analyze the alien control system.  We now have control of the foreign vessels.  In addition, we detect no life signs aboard the alien vessel.  It is a derelict.
-60598	Research Division reports it has developed plans for gravity-warping technology based on the alien control field.  We advise commencing research immediately.
-60599	We have known of this ship but could never approach it.  We are particularly vulnerable to its influence.
-60600	The Bentusi would like the information you have acquired.  It will be transferred automatically if you choose to trade.
-60601	The information was successfully transferred.  Thank you.
-60602	The Taiidan are determined to destroy us.  Will you help us defeat them?
+// 60587	Anomaly detected.  Override engaged.
+60587	異常を検出しました。 安全を優先して下さい。
+// 60588	Sensors detect a vessel here.  It doesn't match any of the profiles we have encountered.  Send in a team to investigate.
+60588	センサーはここに船を発見しました。 それは我々が遭遇した船体形状のどれとも合いません。 調査班を送って下さい。
+// 60589	We are detecting various ships surrounding the alien vessel.  They appear to be inactive.
+60589	我々は異星船を取り巻く数々の船を発見しています。 それらは機能していないように思われます。
+// 60590	Attention!  Those ships are operational.  We believe the control center is the alien vessel.  It should be neutralized.
+60590	注意して下さい！ それらの船は動作可能です。 我々は異星船が制御中枢であると考えます。 それを無力化すべきです。
+// 60591	We've lost control of capital ships in close proximity to the alien vessel.
+60591	我々は異性船のすぐ近くに接近してキャピタルシップの制御を失ってしまいました。
+// 60592	We've determined that the alien control field covers this area.  No capital ships should cross into this zone or we will lose them.
+60592	我々は異星人の制御フィールドがこのエリアをカバーしていると判断しました。 キャピタルシップでこの領域に進入してはならない、さもなければ我々はそれらを失うことになります。
+// 60593	Our weapons are having minimal effect on the alien vessel but each strike causes a tiny fluctuation in the control field.
+60593	我々の兵器は異星船にわずかな効果しか与えていませんが、それぞれの攻撃が制御フィールドに極わずかな変動を引き起こしています。
+// 60594	Direct all fire at the alien ship in an attempt to disable the field.
+60594	フィールドを無効にする試みのために、全ての砲火を異星船に集めるよう指示してください。
+// 60595	After seizing the Missile Destroyer, construction reports we can now build a similar vessel.
+60595	ミサイルデストロイヤー(MissileDestroyer)を分析した結果、生産部門は我々が同じような船を建造できると報告しています。
+// 60596	Alien vessel neutralized.  Our crews have regained control.
+60596	異星船を無力化しました。 我々のクルーは制御を奪いました。
+// 60597	While the field was up they were able to analyze the alien control system.  We now have control of the foreign vessels.  In addition, we detect no life signs aboard the alien vessel.  It is a derelict.
+60597	フィールドが最大でしたが、彼らは異星人の制御システムを分析することができました。 現在、異星船の制御を押さえています。 加えて、異星船に乗る生命の反応は検出されませんでした。 それは遺跡です。
+// 60598	Research Division reports it has developed plans for gravity-warping technology based on the alien control field.  We advise commencing research immediately.
+60598	研究部門は異星人の制御フィールドを元にした重力歪曲技術(Gravity-warpingTechnology)に対する設計を開発したと報告しています。 我々はすぐに研究を開始するよう進言します。
+// 60599	We have known of this ship but could never approach it.  We are particularly vulnerable to its influence.
+60599	我々はこの船について知っていたが、決して近づくことはなかった。 我々は特にその影響を受けやすい。
+// 60600	The Bentusi would like the information you have acquired.  It will be transferred automatically if you choose to trade.
+60600	ベントゥージはあなた方が得た情報を求む。 もしあなた方が交易を望むなら、自動的に転送されるだろう。
+// 60601	The information was successfully transferred.  Thank you.
+60601	情報は正常に転送された。 ありがとう。
+// 60602	The Taiidan are determined to destroy us.  Will you help us defeat them?
+60602	タイダーンは私達を滅ぼすと決定しました。 貴方達は彼らを破る手伝いをしてくれるのでしょうか?
+// 60603	The Kushan are determined to destroy us.  Will you help us defeat them?
 60603	The Kushan are determined to destroy us.  Will you help us defeat them?
-60604	Conflict is not our way.  We will bring your cause to the Galactic Council.  The Taiidan rule the Empire, but even they must answer to the council.
+// 60604	Conflict is not our way.  We will bring your cause to the Galactic Council.  The Taiidan rule the Empire, but even they must answer to the council.
+60604	対立は我々の道ではない。 我々はあなた方の目的を銀河評議会に知らせるだろう。 タイダーンは帝国を支配するが、彼らも評議会に応じなければならない。
+// 60605	Conflict is not our way.  We will bring your cause to the Galactic Council.  The Kushan rule the Empire but even they must answer to the council.
 60605	Conflict is not our way.  We will bring your cause to the Galactic Council.  The Kushan rule the Empire but even they must answer to the council.
-60606	Hyperspace Module fully charged.  Engage at your discretion.
-60607	Alien Anomaly
-60608	Bentusi
-60775	While the field was up they were able to analyze the alien control system.  We now have control of the foreign vessels
-60776	Send a Salvage Team to further investigate the alien ship.
-60777	Alien vessel neutralized.
-60778	Salvage Team docked.  The alien ship is millions of years old.  Its purpose is unclear.
-60830	Sensors have picked up an anomalous vessel in the middle of space.  Send a scouting party to investigate the anomaly.
-60831	The alien vessel is hostile and controlling other ships in its immediate area.  Destroy the alien vessel before it threatens the Mothership.
-60832	Our forces have disabled the target.  Send in a Salvage Corvette to investigate and retrieve any useful materials or technology.
+// 60606	Hyperspace Module fully charged.  Engage at your discretion.
+60606	ハイパースペースモジュールをフルチャージ。 貴官の裁量により出発して下さい。
+// 60607	Alien Anomaly
+60607	エイリアン 異常
+// 60608	Bentusi
+60608	ベントゥージ
+// 60775	While the field was up they were able to analyze the alien control system.  We now have control of the foreign vessels
+60775	フィールドが最大でしたが、彼らは異星人の制御システムを分析することができました。 現在、異星船の制御を押さえています。
+// 60776	Send a Salvage Team to further investigate the alien ship.
+60776	さらに異星船を調査するためにサルベージチームを送ってください。
+// 60777	Alien vessel neutralized.
+60777	異星船を無力化しました。
+// 60778	Salvage Team docked.  The alien ship is millions of years old.  Its purpose is unclear.
+60778	サルベージチームは格納庫に入りました。 異星船は何百万という年月を経ています。 その目的は不明です。
+// 60830	Sensors have picked up an anomalous vessel in the middle of space.  Send a scouting party to investigate the anomaly.
+60830	センサーは、宙域の中央に異常な船を検知しました。 異常を調査するために偵察隊を送ってください。
+// 60831	The alien vessel is hostile and controlling other ships in its immediate area.  Destroy the alien vessel before it threatens the Mothership.
+60831	異星船は敵対し、すぐ近くにある他の船を制御しています。 それがマザーシップを脅かす前に異星船を破壊してください。
+// 60832	Our forces have disabled the target.  Send in a Salvage Corvette to investigate and retrieve any useful materials or technology.
+60832	我々の部隊が目標を無効化しました。 調査及びいくつかの有用物質と技術を入手するために、サルベージコルベットを送ってください。
 
 rangeend

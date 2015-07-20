@@ -45,7 +45,7 @@ rangestart 60429 60815
 // 60760	Enemy units neutralized.  Begin salvaging the cryo trays.
 60760	敵部隊を制圧しました。 クライオトレイの回収を始めてください。
 // 60814	The enemy is attempting to destroy our colonist cryo trays!  Defend our people at all costs!
-60814	敵は、我々の入植者用クライオトレイ(CryoTrays)を破壊しようとしています！ あらゆる犠牲を払ってでも我々の仲間を守ってください！
+60814	敵は、我々の入植者用クライオトレイ(CryoTrays)を破壊しようとしています！ 何としてでも我々の仲間を守ってください！
 // 60815	We must learn the nature of this new threat.  Use Salvage Corvettes to bring in an enemy ship intact for interrogation.
 60815	我々は、この新たな脅威の本質を学ばなければなりません。 尋問のために、無傷のまま敵船を手に入れるよう、サルベージコルベット(SalvageCorvettes)を使用してください。
 // 60473	The cryo trays are exposed.  Use Salvage Corvettes to load the trays into the Mothership immediately.

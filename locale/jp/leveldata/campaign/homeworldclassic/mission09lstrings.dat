@@ -2,14 +2,23 @@ filerange 61450 61458
 rangestart 61450 61458
 
 // Subtitles
+// 61450	09 - Sea of Lost Souls
 61450	09 - Sea of Lost Souls
-61451	DEEP SPACE - SEA OF LOST SOULS
-61452	Sensors detect a vessel here.  It doesn't match any of the profiles we have encountered.  Send in a team to investigate.
-61453	Investigate Anomaly
-61454	Destroy Alien Vessel
-61455	Salvage the Unknown Vessel
-61456	Welcome, traveller.  We have something you may be interested in.
-61457	Thank you.  Enjoy your purchase.
+// 61451	DEEP SPACE - SEA OF LOST SOULS
+61451	＜深宇宙 - たくさんの失われた魂(DEEP SPACE - SEA OF LOST SOULS)＞
+// 61452	Sensors detect a vessel here.  It doesn't match any of the profiles we have encountered.  Send in a team to investigate.
+61452	センサーはここに船を発見しました。 それは我々が遭遇した船体形状のどれとも合いません。 調査班を送って下さい。
+// 61453	Investigate Anomaly
+61453	異常を調査する
+// 61454	Destroy Alien Vessel
+61454	異星船を破壊する
+// 61455	Salvage the Unknown Vessel
+61455	未知の船をサルベージする
+// 61456	Welcome, traveller.  We have something you may be interested in.
+61456	ようこそ、旅する者よ。 我々はあなた方が興味を持つ何かを持っている。
+// 61457	Thank you.  Enjoy your purchase.
+61457	ありがとう。 ご購入をお楽しみください。
+// 61458	                HYPERSPACE
 61458	                HYPERSPACE
 
 rangeend

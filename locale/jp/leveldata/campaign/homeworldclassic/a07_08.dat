@@ -2,10 +2,15 @@ filerange 65560 65564
 rangestart 65560 65564
 
 // Subtitles
-65560	The enemy Mothership appeared to be equipped with a powerful field generator.
-65561	This field deformed our quantum wavefront and prevented us from making a hyperspace jump.
-65562	We also observed that the enemy's hyperspace module has an identical power signature to our own.
-65563	This raises interesting questions considering our own technology was reverse-engineered from the wreck of the Khar-Toba.
-65564	Our hyperspace systems are now functioning properly and this jump will carry us clear of the Nebula.
+// 65560	The enemy Mothership appeared to be equipped with a powerful field generator.
+65560	出現した敵のマザーシップは強力なフィールドジェネレーターを搭載していると思われます。
+// 65561	This field deformed our quantum wavefront and prevented us from making a hyperspace jump.
+65561	このフィールドは我々の量子波形を歪め、ハイパースペースジャンプを成功させることを妨害していました。
+// 65562	We also observed that the enemy's hyperspace module has an identical power signature to our own.
+65562	我々は、敵のハイパースペースモジュールが我々のものと同一の動力兆候を持っていることにも気が付きました。
+// 65563	This raises interesting questions considering our own technology was reverse-engineered from the wreck of the Khar-Toba.
+65563	これは我々自身の技術がカー・トバ(Khar-Toba)の残骸からリバースエンジニアしたことを考えると、興味深い疑問を提起します。
+// 65564	Our hyperspace systems are now functioning properly and this jump will carry us clear of the Nebula.
+65564	我々のハイパースペースシステムは正常に機能しており、このジャンプにより我々を星雲の外に運ぶでしょう。
 
 rangeend

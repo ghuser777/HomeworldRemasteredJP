@@ -93,11 +93,13 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 ### 翻訳する
 
-\jp内のDATを翻訳してShift_JIS（CP932）で保存する。
+\jpフォルダ以降にあるDATファイル内の英文を日本語に翻訳する。DATファイルはShift_JIS（CP932）で保存する。
 
 ### Homeworldの起動方法
 
-準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に" -moddatapath translation -locale jp"を指定して実行すればOK。
+準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に
+`" -moddatapath translation -locale jp"`
+を指定して実行すればOK。
 
 ※起動設定はSteamで、Homeworld Remasteredのプロパティ→一般タブ→起動設定...で設定できる。
 
@@ -139,8 +141,8 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 05 完了
 * ミッション 06 完了
 * ミッション 07 完了
-* ミッション 08
-* ミッション 09
+* ミッション 08 完了
+* ミッション 09 完了
 * ミッション 10
 * ミッション 11
 * ミッション 12
@@ -148,6 +150,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 14
 * ミッション 15
 * ミッション 16
+* エクストラミッション Raider Retreat
 
 
 
@@ -179,21 +182,23 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 
 ## おおまかな用語の統一
-* おおまかな用語統一案。ただし文脈に沿って、より適切な言い回しがあれば変更可。
-* 通常、艦船名・地名・人名など固有名詞は、「サルベージコルベット(SalvageCorvette)」などとカタカナで表記する。
-* 初めて出現する固有名詞や用語は、「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英単語の空白は削除する（Cryo Tray→CryoTray）。空白以降で改行されてしまうことがあるため。
-* また、カタカナ語の意味がわからないような単語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
+* おおまかな用語統一案。ただし文脈により適切な言い回しがあれば変更可。
+* 艦船名・地名・人名など固有名詞は「サルベージコルベット」「クライオトレイ」などとカタカナで表記する。
+* 初めて出現する固有名詞や用語は「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英文字列の空白は削除する（Cryo Tray→CryoTray）。ワードラップにより空白以降が強制改行されてしまうため。
+* また、馴染みがなく意味がわからないカタカナ語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
 * ただし、○○strings.datでは艦船名等を英文字のまま記述する（「SalvageCorvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れてしまうため。また、ビルドマネージャーやリサーチマネージャーの英文字艦船名表記と合わせるため。
-* 「※直訳:」は参考情報。
-* カラン・スジェットは「私達」。それ以外は「我々」
-* 外来語の語尾は伸ばす。センサ、コントローラ → センサー、コントローラー。
-* できる：動詞・副詞の場合「できる」。～できる、できるだけ
-* 出来る：名詞の場合「出来」。上出来、出来事
-* ください： （命令）～をしてください
-* 下さい： （物を）～を下さい
+* 以降の「※直訳:」は参考情報。
+* カラン・スジェットは「私達」。それ以外は「我々」。
+* 外来語の語尾を伸ばす。センサ、コントローラ → センサー、コントローラー。
+* できる：動詞・副詞の場合「できる」。～できる、できるだけ。
+* 出来る：名詞の場合「出来」。上出来、出来事。
+* ください： （命令）～をしてください。
+* 下さい： （物を）～を下さい。
+* 全角の「？」を使うと文字化けすることがあるので半角の「?」にする。
 
 ### 用語
-* Asteroid	アステロイド/アステロイド帯
+* Asteroid	アステロイド
+* Asteroid fields	アステロイド地帯
 * Build	建造（艦船）、建設（施設）
 * Capture	捕獲
 * Construction	建造（艦船）、建設（施設）
@@ -201,10 +206,13 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Deploy	配備、展開
 * Drone	ドローン
 * Enemy forces	敵軍、敵部隊
+* Enemy ships	敵船
 * Enemy units	敵部隊
+* Enemy vessels	敵船
 * Formation	フォーメーション
 * Harvest	収集
-* Hostile ships	敵対船、敵対する船
+* Hostiles	敵対者、敵対する、敵
+* Hostile ships	敵対船、敵対する船、敵船
 * Hyperspace	ハイパースペース
 * Production	生産
 * Objectives	目的
@@ -225,6 +233,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Kadesh	カデッシュ
 * Karan S'jet	カラン・スジェット
 * Khar-Selim	カー・セリム
+* Khar-Toba	カー・トバ
 * Kharak	カァラーク
 * Kharak System	カァラーク星系
 * Taiidan	タイダーン

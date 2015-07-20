@@ -7,7 +7,7 @@ rangestart 60376 60806
 // 60377	Test construction by building the primary research ship.
 60377	第一のリサーチシップ(ResearchShip)を建造することで、建造テストを行ってください。
 // 60378	Test resource processing by harvesting the asteroids provided nearby.
-60378	近くに提供されたアステロイド帯を収集(Harvest)することで、資源(Resource)処理のテストを行ってください。
+60378	近くに提供されたアステロイドを収集(Harvest)することで、資源(Resource)処理のテストを行ってください。
 // 60379	Stand by to begin combat trials.  First, we will be monitoring formation performance.
 60379	戦闘テストに備えてください。始めに、我々はフォーメーション(Formation)による性能をモニタリングします。
 // 60380	Target Drones have been provided here.  Assign a formation to your Fighters and destroy the Drones.

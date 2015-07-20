@@ -2,12 +2,19 @@ filerange 65580 65586
 rangestart 65580 65586
 
 // Subtitles
-65580	After analyzing the data we collected from the Khar-Toba's sister ship we've been able to determine what happened in the nebula.
-65581	While the Khar-Toba was able to limp to Kharak, this ship instead must have tried to hide here.
-65582	They soon resorted to preying on ships passing through the nebula.
-65583	In time the nebula became off limits to all shipping.
-65584	They developed hyperspace inhibitor technology to trap prey from far away without leaving the safety of the nebula.
-65585	Eventually it became the center of their existence and ultimately
-65586	Their religion.
+// 65580	After analyzing the data we collected from the Khar-Toba's sister ship we've been able to determine what happened in the nebula.
+65580	カー・トバ(Khar-Toba)の姉妹船から集めたデータを解析した結果、我々は星雲の中で何が起こったのかを知ることが出来ました。
+// 65581	While the Khar-Toba was able to limp to Kharak, this ship instead must have tried to hide here.
+65581	カー・トバが困難ながらもカァラークへと進むことができていたなか、この船は前進する代わりにここへ隠れようとしたに違いありません。
+// 65582	They soon resorted to preying on ships passing through the nebula.
+65582	すぐに彼らは星雲を通り抜けようとしている船を捕獲するという手段に訴えました。
+// 65583	In time the nebula became off limits to all shipping.
+65583	その内、星雲は全ての船にとって立ち入れない場所となりました。
+// 65584	They developed hyperspace inhibitor technology to trap prey from far away without leaving the safety of the nebula.
+65584	彼らは星雲の安全のために、断りもなく遙か遠くから来る獲物を罠で捕らえるためのハイパースペース阻害技術を開発しました。
+// 65585	Eventually it became the center of their existence and ultimately
+65585	やがて、それは彼らの生活の中心になり、根源的なものとなりました。
+// 65586	Their religion.
+65586	彼らの宗教に。
 
 rangeend
