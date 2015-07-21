@@ -2,12 +2,19 @@ filerange 65607 65613
 rangestart 65607 65613
 
 // Subtitles
-65607	We are about to enter the outer limits of the Taiidan empire.
+// 65607	We are about to enter the outer limits of the Taiidan empire.
+65607	我々はタイダーン帝国の境界へ入ろうとしています。
+// 65608	We are about to enter the outer limits of the Kushan empire.
 65608	We are about to enter the outer limits of the Kushan empire.
-65609	As we approach the galactic core, resistance is expected to increase.
-65610	We have identified a weak point in the enemy defenses.
-65611	There is a remote research station located near an active supernova.
-65612	It should only have a minor garrison protecting it.
-65613	It is time to hunt the enemy as they have hunted us.
+// 65609	As we approach the galactic core, resistance is expected to increase.
+65609	我々が銀河の中心へと近づくにつれ、抵抗が増すと予想されます。
+// 65610	We have identified a weak point in the enemy defenses.
+65610	我々は敵の防衛体制に弱点を見い出しました。
+// 65611	There is a remote research station located near an active supernova.
+65611	その遠隔研究基地は活動的な超新星の近くにあります。
+// 65612	It should only have a minor garrison protecting it.
+65612	それは少数の駐屯部隊に守られているだけのはずです。
+// 65613	It is time to hunt the enemy as they have hunted us.
+65613	彼らが我々を追いつめたように、敵を追いつめる時です。
 
 rangeend

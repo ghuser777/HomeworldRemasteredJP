@@ -67,7 +67,7 @@ rangestart 50500 50702
 // 50543	The Build Manager is organized according to Production Facilities.
 50543	The Build Manager is organized according to Production Facilities.
 // 50544	The currently displayed menu shows the available Fighter-Class ships that can be built. Click OK to Continue.#+
-50544	現在表示されているメニューが、生産できる利用可能なファイタークラスの艦艇を表しています。 [OK]をクリックして続けます。#+
+50544	現在表示されているメニューが、生産できる利用可能なファイター級艦艇を表しています。 [OK]をクリックして続けます。#+
 // 50541	Click on the Scout icon to begin construction of a Scout squadron
 50541	スカウト(Scout)アイコンをクリックして、スカウト(Scout)隊の建造を開始してください。
 // 50546	Notice how the progress bar increases, indicating the status of the current build task.
@@ -131,7 +131,7 @@ rangestart 50500 50702
 // 50630	Congratulations.
 50630	おめでとう！
 // 50631	You now understand all the basics required to play Homeworld. #+
-50631	これで、Homeworldをプレイするために必要なすべての基本が理解できました。#+
+50631	これで、Homeworldをプレイするために必要な全ての基本が理解できました。#+
 // 50640	Good work.
 50640	Good work.
 

@@ -101,7 +101,7 @@ rangestart 50000 50441
 // 50360	To exit Objective Screen, click on the close button.
 50360	[CLOSE]をクリックして、目的(OBJECTIVES)画面を閉じてください。
 // 50421	All ships have a Tactical Overlay, or TO for short.
-50421	すべての船は、タクティカルオーバーレイを有します。短くTOと表記します。
+50421	全ての船は、タクティカルオーバーレイを有します。短くTOと表記します。
 // 50422	TOs help identify friendly and enemy targets. Click OK to Continue.#+
 50422	TOは、味方と敵を識別する助けになります。[OK]をクリックして続けます。#+
 // 50423	Friendly ships will have GREEN TOs.

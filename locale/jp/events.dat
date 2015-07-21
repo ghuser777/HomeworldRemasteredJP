@@ -483,13 +483,13 @@ rangestart 5600 5884
 5812	新たなアップグレードが可能
 5813	資源不足。アップグレードを一時停止
 5814	新たな建造オプションが利用可能
-5815	新たなFightersが建造可能
-5816	新たなCorvettesが建造可能
-5817	新たなFrigatesが建造可能
-5818	新たなCapital shipsが建造可能
-5819	新たなSupercapital shipsが建造可能
-5820	新たなUtility class shipsが建造可能
-5821	新たなPlatformsが建設可能
+5815	新たなFighterが建造可能
+5816	新たなCorvetteが建造可能
+5817	新たなFrigateが建造可能
+5818	新たなCapital shipが建造可能
+5819	新たなSupercapital shipが建造可能
+5820	新たなUtility class shipが建造可能
+5821	新たなPlatformが建設可能
 5822	Research Module生産完了
 5823	Advanced Research Module生産完了
 5824	Probeを配備した
@@ -514,7 +514,7 @@ rangestart 5600 5884
 5860	Resource Controllerが攻撃を受けている
 5861	Scout生産完了
 5862	Interceptor生産完了
-5863	Assault Bomber生産完了
+5863	Attack Bomber生産完了
 5864	Defender生産完了
 5865	Cloaked Fighter生産完了
 5866	Defense Fighter生産完了
@@ -526,7 +526,7 @@ rangestart 5600 5884
 5872	Support Frigate生産完了
 5873	Assault Frigate生産完了
 5874	Ion Cannon Frigate生産完了
-5875	Dr1 Frigate生産完了
+5875	Drone Frigate Frigate生産完了
 5876	Defense Field Frigate生産完了
 5877	Heavy Cruiser生産完了
 5878	Resource Controller生産完了

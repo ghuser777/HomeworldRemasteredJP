@@ -143,7 +143,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 07 完了
 * ミッション 08 完了
 * ミッション 09 完了
-* ミッション 10
+* ミッション 10 完了
 * ミッション 11
 * ミッション 12
 * ミッション 13
@@ -205,7 +205,8 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Collection, Collect	集める、収集
 * Deploy	配備、展開
 * Drone	ドローン
-* Enemy forces	敵軍、敵部隊
+* Enemy fleet	敵艦隊
+* Enemy forces	敵部隊、敵軍
 * Enemy ships	敵船
 * Enemy units	敵部隊
 * Enemy vessels	敵船
@@ -219,11 +220,11 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Research	研究
 * Resource	資源
 * Salvage	サルベージ、回収
-* Ship	船、艦艇
+* Ship	船、艦、艦艇
 * Tactics	戦術
 * Target	目標
 * Trial	訓練、テスト
-* Vessel	船、艦艇
+* Vessel	船、艦、艦艇
 
 ### 固有名詞
 なるべく元の発音に近いようにカタカナ化しています。  
@@ -252,6 +253,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Frigate	フリゲート
 * Interceptor	インターセプター	※直訳:迎撃機
 * Mothership	マザーシップ	※直訳:母船
+* Proximity Sensor	プロキシミティセンサー	※直訳:近接センサー
 * Research Ship	リサーチシップ	※直訳:研究船
 * Resource Collecter	リソースコレクター
 * Resource Controller	リソースコントローラー

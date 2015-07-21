@@ -2,11 +2,17 @@ filerange 61500 61505
 rangestart 61500 61505
 
 // Subtitles
+// 61500	10 - Super Nova Station
 61500	10 - Super Nova Station
-61501	SUPER NOVA RESEARCH STATION
-61502	Destroy Research Outpost
-61503	Destroy all defense forces
-61504	Destroy Enemy Carrier
+// 61501	SUPER NOVA RESEARCH STATION
+61501	ƒ’´V¯Œ¤‹†Šî’n(SUPER NOVA RESEARCH STATION)„
+// 61502	Destroy Research Outpost
+61502	Œ¤‹†‹’“_‚ğ”j‰ó‚·‚é
+// 61503	Destroy all defense forces
+61503	‘S‚Ä‚Ìç”õ‘à‚ğ”j‰ó‚·‚é
+// 61504	Destroy Enemy Carrier
+61504	“GCarrier‚ğ”j‰ó‚·‚é
+// 61505	                HYPERSPACE
 61505	                HYPERSPACE
 
 rangeend

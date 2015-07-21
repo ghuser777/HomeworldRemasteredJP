@@ -45,7 +45,7 @@ rangestart 51000 52071
 // 51022	If you wish to exit the tutorial, press F10 to bring up the in-game menu.
 51022	チュートリアルを終了したい場合は、[F10]キーを押してゲーム内のメニューを表示します。　　
 // 51025	Using drag-selecting or the SHIFT key, select all the indicated ships.
-51025	ドラッグ選択、または[SHIFT]キーを使用して、指定されたすべての船を選択してください。
+51025	ドラッグ選択、または[SHIFT]キーを使用して、指定された全ての船を選択してください。
 // 51026	Assign the ships you have selected in the previous step to a strikegroup. Strikegroup formation hotkeys are by default F5-F7. You may also use the strikegroup rollout located on the taskbar.
 51026	前のステップで選択した船をストライクグループ(Strikegroups)に割り当てます。ストライクグループフォーメーション用ホットキーは標準で[F5]-[F7]です。また、タスクバー上にあるストライクグループ用アイコンを使用してもよいです。
 // 51005	Enemy Frigate
@@ -87,7 +87,7 @@ rangestart 51000 52071
 // 51101	Now click on the Special Actions Tab in the Taskbar.
 51101	タスクバーのスペシャルアクションタブをクリックします。
 // 51102	This tab displays all Special Actions. Currently only the CLOAK ABILITY ICON is active.
-51102	このタブには、すべてのスペシャルアクションが表示されます。現時点では、隠蔽(CLOAK)アビリティアイコンが有効になっています。
+51102	このタブには、全てのスペシャルアクションが表示されます。現時点では、隠蔽(CLOAK)アビリティアイコンが有効になっています。
 // 51103	Press the CLOAK ICON to activate the carrier's Cloak Generator.
 51103	キャリアー(Carrier)のクロークジェネレーター(CloakGenerator)を作動させるために、隠蔽(CLOAK)アイコンを押してください。
 // 51110	Special Actions are also activated via the SHIFT MENU.
@@ -117,7 +117,7 @@ rangestart 51000 52071
 // 52001	Idle ships will default to their Tactics setting. Tactics govern how ships react to the enemy targets. Click OK to Continue. #+
 52001	待機状態の船は、戦術(Tactics)の設定に従います。戦術(Tactics)によって船が敵のターゲットにどのように反応するかが決まります。 [OK]をクリックして続けます。#+
 // 52003	Units set on Aggressive will retaliate against all enemy targets.
-52003	「積極型(Aggressive)」に設定されているユニットは、すべての敵のターゲットに対して報復します。
+52003	「積極型(Aggressive)」に設定されているユニットは、全ての敵のターゲットに対して報復します。
 // 52004	Ships on Defensive will defend friendly ships, but will not pursue enemy targets. This is the default tactic.
 52004	「守備型(Defensive)」の船は、味方の船を守ります。しかし、敵のターゲットを追撃しません。これは規定の戦術(Tactics)です。
 // 52005	Passive Tactics order units to stand down. They will not engage the enemy under any circumstances.
@@ -133,7 +133,7 @@ rangestart 51000 52071
 // 52010	Strikegroups are tactical formations of ships designed to support each other in battle. Click OK to Continue.  #+
 52010	ストライクグループ(Strikegroups)は、戦闘でお互いをサポートするように設計された船の戦術フォーメーションです。 [OK]をクリックして続けます。#+
 // 52011	Drag select all of these ships.
-52011	これらの船すべてをドラッグ選択してください。
+52011	これらの船全てをドラッグ選択してください。
 // 52013	Now, select a Strikegroup formation from the STRIKEGROUP Roll Out on the task bar.
 52013	タスクバーのストライクグループ(Strikegroups)用アイコンから、ストライクグループフォーメーションを選択してください。
 // 52012	Well done.  Strikegroups are more efficient than the collection of their parts.
@@ -147,7 +147,7 @@ rangestart 51000 52071
 // 52016	You now have full understanding of all the commands available in Homeworld.
 52016	You now have full understanding of all the commands available in Homeworld.
 // 52017	If you wish to practice these skills, you will be confronted by ever increasing Vaygr strike forces. #+
-52017	これまでのスキルを練習したいのであれば、どんどん増援されるヴェイガー(Vaygr)攻撃艦隊に立ち向かってください。#+
+52017	これまでのスキルを練習したいのであれば、どんどん増援されるヴェイガー(Vaygr)攻撃部隊に立ち向かってください。#+
 // 52018	If you wish to play the full game, press esc to return to the menu.
 52018	If you wish to play the full game, press esc to return to the menu.
 // 51053	Good Job.
