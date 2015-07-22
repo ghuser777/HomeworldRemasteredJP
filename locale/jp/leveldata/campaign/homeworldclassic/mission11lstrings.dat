@@ -2,10 +2,15 @@ filerange 61550 61554
 rangestart 61550 61554
 
 // Subtitles
+// 61550	11 - Tenhauser Gate
 61550	11 - Tenhauser Gate
-61551	TENHAUSER GATE
-61552	Destroy the Taiidan fleet
+// 61551	TENHAUSER GATE
+61551	＜タンホイザーゲート(TENHAUSER GATE)＞
+// 61552	Destroy the Taiidan fleet
+61552	タイダーン艦隊を殲滅する
+// 61553	Destroy the Kushan fleet
 61553	Destroy the Kushan fleet
+// 61554	                      HYPERSPACE
 61554	                      HYPERSPACE
 
 rangeend

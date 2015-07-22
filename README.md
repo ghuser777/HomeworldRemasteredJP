@@ -97,11 +97,11 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 ### Homeworldの起動方法
 
-準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に
-`" -moddatapath translation -locale jp"`
-を指定して実行すればOK。
+準備はここまで、後はゲームの起動設定（それかLauncher.exeの起動オプション）に  
+`" -moddatapath translation -locale jp"`  
+を指定して実行すればOK。他のMODも動く。
 
-※起動設定はSteamで、Homeworld Remasteredのプロパティ→一般タブ→起動設定...で設定できる。
+※起動設定はSteamの、Homeworld Remasteredのプロパティ→一般タブ→起動設定...で設定できる。
 
 
 
@@ -144,7 +144,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ミッション 08 完了
 * ミッション 09 完了
 * ミッション 10 完了
-* ミッション 11
+* ミッション 11 完了
 * ミッション 12
 * ミッション 13
 * ミッション 14
@@ -185,19 +185,19 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * おおまかな用語統一案。ただし文脈により適切な言い回しがあれば変更可。
 * 艦船名・地名・人名など固有名詞は「サルベージコルベット」「クライオトレイ」などとカタカナで表記する。
 * 初めて出現する固有名詞や用語は「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英文字列の空白は削除する（Cryo Tray→CryoTray）。ワードラップにより空白以降が強制改行されてしまうため。
-* また、馴染みがなく意味がわからないカタカナ語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
+* また、馴染みがなく意味がわからないカタカナ語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。 ※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
 * ただし、○○strings.datでは艦船名等を英文字のまま記述する（「SalvageCorvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れてしまうため。また、ビルドマネージャーやリサーチマネージャーの英文字艦船名表記と合わせるため。
-* 以降の「※直訳:」は参考情報。
-* カラン・スジェットは「私達」。それ以外は「我々」。
+* カラン・スジェットと使節は「私達」。それ以外は「我々」。
+* ベントゥージがこちらを呼ぶ場合「あなた方」。敵対勢力がこちらを呼ぶ場合「お前達」。
+* 味方側や敵対勢力内での無線通信などは「です・ます調」。ベントゥージや敵対勢力がこちら側に話しかける場合は「だ・である調」。
+* 出来る／できる： 動詞・副詞の場合「できる」（～できる、できるだけ）。名詞の場合「出来」（上出来、出来事）。
+* 下さい／ください： （命令）～をしてください。（物を）～を下さい。
 * 外来語の語尾を伸ばす。センサ、コントローラ → センサー、コントローラー。
-* できる：動詞・副詞の場合「できる」。～できる、できるだけ。
-* 出来る：名詞の場合「出来」。上出来、出来事。
-* ください： （命令）～をしてください。
-* 下さい： （物を）～を下さい。
 * 全角の「？」を使うと文字化けすることがあるので半角の「?」にする。
+* 以降の「※直訳:」は参考情報。
 
 ### 用語
-* Asteroid	アステロイド
+* Asteroid	アステロイド、アステロイド群
 * Asteroid fields	アステロイド地帯
 * Build	建造（艦船）、建設（施設）
 * Capture	捕獲
@@ -207,24 +207,24 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Drone	ドローン
 * Enemy fleet	敵艦隊
 * Enemy forces	敵部隊、敵軍
-* Enemy ships	敵船
+* Enemy ships	敵艦
 * Enemy units	敵部隊
-* Enemy vessels	敵船
+* Enemy vessels	敵艦
 * Formation	フォーメーション
 * Harvest	収集
 * Hostiles	敵対者、敵対する、敵
-* Hostile ships	敵対船、敵対する船、敵船
+* Hostile ships	敵対艦、敵対する船、敵艦
 * Hyperspace	ハイパースペース
 * Production	生産
 * Objectives	目的
 * Research	研究
 * Resource	資源
 * Salvage	サルベージ、回収
-* Ship	船、艦、艦艇
+* Ship	艦、船、艦艇
 * Tactics	戦術
 * Target	目標
 * Trial	訓練、テスト
-* Vessel	船、艦、艦艇
+* Vessel	艦、船、艦艇
 
 ### 固有名詞
 なるべく元の発音に近いようにカタカナ化しています。  
@@ -258,8 +258,12 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * Resource Collecter	リソースコレクター
 * Resource Controller	リソースコントローラー
 * Salvage Corvette	サルベージコルベット
-* Scout	スカウト	※直訳:偵察機
 * Scaffold	スカフォルド	※直訳:足場
+* Scout	スカウト	※直訳:偵察機
 * Strikecraft	ストライククラフト
 * Torpedo Frigate	トーピードフリゲート	※直訳:魚雷/水雷フリゲート艦
 
+### ゲーム内用語
+
+* The First Time	「始まりの時代(TheFirstTime)」
+* The Unbound	「解き放たれし者(TheUnbound)」

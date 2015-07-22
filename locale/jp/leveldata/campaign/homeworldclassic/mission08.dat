@@ -23,7 +23,7 @@ rangestart 60544 60829
 // 60574	We have enemy units closing on multiple attack vectors.  Engage and destroy hostiles.
 60574	我々は敵部隊に全ての方角から包囲されています。 交戦し、敵を破壊して下さい。
 // 60575	Enemy vessels retreating to this point.  This reading has been consistent despite sensor interference.  It has a friendly signature but it's not one of ours.
-60575	敵船がこのポイントに後退しています。 この解析結果はセンサー干渉にもかかわらず一貫しています。 それは友軍の識別信号を発していますが、我々のうちの一隻ではありません。
+60575	敵艦がこのポイントに後退しています。 この解析結果はセンサー干渉にもかかわらず一貫しています。 それは友軍の識別信号を発していますが、我々のうちの一隻ではありません。
 // 60576	It looks just like the Khar-Toba.
 60576	それはちょうどカー・トバ(Khar-Toba)のように見えます。
 // 60577	In fact, metallurgy and structural composition are an identical match to the Khar-Toba wreckage on Kharak.

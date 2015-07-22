@@ -101,9 +101,9 @@ rangestart 51000 52071
 // 51121	This Marine Frigate is one such example.
 51121	このマリンフリゲート(MarineFrigate)はその一例です。
 // 51122	Marine Frigates are used to capture enemy ships.
-51122	マリンフリゲート(MarineFrigate)は、敵の船を捕獲(Capture)するために使用します。
+51122	マリンフリゲート(MarineFrigate)は、敵艦を捕獲(Capture)するために使用します。
 // 51162	To capture an enemy ship, select the Marine Frigate and RIGHT-CLICK on the enemy Frigate.
-51162	敵の船を捕獲(Capture)するには、マリンフリゲートを選択し、敵のフリゲート艦を右クリックします。
+51162	敵艦を捕獲(Capture)するには、マリンフリゲートを選択し、敵のフリゲート艦を右クリックします。
 // 51163	You can also use the CAPTURE ICON or the Shift Menu.
 51163	また、[CAPTURE]アイコン、または[SHIFT]メニューを使用することもできます。
 // 51130	Well done.

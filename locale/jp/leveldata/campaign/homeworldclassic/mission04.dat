@@ -21,7 +21,7 @@ rangestart 60478 60819
 // 60496	You insist on conflict.  This is most unfortunate.
 60496	あなた方は対立を主張する。 これはとても残念なことだ。
 // 60497	Turanic Raider fighters are attacking our resource operation.  Defend it and prepare for more hostile ships to arrive.
-60497	トゥラニックレイダーファイターが我々の資源オペレーションを攻撃しています。 それを守り、より多くの敵対船の到着に備えてください。
+60497	トゥラニックレイダーファイターが我々の資源オペレーションを攻撃しています。 それを守り、より多くの敵対艦の到着に備えてください。
 // 60498	Several Turanic Raider capital ships have just emerged from hyperspace near the Mothership.
 60498	何隻かのトゥラニックレイダーキャピタルシップ(CapitalShip)が、マザーシップの近くにたった今ハイパースペースから出現しました。
 // 60499	The Raider Carrier has been located.  It is reinforcing their squadrons of Fighters and Corvettes.
@@ -31,7 +31,7 @@ rangestart 60478 60819
 // 60501	The Carrier is retreating.  If it escapes, they will warn the Kushan fleet of our pursuit.  Do not allow them to hyperspace.
 60501	The Carrier is retreating.  If it escapes, they will warn the Kushan fleet of our pursuit.  Do not allow them to hyperspace.
 // 60502	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Taiidan fleet that devastated Kharak.  Using data from the Taiidan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
-60502	トゥラニックレイダースは破れました。 我々は現在、当面の目標――カァラークを破壊したタイダーン艦隊への攻撃準備に戻ることができます。 カァラークで捕獲したタイダーン船からのデータを使い、彼らの位置を測定することができました。 もし我々が今攻撃すれば、彼らが損傷を受けた状態を利用することができます。 ハイパースペース座標が艦隊司令官に転送されました。
+60502	トゥラニックレイダースは破れました。 我々は現在、当面の目標――カァラークを破壊したタイダーン艦隊への攻撃準備に戻ることができます。 カァラークで捕獲したタイダーン艦からのデータを使い、彼らの位置を測定することができました。 もし我々が今攻撃すれば、彼らが損傷を受けた状態を利用することができます。 ハイパースペース座標が艦隊司令官に転送されました。
 // 60503	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Kushan fleet that devastated Kharak.  Using data from the Kushan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
 60503	The Turanic Raiders have been defeated.  We can now return to our immediate goal: preparation for an attack on the Kushan fleet that devastated Kharak.  Using data from the Kushan vessel captured at Kharak, we have been able to determine their location.  If we strike now, we can take advantage of their damaged condition.  Hyperspace coordinates have been transferred to Fleet Command.
 // 60504	Turanic Raiders
@@ -41,11 +41,11 @@ rangestart 60478 60819
 // 60761	To increase harvesting efficiency, move your Resource Controller as close to heavy resource areas as possible.
 60761	収集の効率を上げるために、リソースコントローラーをできるだけ多数の資源があるエリアに近づけるように移動してください。
 // 60816	Turanic Raider fighters are attacking.   Prepare for more hostile ships to arrive
-60816	トゥラニックレイダーファイターが攻撃してきます。 より多くの敵対船の到着に備えてください。
+60816	トゥラニックレイダーファイターが攻撃してきます。 より多くの敵対艦の到着に備えてください。
 // 60817	We require additional resources to expand our fleet.  Build and deploy a Resource Controller to maximize raw material collection.
 60817	我々の艦隊を拡大するために追加の資源が必要です。 資源の収集効率を最大化するために、リソースコントローラー(ResourceController)を建造し配備してください。
 // 60818	Hostiles identified as Turanic Raiders are again attacking the Mothership.  Defend the fleet and destroy the attackers.
-60818	トゥラニックレイダースと判明した敵対船が再びマザーシップを攻撃してきます。 艦隊を防衛し攻撃者を破壊してください。
+60818	トゥラニックレイダースと判明した敵対艦が再びマザーシップを攻撃してきます。 艦隊を防衛し攻撃者を破壊してください。
 // 60819	The Turanic Raider carrier is attempting to retreat to warn the Taiidan fleet of our pursuit.  Destroy them before they hyperspace.
 60819	トゥラニックレイダーキャリアーが、我々の追撃をタイダーン艦隊に警告するために退却しようとしています。 ハイパースペースの前に彼らを破壊してください。
 // 60506	Additional usable materials identified.  Deploy Resource Collectors to begin collection of these valuable resources.

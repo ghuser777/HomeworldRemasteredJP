@@ -5,7 +5,7 @@ rangestart 61400 61419
 // 61400	THE CATHEDRAL OF KADESH
 61400	＜カデッシュの大聖堂(THE CATHEDRAL OF KADESH)＞
 // 61402	It's a trap!  Sensors detect hyperspace inhibitors in a triangular formation.  Even one can keep us from entering hyperspace.  All of them must be destroyed. \n\nThe nebula is still scrambling our sensors but it looks like we have incoming hostiles.
-61402	罠です！ センサーは三点にハイパースペース阻害装置を発見しました。 1基だけでも我々がハーパースペースに入るのを妨害することができます。 それら全てを破壊する必要があります。 \n\n星雲はまだ我々のセンサーを乱していますが、我々に敵船が向かってきているように見えます。
+61402	罠です！ センサーは三点にハイパースペース阻害装置を発見しました。 1基だけでも我々がハーパースペースに入るのを妨害することができます。 それら全てを破壊する必要があります。 \n\n星雲はまだ我々のセンサーを乱していますが、我々に敵艦が向かってきているように見えます。
 // 61413	The inhibitor field has ceased.  Hyperspace module back on-line.
 61413	阻害フィールドは閉じました。 ハイパースペースモジュールが復帰しました。
 // 61414	Destroy Hyperspace Inhibitors

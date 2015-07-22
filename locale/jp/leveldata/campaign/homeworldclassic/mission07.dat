@@ -17,7 +17,7 @@ rangestart 60531 60827
 // 60553	Hyperspace module fully charged.
 60553	ハイパースペースモジュールはフルチャージされました。
 // 60554	Coordinates set.  Engage hyperdrive!
-60554	座標を指定。 ハイパードライブを開始してください！
+60554	座標を設定。 ハイパードライブ接続！
 // 60555	Hyperdrive jump failed!  The Quantum waveform collapsed before the fleet could enter hyperspace.
 60555	ハイパードライブジャンプは失敗しました！ 艦隊がハイパースペースに入ることができる前に量子波形が崩壊しました。
 // 60556	Analyzing malfunction.  Continue to protect the Mothership until the problem is solved.

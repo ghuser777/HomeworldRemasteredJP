@@ -9,7 +9,7 @@ rangestart 60511 60823
 // 60515	We detect large resource deposits but no vessels.  It is possible that the Kushan could be hiding in the denser portions of the belt. It may cause interference with our sensors.  Send probes to investigate.  All fleet assets should be kept on alert.
 60515	We detect large resource deposits but no vessels.  It is possible that the Kushan could be hiding in the denser portions of the belt. It may cause interference with our sensors.  Send probes to investigate.  All fleet assets should be kept on alert.
 // 60517	Ship profiles and markings match those from the recording at Kharak.  There is no doubt that this is the fleet.  Destroy them.
-60517	船の形状とマーキングがカァラークで記録したものと一致します。 これがあの艦隊であることに疑う余地はありません。 それらを破壊してください。
+60517	船体の形状とマーキングがカァラークで記録したものと一致します。 これがあの艦隊であることに疑う余地はありません。 それらを破壊してください。
 // 60518	Research Division reports it is now equipped for Ion Cannon technology.  We advise commencing research immediately.
 60518	研究部門はイオンキャノン(IonCannon)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
 // 60519	Research Division reports it is now equipped for Plasma Bomb technology.  We advise commencing research immediately.
@@ -29,9 +29,9 @@ rangestart 60511 60823
 // 60762	Enemy capital ships appear to have lighter armor on the top, bottom, and rear sides. Our capital ships should be issued move orders while attacking to take advantage of this weakness.
 60762	敵のキャピタルシップ(CapitalShip)は上部、下部および背面が軽装甲であると思われます。我々のキャピタルシップが攻撃する際にこれらの弱点を利用するよう移動命令を出すべきです。
 // 60820	Sensors cannot penetrate the asteroid belt.  Send probes into the belt to scout for Taiidan vessels.
-60820	センサーはアステロイド地帯を走査することができません。  タイダーン船を偵察するためにプローブを送ってください。
+60820	センサーはアステロイド地帯を走査することができません。  タイダーン艦を偵察するためにプローブを送ってください。
 // 60821	We have located the Taiidan fleet responsible for destroying Kharak.  Destroy all enemy ships.  Show no mercy.
-60821	我々はカァラーク破壊の元凶であるタイダーン艦隊を突き止めました。 全ての敵船を殲滅してください。 容赦は無用です。
+60821	我々はカァラーク破壊の元凶であるタイダーン艦隊を突き止めました。 全ての敵艦を破壊してください。 容赦は無用です。
 // 60822	The enemy is attempting to harvest resources from the asteroid field.  Destroy their collector to sabotage the efforts.
 60822	敵はアステロイド地帯から資源を収集しようとしています。 労力が無駄になるよう彼らのコレクターを破壊してください。
 // 60823	We believe we can reverse-engineer the enemy's defensive fighter.  Conduct research on these Defender sub-systems.

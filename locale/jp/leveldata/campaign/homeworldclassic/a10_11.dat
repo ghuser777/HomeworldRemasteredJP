@@ -2,10 +2,15 @@ filerange 65627 65631
 rangestart 65627 65631
 
 // Subtitles
-65627	We have intercepted a coded Taiidan  transmission:
+// 65627	We have intercepted a coded Taiidan  transmission:
+65627	我々は符号化された帝国の送信波を傍受しました。
+// 65628	We have intercepted a coded Kushan transmission:
 65628	We have intercepted a coded Kushan transmission:
-65629	You have failed to keep the Exiles from penetrating the outer perimeter.  This could be disastrous.  You will find and destroy them immediately.
+// 65629	You have failed to keep the Exiles from penetrating the outer perimeter.  This could be disastrous.  You will find and destroy them immediately.
+65629	お前達は、追放者どもが銀河外縁を突破するのを阻止し損ねた。 これは災禍の源になるやもしれない。 すぐさま奴らを見つけ出し滅ぼすのだ。
+// 65630	Do not fail us again, or the Elite Guard will require a new commander.
 65630	Do not fail us again, or the Elite Guard will require a new commander.
-65631	Our spies believe that the Bentusi have interfered.  They must not be allowed to bring this matter to the Council and gain support for the Exiles.
+// 65631	Our spies believe that the Bentusi have interfered.  They must not be allowed to bring this matter to the Council and gain support for the Exiles.
+65631	我々の諜報員達はベントゥージが干渉したと考えている。 彼らがこの事態を評議会へと持ち込み、追放者どもが支持を得ることを許してはならない。
 
 rangeend

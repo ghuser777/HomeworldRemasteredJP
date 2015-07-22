@@ -5,9 +5,9 @@ rangestart 60401 60813
 // 60401	We made it. Hyperspace jump complete!  All systems nominal, and the quantum wave effect has dissipated.
 60401	私達は成功しました。ハイパースペースジャンプは成功です！ 全てのシステムは予定通りであり、量子波効果は消失しました。
 // 60402	We have mis-jumped.  The support ship is not here.  Fleet Command will signal the Khar-Selim while we confirm our current position.
-60402	我々はジャンプを誤りました。 支援船がここにはありません。 我々が現在位置を確認する間に、艦隊司令官はカー・セリム(Khar-Selim)に信号を送ってください。
+60402	我々はジャンプを誤りました。 支援艦がここにはありません。 我々が現在位置を確認する間に、艦隊司令官はカー・セリム(Khar-Selim)に信号を送ってください。
 // 60403	This is the Mothership calling Support Vessel Khar-Selim.  Come in, please.  We have mis-jumped and are requesting your beacon. . . This is the Mothership calling Support Vessel Khar-Selim.  Please respond. . .
-60403	こちらはマザーシップ、支援船カー・セリム(Khar-Selim)に呼びかけています。 応答してください。 私達はジャンプを誤り、貴艦のビーコンを求めています……こちらはマザーシップ、支援船カー・セリムに呼びかけています。 応答してください……
+60403	こちらはマザーシップ、支援艦カー・セリム(Khar-Selim)に呼びかけています。 応答してください。 私達はジャンプを誤り、貴艦のビーコンを求めています……こちらはマザーシップ、支援艦カー・セリムに呼びかけています。 応答してください……
 // 60404	Priority Alert.  We have picked up the Khar-Selim's automated beacon.
 60404	優先警告。 我々はカー・セリム(Khar-Selim)の自動ビーコンを検出しました。
 // 60405	Send a probe to make contact and re-establish communications.
@@ -59,9 +59,9 @@ rangestart 60401 60813
 // 60808	We need to find out what happened to the Khar-Selim.  Send a Salvage Corvette to the wreckage to retrieve its mission data recorder.
 60808	我々は、カー・セリム(Khar-Selim)に何が起こったかを知る必要があります。 ミッションデータレコーダーを回収するために、残骸にサルベージコルベット(SalvageCorvette)を送ってください。。
 // 60809	Unknown hostile vessels are attacking the Mothership!  Deploy strikecraft to protect the Mothership from these assailants.
-60809	未知の敵対船がマザーシップを攻撃しています！ これらの攻撃者からマザーシップを守るための攻撃部隊を展開してください。
+60809	未知の敵対艦がマザーシップを攻撃しています！ これらの攻撃者からマザーシップを守るための攻撃部隊を展開してください。
 // 60810	Unknown hostiles are on an intercept course with our Salvage Corvette.  Ensure the delivery of the data recorder to the Mothership.
-60810	未知の敵対船は、我々のサルベージコルベット(SalvageCorvette)を補足できるコースにいます。 マザーシップへのデータレコーダー輸送を確実にしてください。
+60810	未知の敵対艦は、我々のサルベージコルベット(SalvageCorvette)を補足できるコースにいます。 マザーシップへのデータレコーダー輸送を確実にしてください。
 // 60811	Sensors show a large force of hostiles on an attack vector.  We must deploy a sizable defense force to engage this threat.
 60811	センサーが、攻撃姿勢とった敵対する大きな戦力を示しています。 我々は、この脅威に対応できるかなりの防衛部隊を配備する必要があります。
 // 60812	We detect a large power source at the origin of the enemy fleet.  Send forces or a probe to investigate this anomaly.
@@ -71,7 +71,7 @@ rangestart 60401 60813
 // 60424	Khar-Selim
 60424	カー・セリム(Khar-Selim)
 // 60425	Enemy Ships
-60425	敵船
+60425	敵艦
 // 60426	Hyperspace Test Recon Team
 60426	ハイパースペーステスト観測チーム
 // 60427	Enemy Carrier

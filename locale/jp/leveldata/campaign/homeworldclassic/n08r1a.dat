@@ -2,15 +2,25 @@ filerange 66636 66645
 rangestart 66636 66645
 
 // Subtitles
-66636	It has been forbidden to possess this information for some time.  But after your intervention on our behalf, we feel compelled to share it with you.  Behold:
-66637	In the First Time, a terrible war brought with it the collapse of your ancient empire.  So vicious were your enemies that all would have been slaughtered were it not for the collective outcry for mercy.
-66638	In an effort to soothe relations, the conquerors spared the lives of the defeated.  All survivors were sent into exile.
-66639	None were permitted to follow or aid the fallen.  All memory of them was to be erased.
-66640	For generations the convoy moved silently through space.  They endured great difficulties...
-66641	...imperfect technology...
-66642	In time, a suitable system to receive them was found.
-66643	This barren world appeared to be salvation. Their true legacy forgotten, a new vision of destiny had grown out of captivity.
-66644	A single artifact survived the journey.  The Guidestone you now carry.  It was removed from the sacred "Angel Moon"  of your Homeworld, a place long since reduced to myth and tale.
-66645	Your progress is becoming known among the Inner Rim worlds and elsewhere.  Many cultures have prophesized your return.
+// 66636	It has been forbidden to possess this information for some time.  But after your intervention on our behalf, we feel compelled to share it with you.  Behold:
+66636	長い間、この情報を知ることは禁じれれていた。 しかし、我々のためにあなた方が行った介入の後、我々はそれをあなた方と共有したいという抗し難い思いを感じている。 見よこれを。
+// 66637	In the First Time, a terrible war brought with it the collapse of your ancient empire.  So vicious were your enemies that all would have been slaughtered were it not for the collective outcry for mercy.
+66637	「始まりの時代(TheFirstTime)」、恐ろしい戦争があなた方の古代帝国の崩壊をもたらした。 あなた方の敵は邪悪だったため、慈悲を求める大衆の叫びが無くば全てが虐殺されたであろう。
+// 66638	In an effort to soothe relations, the conquerors spared the lives of the defeated.  All survivors were sent into exile.
+66638	縁故の者達の努力により、征服者達は敗北者達を助命した。 全ての生存者は追放された。
+// 66639	None were permitted to follow or aid the fallen.  All memory of them was to be erased.
+66639	その後を追う者も、倒れた者を助ける者もいなかった。 彼らに関する全ての記憶は消されるはずであった。
+// 66640	For generations the convoy moved silently through space.  They endured great difficulties...
+66640	何世代もの間、船団は秘やかに宇宙を渡って行った。 彼らは多大な困難を耐え忍んだ……。
+// 66641	...imperfect technology...
+66641	――未熟な技術で……。
+// 66642	In time, a suitable system to receive them was found.
+66642	やがて、彼らを受け入れるのに適した星系が発見された。
+// 66643	This barren world appeared to be salvation. Their true legacy forgotten, a new vision of destiny had grown out of captivity.
+66643	この不毛な世界は救いのように思われた。 彼らは真の遺産を忘れ、新たな運命という空想がその制約から生まれた。
+// 66644	A single artifact survived the journey.  The Guidestone you now carry.  It was removed from the sacred "Angel Moon"  of your Homeworld, a place long since reduced to myth and tale.
+66644	ひとつの遺物が旅に耐えた。 あなた方が今運んでいるガイドストーンだ。 それはあなた方の故郷(Homeworld)の神聖なる「エンジェルムーン」、かつては神話や物語となっていた場所から移された。
+// 66645	Your progress is becoming known among the Inner Rim worlds and elsewhere.  Many cultures have prophesized your return.
+66645	あなた方の前進は、内縁領域の世界やそのほかの場所の間で知られつつある。 多くの文化があなた方の帰還を予期している。
 
 rangeend
