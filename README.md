@@ -10,6 +10,7 @@ http://homeworld.wiki.fc2.com/wiki/MOD
 
 日本語化の仕方は上記日本語フォントのreame.txtに書いてありますが、一部誤字脱字・漏れなどがあるので、あらためて以下に書きます。
 
+
 ### 暗号化されたBigファイルを復号するプログラムを入手する。
 
 ・bigDecrypter.exe  
@@ -19,6 +20,7 @@ https://github.com/mon/bigDecrypter/releases
 
 使い方は復号したいBigフィアルをdropBigHere.batにドロップする。  
 ファイルをドロップするとドロップしたファイルと同じ場所に"<ファイル名>_decrypted"の名前で復号されたファイルが作成される。
+
 
 ### 復号したBigファイルを個々のファイルに展開するプログラムを入手する
 
@@ -31,6 +33,7 @@ Toolkitをインストールすると、Archive.exeは標準で以下のフォ�
 
 Archive.exeの使い方は、コマンドプロンプトで以下のコマンドを実行。  
 `Archive.exe -a <Bigファイル名> -e <展開先のフォルダ名>`
+
 
 ### 作業に必要なBigファイルを復号＆展開する
 
@@ -55,6 +58,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Homeworld\HomeworldRM\DataUpdates
 * UpdateEnglishSpeechHW2Campaign.big
 * UpdateMusic.big
 * UpdateMusicHW1Campaign.big
+
 
 ### Homeworld Remasteredのフォルダに新規フォルダを作成し、必要なファイルをコピーする。
 
@@ -91,9 +95,29 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 
 \translation\locale\jp\fontmap.luaを開き、フォント定義(Blender.rcfとSmallFonts7.rcf)を全て、日本語フォントのファイル名(MigMix2p.rcf)に書き換える。
 
+（これは必要ないかも？）上記fontmap.luaに`FontMap1920 =`のブロックを増やす（テキストをコピペして1920に書き換える）。
+
+
 ### 翻訳する
 
 \jpフォルダ以降にあるDATファイル内の英文を日本語に翻訳する。DATファイルはShift_JIS（CP932）で保存する。
+
+現在作業中の翻訳の大本は「Hiigara Chronicles」さんのものを使わせて頂いています。
+
+Hiigara Chronicles [Rev.A since 2005/3/13]  
+http://www.geocities.jp/hiigara_chronicle/index.html
+
+そのほかには、Google翻訳  
+https://translate.google.co.jp/
+
+エキサイト翻訳  
+http://www.excite.co.jp/world/
+
+英和辞典・和英辞典 - Weblio辞書  
+http://ejje.weblio.jp/
+
+各種辞典・英語文法事例・日本語文法事例サイト、Wikipedia、米国のWikipediaや固有名詞・熟語・慣用句等のソース(ネタ元/意味)などがわかる外国サイトなどを元に作業をしています。
+
 
 ### Homeworldの起動方法
 
@@ -189,7 +213,7 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 * ただし、○○strings.datでは艦船名等を英文字のまま記述する（「SalvageCorvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れてしまうため。また、ビルドマネージャーやリサーチマネージャーの英文字艦船名表記と合わせるため。
 * カラン・スジェットと使節は「私達」。それ以外は「我々」。
 * ベントゥージがこちらを呼ぶ場合「あなた方」。敵対勢力がこちらを呼ぶ場合「お前達」。
-* 味方側や敵対勢力内での無線通信などは「です・ます調」。ベントゥージや敵対勢力がこちら側に話しかける場合は「だ・である調」。
+* 味方側のセリフ、敵対勢力内での無線通信などは「です・ます調」。ベントゥージや敵対勢力がこちら側に話しかける場合は「だ・である調」。
 * 出来る／できる： 動詞・副詞の場合「できる」（～できる、できるだけ）。名詞の場合「出来」（上出来、出来事）。
 * 下さい／ください： （命令）～をしてください。（物を）～を下さい。
 * 外来語の語尾を伸ばす。センサ、コントローラ → センサー、コントローラー。
