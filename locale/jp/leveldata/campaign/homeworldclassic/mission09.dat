@@ -19,13 +19,13 @@ rangestart 60587 60832
 // 60594	Direct all fire at the alien ship in an attempt to disable the field.
 60594	フィールドを無効にする試みのために、全ての砲火を異星船に集めるよう指示してください。
 // 60595	After seizing the Missile Destroyer, construction reports we can now build a similar vessel.
-60595	ミサイルデストロイヤー(MissileDestroyer)を分析した結果、生産部門は我々が同じような船を建造できると報告しています。
+60595	ミサイルデストロイヤー(MissileDestroyer)を分析した結果、生産部門は我々が同様の船を建造できると報告しています。
 // 60596	Alien vessel neutralized.  Our crews have regained control.
 60596	異星船を無力化しました。 我々のクルーは制御を奪いました。
 // 60597	While the field was up they were able to analyze the alien control system.  We now have control of the foreign vessels.  In addition, we detect no life signs aboard the alien vessel.  It is a derelict.
 60597	フィールドが最大でしたが、彼らは異星人の制御システムを分析することができました。 現在、異星船の制御を押さえています。 加えて、異星船に乗る生命の反応は検出されませんでした。 それは遺跡です。
 // 60598	Research Division reports it has developed plans for gravity-warping technology based on the alien control field.  We advise commencing research immediately.
-60598	研究部門は異星人の制御フィールドを元にした重力歪曲技術(Gravity-warpingTechnology)に対する設計を開発したと報告しています。 我々はすぐに研究を開始するよう進言します。
+60598	研究部門は異星人の制御フィールドを元にした重力歪曲(Gravity-warping)テクノロジーに対するプランがあると報告しています。 我々はすぐに研究を開始するよう進言します。
 // 60599	We have known of this ship but could never approach it.  We are particularly vulnerable to its influence.
 60599	我々はこの船について知っていたが、決して近づくことはなかった。 我々は特にその影響を受けやすい。
 // 60600	The Bentusi would like the information you have acquired.  It will be transferred automatically if you choose to trade.

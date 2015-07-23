@@ -35,7 +35,7 @@ rangestart 51000 52071
 // 51012	Assign the Bombers to Control Group 2 by selecting the ships and pressing CTRL+2.
 51012	船を選択してから[CTRL]+[2]を押して、グループ2にボマー(Bomber)隊を割り当ててください。
 // 51013	Select available Fighters and issue an attack order on the unarmed  Vaygr Frigate.
-51013	利用可能な戦闘機を選択し、武装解除したヴェイガー(Vaygr)のフリゲート艦に攻撃命令を出してください。
+51013	利用可能な戦闘機隊を選択し、武装解除したヴェイガー(Vaygr)のフリゲート艦に攻撃命令を出してください。
 // 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 // 51015	Cloak the Carrier by clicking on the flashing Cloak button on the Taskbar, or by SHIFT-RIGHT-CLICKING on the Carrier and choosing the Cloak special ability.

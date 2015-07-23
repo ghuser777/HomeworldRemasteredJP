@@ -125,7 +125,7 @@ rangestart 50000 50441
 // 50083	A second Scout Squadron is launching.
 50083	二つ目のスカウト(Scout)隊が発進しました。
 // 50090	To select multiple squadrons, first hold down the LEFT MOUSE BUTTON and then DRAG a BOX around both Scout Squadrons. Do this now.
-50090	複数の部隊を選択するには、マウスの左ボタンを押したまま二つのスカウト(Scout)隊が収まるように四角くドラッグして範囲選択します。やってみてください。
+50090	複数の戦隊を選択するには、マウスの左ボタンを押したまま二つのスカウト(Scout)隊が収まるように四角くドラッグして範囲選択します。やってみてください。
 // 50091	This is called DRAG-SELECTING.
 50091	これを「ドラッグ選択(DRAG-SELECTING)」と呼んでいます。
 // 50040	Excellent work. Click OK to Continue.#+

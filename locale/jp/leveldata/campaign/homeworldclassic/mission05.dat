@@ -19,7 +19,7 @@ rangestart 60511 60823
 // 60521	Enemy capital ships appear to be most heavily armored on the front and sides.  Our capital ships should be issued move orders while attacking to take advantage of the more vulnerable sides.
 60521	敵のキャピタルシップ(CapitalShip)は正面および側面がもっとも重装甲であると思われます。我々のキャピタルシップが攻撃する際により脆弱な面を利用するよう移動命令を出すべきです。
 // 60522	The enemy is using a new Fighter class ship with strong defensive capabilities but low maneuverability.  Our Research Division reports that it can produce a similar vessel.  Begin research as soon as possible.
-60522	敵は、機動性は低いものの強力な防衛能力を持つ新しいファイター級艦艇を使っています。 我々の研究部門はそれと類似した船を生産することができると報告しています。 できるだけ早く研究を開始してください。
+60522	敵は、機動性は低いものの強力な防衛能力を持つ新しいファイター級艦艇を使っています。 我々の研究部門は同様の船を作り出すことができると報告しています。 できるだけ早く研究を開始してください。
 // 60523	Taiidan fleet destroyed.  Hyperspace coordinates locked in.
 60523	タイダーン艦隊を殲滅しました。 ハイパースペース座標を固定。
 // 60524	Kushan fleet destroyed.  Hyperspace coordinates locked in.

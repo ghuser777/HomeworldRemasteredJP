@@ -37,7 +37,7 @@ rangestart 60401 60813
 // 60417	Large power signature detected nearby. Recommend immediate investigation.
 60417	近くに大きな動力源を検出しました。直ちに調査することを推奨します。
 // 60418	It's an enemy Carrier.  They appear to be reinforcing their squadrons of Fighters and Corvettes with it.
-60418	それは敵のキャリアー(Carrier)です。 彼らはそれによりファイターの編隊やコルベットを増援しています。
+60418	それは敵のキャリアー(Carrier)です。 彼らはそれによりファイターとコルベットの戦隊を増援しています。
 // 60419	We have determined that these enemy units are inferior to ours.
 60419	我々は、これら敵部隊が我々よりも劣っていることを確認しました。
 // 60420	To protect against penetration of the Kharak system, destroy the attacking force completely.

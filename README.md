@@ -107,7 +107,12 @@ HW2Campaign.bigの\localeに有るlocaledat.luaを\translation\localeへコピ�
 Hiigara Chronicles [Rev.A since 2005/3/13]  
 http://www.geocities.jp/hiigara_chronicle/index.html
 
-そのほかには、Google翻訳  
+その他には、
+
+Encyclopedia Hiigara  
+http://homeworld.wikia.com/wiki/Main_Page
+
+Google翻訳  
 https://translate.google.co.jp/
 
 エキサイト翻訳  
@@ -132,9 +137,11 @@ http://ejje.weblio.jp/
 
 ## 共通ファイル
 
+
 ### 着手
 * events.dat
 * fontmap.lua
+
 
 ### 未着手（未確認）
 * ati.dat
@@ -157,6 +164,9 @@ http://ejje.weblio.jp/
 * チュートリアル 02 完了
 * チュートリアル 03 完了
 
+
+
+
 ## Homeworld 1 Remastered
 * ミッション 01 完了
 * ミッション 02 完了
@@ -169,8 +179,8 @@ http://ejje.weblio.jp/
 * ミッション 09 完了
 * ミッション 10 完了
 * ミッション 11 完了
-* ミッション 12
-* ミッション 13
+* ミッション 12 作業中
+* ミッション 13 作業中
 * ミッション 14
 * ミッション 15
 * ミッション 16
@@ -211,14 +221,16 @@ http://ejje.weblio.jp/
 * 初めて出現する固有名詞や用語は「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英文字列の空白は削除する（Cryo Tray→CryoTray）。ワードラップにより空白以降が強制改行されてしまうため。
 * また、馴染みがなく意味がわからないカタカナ語の場合は、初出のときに括弧書きで説明を付ける。例：「クライオ(冷凍睡眠)トレイ(CryoTray)」。 ※この場合Cryoの直訳は「冷凍睡眠」ではないがゲーム内容にそって意訳してる。
 * ただし、○○strings.datでは艦船名等を英文字のまま記述する（「SalvageCorvetteを建造する」など）。カタカナにすると長すぎて画面表示が切れてしまうため。また、ビルドマネージャーやリサーチマネージャーの英文字艦船名表記と合わせるため。
+* ○○strings.datのミッションタイトルは、日本語訳＋元の英文を山括弧で囲む。 例：`＜カァラーク星系(KHARAK SYSTEM)＞`
 * カラン・スジェットと使節は「私達」。それ以外は「我々」。
-* ベントゥージがこちらを呼ぶ場合「あなた方」。敵対勢力がこちらを呼ぶ場合「お前達」。
+* ベントゥージがこちらを呼ぶ場合「あなた方」。エリソン艦長は「あなた達」。敵対勢力がこちらを呼ぶ場合「お前達」。
 * 味方側のセリフ、敵対勢力内での無線通信などは「です・ます調」。ベントゥージや敵対勢力がこちら側に話しかける場合は「だ・である調」。
 * 出来る／できる： 動詞・副詞の場合「できる」（～できる、できるだけ）。名詞の場合「出来」（上出来、出来事）。
 * 下さい／ください： （命令）～をしてください。（物を）～を下さい。
 * 外来語の語尾を伸ばす。センサ、コントローラ → センサー、コントローラー。
 * 全角の「？」を使うと文字化けすることがあるので半角の「?」にする。
 * 以降の「※直訳:」は参考情報。
+
 
 ### 用語
 * Asteroid	アステロイド、アステロイド群
@@ -235,6 +247,7 @@ http://ejje.weblio.jp/
 * Enemy units	敵部隊
 * Enemy vessels	敵艦
 * Formation	フォーメーション
+* Group Captain	大佐	※イギリス空軍の階級で大佐
 * Harvest	収集
 * Hostiles	敵対者、敵対する、敵
 * Hostile ships	敵対艦、敵対する船、敵艦
@@ -244,31 +257,43 @@ http://ejje.weblio.jp/
 * Research	研究
 * Resource	資源
 * Salvage	サルベージ、回収
+* Squadron	隊、戦隊、艦隊。Squadron of Scout:スカウトの戦隊。Scout squadron:スカウト隊。
 * Ship	艦、船、艦艇
 * Tactics	戦術
 * Target	目標
 * Trial	訓練、テスト
 * Vessel	艦、船、艦艇
 
+
 ### 固有名詞
 なるべく元の発音に近いようにカタカナ化しています。  
 * Bentusi	ベントゥージ
+* DIAMOND SHOALS	ダイヤモンドショールズ	※元ネタ：アメリカ合衆国ノースカロライナ州東端に突き出たアウターバンクスと呼ばれる砂州の中の、ハッテラス島ハッテラス岬沖のDiamond Shoals（ダイアモンド砂州）と呼ばれる場所は、特に航海の難所として知られている。
 * Guidestone	ガイドストーン
 * Hiigara	ヒガーラ
-* Kadesh	カデッシュ
+* Kadesh	カデッシュ	※元ネタ：Qadesh/Kadesh、古代のシリアにあった都市国家。
+* Kapella	カペラ
 * Karan S'jet	カラン・スジェット
+* Karos	カロス
 * Khar-Selim	カー・セリム
 * Khar-Toba	カー・トバ
 * Kharak	カァラーク
 * Kharak System	カァラーク星系
+* Kushan	クーシャン
+* SHINING HINTERLANDS	シャイニングヒンターランド	※Encyclopedia Hiigaraによるとこの地名の元ネタは不明であるが、銀河系中央近傍のヒンターランド(後背地)が、輝く銀河中心部を見る位置にあるためまさに適切な地名ではないかとのこと。
 * Taiidan	タイダーン
 * Taiidan Empire	タイダーン帝国
+* TENHAUSER GATE	タンホイザーゲート	※元ネタ：映画ブレードランナーの有名なセリフの中にでてくる。タンホイザーゲートはSFネタとして使われアニメ「トップをねらえ!」にもでてくる。
+* The First Time	「始まりの時代(TheFirstTime)」
+* The Unbound	「解き放たれし者(TheUnbound)」
 * Turanic Raiders	トゥラニックレイダース
+
 
 ### 艦船・施設
 * Bomber	ボマー	※直訳:爆撃機
 * Capital Ship	キャピタルシップ	※直訳:主力艦
 * Carrier	キャリアー	※直訳:空母
+* Cloaked Fighter	クロークドファイター
 * Cruiser	クルーザー	※直訳:巡洋艦
 * Cryo Tray	クライオトレイ	※冷凍睡眠トレイ	※直訳:低温/冷凍トレー
 * Defender	ディフェンダー	
@@ -276,6 +301,7 @@ http://ejje.weblio.jp/
 * Fighter	ファイター。文脈により「戦闘機」
 * Frigate	フリゲート
 * Interceptor	インターセプター	※直訳:迎撃機
+* Missile Destroyer	ミサイルデストロイヤー	※直訳:ミサイル駆逐艦
 * Mothership	マザーシップ	※直訳:母船
 * Proximity Sensor	プロキシミティセンサー	※直訳:近接センサー
 * Research Ship	リサーチシップ	※直訳:研究船
@@ -286,8 +312,3 @@ http://ejje.weblio.jp/
 * Scout	スカウト	※直訳:偵察機
 * Strikecraft	ストライククラフト
 * Torpedo Frigate	トーピードフリゲート	※直訳:魚雷/水雷フリゲート艦
-
-### ゲーム内用語
-
-* The First Time	「始まりの時代(TheFirstTime)」
-* The Unbound	「解き放たれし者(TheUnbound)」

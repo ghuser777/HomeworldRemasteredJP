@@ -2,10 +2,15 @@ filerange 65648 65652
 rangestart 65648 65652
 
 // Subtitles
-65648	Emergency alert!!
-65649	Hyperdrive malfunction.
-65650	The quantum waveform is collapsing.
-65651	Safety interrupt engaged.
-65652	Prepare for immediate return to normal space.
+// 65648	Emergency alert!!
+65648	緊急警報！！
+// 65649	Hyperdrive malfunction.
+65649	ハイパードライブに機能不全発生。
+// 65650	The quantum waveform is collapsing.
+65650	量子波形が崩壊しています。
+// 65651	Safety interrupt engaged.
+65651	セーフティインタラプトを使用します。
+// 65652	Prepare for immediate return to normal space.
+65652	通常空間への即時復帰に備えてください。
 
 rangeend

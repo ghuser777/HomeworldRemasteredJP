@@ -5,7 +5,7 @@ rangestart 50500 50702
 // 50500	Collect one load of resources and deliver them back to the carrier.
 50500	資源を収集しキャリアー(Carrier)に届ける
 // 50501	Build a squadron of Scouts
-50501	スカウト(Scout)編隊を建造する
+50501	スカウト(Scout)隊を建造する
 // 50502	Build a Research Module
 50502	Build a Research Module
 // 50503	Select the Research Module
@@ -39,7 +39,7 @@ rangestart 50500 50702
 // 50518	Select the Bombers option from the Fighter section of the Build Menu.
 50518	Select the Bombers option from the Fighter section of the Build Menu.
 // 50519	Order your Fighter squadrons to attack the disarmed Drone frigate.
-50519	武装解除ドローンのフリゲート艦を攻撃するために、戦闘機隊に攻撃を指示してください。
+50519	武装解除ドローンのフリゲート艦を攻撃するために、ファイター隊に攻撃を指示してください。
 // 50523	The Build Manager can be opened by clicking on the flashing BUILD icon on the taskbar. The default BUILD key is B.
 50523	タスクバー上で点滅している建造(BUILD)ボタンをクリックしてビルドマネージャー(BuildManager)を開くことができます。標準のビルドキーは[B]です。
 // 50524	While holding down CTRL, DRAG a BANDBOX around both targets to initiate an attack.
@@ -117,7 +117,7 @@ rangestart 50500 50702
 // 50600	Stand by to begin combat lessons.
 50600	戦闘訓練の開始に備えてください。
 // 50601	A Squadron of Bombers has been constructed, and an unarmed Torpedo Frigate has been provided. Click OK to Continue.#+
-50601	ボマー(Bomber)の編隊が建造されており、また、非武装のトーピードフリゲート(TorpedoFrigate)が用意されています。 [OK]をクリックして続けます。#+
+50601	ボマー(Bomber)の戦隊が建造されており、また、非武装のトーピードフリゲート(TorpedoFrigate)が用意されています。 [OK]をクリックして続けます。#+
 // 50610	To attack a target, select the Bomber Squadron and RIGHT-CLICK on the Torpedo Frigate.
 50610	目標を攻撃するために、ボマー(Bomber)隊を選択し、トーピードフリゲート(TorpedoFrigate)を右クリックします。
 // 50619	Order the Bombers to attack the Torpedo Frigate now.

@@ -2,11 +2,17 @@ filerange 61600 61605
 rangestart 61600 61605
 
 // Subtitles
+// 61600	12 - Galactic Core
 61600	12 - Galactic Core
-61601	GALACTIC CORE
-61602	Destroy source of gravity field
-61603	Protect the Fleet
-61604	Protect the Defector
+// 61601	GALACTIC CORE
+61601	＜銀河中心部(GALACTIC CORE)＞
+// 61602	Destroy source of gravity field
+61602	重力フィールドの発生源を破壊する
+// 61603	Protect the Fleet
+61603	艦隊を守る
+// 61604	Protect the Defector
+61604	亡命者を守る
+// 61605	                      HYPERSPACE
 61605	                      HYPERSPACE
 
 rangeend
