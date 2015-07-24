@@ -38,8 +38,9 @@ Archive.exeの使い方は、コマンドプロンプトで以下のコマンド
 ### 作業に必要なBigファイルを復号＆展開する
 
 dropBigHere.batとArchive.exeを使って、Bigファイルを復号＆展開する。必要となるBigファイルは下記。  
-Update○○.bigは暗号化されていないかも？試してみて暗号化されていなかったら、Archive.exeによるファイルの展開だけOKです。  
-※2015年7月4日時点。
+
+※2015年7月4日時点。  
+※なお、Update○○.bigは暗号化されていないかも？dropBigHere.batにドロップして復号されなければ暗号化されていないので、Archive.exeによるファイルの展開だけでOKです。
 
 C:\Program Files (x86)\Steam\steamapps\common\Homeworld\HomeworldRM\Data
 * English.big
