@@ -2,9 +2,13 @@ filerange 65685 65688
 rangestart 65685 65688
 
 // Subtitles
-65685	According to the data we received from Captain Elson, the Homeworld system is surrounded by a network of hyperspace inhibitors.
-65686	The inhibitors are all heavily shielded and do not show up on any sensors.
-65687	Elson has provided us with coordinates of the most vulnerable inhibitor station.
-65688	Our goal is to destroy the station and create our own access point.
+// 65685	According to the data we received from Captain Elson, the Homeworld system is surrounded by a network of hyperspace inhibitors.
+65685	我々がエルソン艦長から受け取ったデータによれば、故郷(Homeworld)の星系はハイパースペース妨害装置のネットワークによって囲まれています。
+// 65686	The inhibitors are all heavily shielded and do not show up on any sensors.
+65686	妨害装置は多重に保護されていて、どの様なセンサーの上にも現れません。
+// 65687	Elson has provided us with coordinates of the most vulnerable inhibitor station.
+65687	エルソンは最も攻撃し易い妨害装置がある基地の座標を提供してくれました。
+// 65688	Our goal is to destroy the station and create our own access point.
+65688	我々の目標は基地を破壊し、侵入経路を作ることです。
 
 rangeend

@@ -2,10 +2,15 @@ filerange 61700 61704
 rangestart 61700 61704
 
 // Subtitles
+// 61700	14 - Bridge of Sighs
 61700	14 - Bridge of Sighs
-61701	BRIDGE OF SIGHS
-61702	Destroy field generator
-61703	Destroy hyperspace gates
+// 61701	BRIDGE OF SIGHS
+61701	＜ため息橋(BRIDGE OF SIGHS)＞
+// 61702	Destroy field generator
+61702	フィールドジェネレーターを破壊する
+// 61703	Destroy hyperspace gates
+61703	ハイパースペースゲートを破壊する
+// 61704	                      HYPERSPACE
 61704	                      HYPERSPACE
 
 rangeend

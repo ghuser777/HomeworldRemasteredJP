@@ -31,7 +31,7 @@ rangestart 60673 60840
 // 60780	Research Division reports it is now equipped for Cloaked Generator technology.  We advise commencing research immediately.
 60780	研究部門はクロークドジェネレーター(CloakedGenerator)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
 // 60781	Research Division reports it is now equipped for Heavy Guns technology.  We advise commencing research immediately.
-60781	研究部門はヘヴィガンズ(HeavyGuns)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
+60781	研究部門はヘヴィガン(HeavyGuns)テクノロジーに対する準備が整っていると報告しています。 我々はすぐに研究を開始するよう進言します。
 // 60840	Captain Elson needs to use the communication relay hidden in this area to contact the rebel fleet.  Dock a Fighter or Corvette with the relay to activate it.
 60840	エルソン艦長は、反乱軍に連絡するために、この領域に隠された通信中継器を使用する必要があります。 中継器にファイターかコルベットをドッキングして、それを作動させてください。
 // 60673	Communications Relay

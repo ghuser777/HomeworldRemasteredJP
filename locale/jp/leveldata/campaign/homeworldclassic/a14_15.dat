@@ -2,10 +2,15 @@ filerange 65696 65700
 rangestart 65696 65700
 
 // Subtitles
-65696	We have to assume that the Homeworld's defensive fleet must be alerted to our presence.
-65697	All vessels and crew at maximum readiness.
-65698	Weapons and tracking at 100% efficiency.
-65699	The fleet is ready.
-65700	There can be no retreat now.
+// 65696	We have to assume that the Homeworld's defensive fleet must be alerted to our presence.
+65696	我々は、故郷(Homeworld)の防衛艦隊に我々の存在を警告されていることを想定しなければなりません。
+// 65697	All vessels and crew at maximum readiness.
+65697	全ての船と乗員は最大限の備えを。
+// 65698	Weapons and tracking at 100% efficiency.
+65698	兵器と追尾機能の能率は100%です。
+// 65699	The fleet is ready.
+65699	艦隊は準備ができています。
+// 65700	There can be no retreat now.
+65700	撤退はあり得ません。
 
 rangeend

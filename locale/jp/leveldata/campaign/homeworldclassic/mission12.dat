@@ -17,7 +17,7 @@ rangestart 60653 60839
 // 60659	We are under attack by Kushan forces.  They are concentrating fire on our immobilized strikecraft.
 60659	We are under attack by Kushan forces.  They are concentrating fire on our immobilized strikecraft.
 // 60660	Attention Kushan Mothership!  This is Captain Elson of the Taiidan Elite Guard Destroyer Kapella.  We wish to defect and need assistance.  In return we are prepared to help you.  Please respond.
-60660	クーシャン(Kushan)のマザーシップへ！ こちらはタイダーンのエリート親衛隊所属駆逐艦カペラ(Kapella)の艦長エリソンだ。 我々は亡命を求めており、支援を必要としている。 その代わりに貴官らを手助けする準備が整っている。 返答を求める。
+60660	クーシャン(Kushan)のマザーシップへ！ こちらはタイダーンのエリート親衛隊所属駆逐艦カペラ(Kapella)の艦長エルソンだ。 我々は亡命を求めており、支援を必要としている。 その代わりに貴官らを手助けする準備が整っている。 返答を求める。
 // 60661	Attention Taiidan Mothership!  This is Captain Elson of the Kushan Elite Guard Destroyer Kapella.  We wish to defect and need assistance.  In return we are prepared to help you.  Please respond.
 60661	Attention Taiidan Mothership!  This is Captain Elson of the Kushan Elite Guard Destroyer Kapella.  We wish to defect and need assistance.  In return we are prepared to help you.  Please respond.
 // 60662	This could be a trap but the Kapella is clearly damaged.  Engage the pursuing fleet and draw it away from the defecting ship.
@@ -27,7 +27,7 @@ rangestart 60653 60839
 // 60664	Taiidan Empire
 60664	タイダーン帝国
 // 60665	Taiidan Rebels
-60665	Taiidan Rebels
+60665	タイダーンの亡命者
 // 60753	We are under attack by Taiidan forces.
 60753	我々はタイダーン軍の攻撃を受けています。
 // 60754	We are under attack by Kushan forces.
@@ -37,7 +37,7 @@ rangestart 60653 60839
 // 60838	Taiidan forces are concentrating their fire on our immobilized strikecraft.  Use Frigates and Capital ships to protect our strikecraft from attack.
 60838	タイダーン軍は、動けないストライククラフトに攻撃を集中しています。 フリゲート艦とキャピタルシップを使って、攻撃からストライククラフトを守ってください。
 // 60839	Captain Elson of the Destroyer Kapella claims to want to defect from the Taiidan Empire.  His ship is badly damaged.  Protect the Kapella until we can bring Elson aboard the Mothership.
-60839	駆逐艦カペラのエリソン艦長は、タイダーン帝国から亡命したいと主張しています。 彼の船はひどく損傷しています。 エリソン艦長をマザーシップに乗船させることができるまでカペラを守ってください。
+60839	駆逐艦カペラのエルソン艦長は、タイダーン帝国から亡命したいと主張しています。 彼の船はひどく損傷しています。 エルソン艦長をマザーシップに乗船させることができるまでカペラを守ってください。
 // 60666	Defector
 60666	亡命者
 
