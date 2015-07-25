@@ -2,9 +2,13 @@ filerange 65715 65718
 rangestart 65715 65718
 
 // Subtitles
+// 65715	What's happening?
 65715	What's happening?
-65716	Karan.
-65717	You've taken one step too close to me.
+// 65716	Karan.
+65716	カラン。
+// 65717	You've taken one step too close to me.
+65717	お前はあまりにも私に近づき過ぎたのだ。
+// 65718	From here I can touch you.
 65718	From here I can touch you.
 
 rangeend

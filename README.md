@@ -143,6 +143,7 @@ http://ejje.weblio.jp/
 ### 着手
 * events.dat
 * fontmap.lua
+* hw1buildresearch.dat 作業中
 
 
 ### 未着手（未確認）
@@ -150,7 +151,6 @@ http://ejje.weblio.jp/
 * buildresearch.dat
 * delete.dat
 * engine.dat
-* hw1buildresearch.dat
 * hw1ships.dat
 * leveldesc.dat
 * leveldeschw2.dat
@@ -182,10 +182,10 @@ http://ejje.weblio.jp/
 * ミッション 10 完了
 * ミッション 11 完了
 * ミッション 12 完了
-* ミッション 13 作業中
+* ミッション 13 完了
 * ミッション 14 作業中
 * ミッション 15 作業中
-* ミッション 16
+* ミッション 16 作業中
 * エクストラミッション Raider Retreat
 
 

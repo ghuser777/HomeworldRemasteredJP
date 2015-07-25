@@ -9,7 +9,7 @@ rangestart 60673 60840
 // 60676	Attention.  We have lost contact with one of our capital ships.  Its last recorded position is here.
 60676	注意して下さい。 我々はキャピタルシップ一隻との交信を失いました。 最後の記録地点はここです。
 // 60677	Hyperspace signatures have been found at these locations but we detect no new ships.
-60677	ハイパースペースサインがこれらの場所に見つかりましたが、我々は新たな船を発見できません。
+60677	ハイパースペースサインがこれらの場所で検出されましたが、新たな船は発見できません。
 // 60678	We've located one of the missing ships.  It appears that it can be salvaged and reactivated.
 60678	We've located one of the missing ships.  It appears that it can be salvaged and reactivated.
 // 60679	The Graveyard is defended by autoguns.  They will complicate our attempt to reach the communications array.

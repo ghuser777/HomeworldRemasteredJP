@@ -39,7 +39,7 @@ rangestart 50500 50702
 // 50518	Select the Bombers option from the Fighter section of the Build Menu.
 50518	Select the Bombers option from the Fighter section of the Build Menu.
 // 50519	Order your Fighter squadrons to attack the disarmed Drone frigate.
-50519	武装解除ドローンのフリゲート艦を攻撃するために、ファイター隊に攻撃を指示してください。
+50519	武装解除ドローンのフリゲートを攻撃するために、ファイター隊に攻撃を指示してください。
 // 50523	The Build Manager can be opened by clicking on the flashing BUILD icon on the taskbar. The default BUILD key is B.
 50523	タスクバー上で点滅している建造(BUILD)ボタンをクリックしてビルドマネージャー(BuildManager)を開くことができます。標準のビルドキーは[B]です。
 // 50524	While holding down CTRL, DRAG a BANDBOX around both targets to initiate an attack.

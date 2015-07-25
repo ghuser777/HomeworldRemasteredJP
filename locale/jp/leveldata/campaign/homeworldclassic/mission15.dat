@@ -39,6 +39,6 @@ rangestart 60700 60843
 // 60843	A very large object is on a collision course with the Mothership and closing quickly.  Destroy the object before it is able to impact the Mothership.
 60843	非常に大きな物体がマザーシップへの衝突コースにあり、速い速度で近づいてきます。 マザーシップに衝突してしまう前に物体を破壊してください。
 // 60700	Massive Asteroid
-60700	巨大なアステロイド
+60700	巨大な小惑星
 
 rangeend

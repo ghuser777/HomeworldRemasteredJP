@@ -2,11 +2,17 @@ filerange 61800 61814
 rangestart 61800 61814
 
 // Subtitles
-61800	HIIGARA
-61801	We've lost Karan.  Fleet Command is gone.  Emergency biotech teams are working to keep her alive.
-61808	Here is the Emperor's flagship.  It must be destroyed.
-61811	Eradicate Enemy Forces
-61812	Destroy Emperor's Flagship
+// 61800	HIIGARA
+61800	ƒƒqƒK[ƒ‰(HIIGARA)„
+// 61801	We've lost Karan.  Fleet Command is gone.  Emergency biotech teams are working to keep her alive.
+61801	‰äX‚ÍƒJƒ‰ƒ“‚ğ¸‚¢‚Ü‚µ‚½B ŠÍ‘ài—ßŠ¯‚ª‚¢‚Ü‚¹‚ñB ‹Ù‹}‚Ì¶‘ÌHŠw”Ç‚ª”Ş—‚ğ¶‚©‚µ‘±‚¯‚é‚æ‚¤s—Í‚µ‚Ä‚¢‚Ü‚·B
+// 61808	Here is the Emperor's flagship.  It must be destroyed.
+61808	‚±‚±‚Éc’é‚ÌŠøŠÍ‚ª‚¢‚Ü‚·B ‚»‚ê‚Í”j‰ó‚³‚ê‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB
+// 61811	Eradicate Enemy Forces
+61811	“GŒR‚ğŸr–Å‚·‚é
+// 61812	Destroy Emperor's Flagship
+61812	c’é‚ÌŠøŠÍ‚ğ”j‰ó‚·‚é
+// 61814	16 - Hiigara
 61814	16 - Hiigara
 
 rangeend

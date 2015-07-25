@@ -9,7 +9,7 @@ rangestart 51000 52071
 // 51002	Assign Bombers to group 2
 51002	グループ2にボマー隊を割り当てる
 // 51003	Destroy Vaygr Frigate
-51003	ヴェイガー(Vaygr)のフリゲート艦を破壊
+51003	ヴェイガー(Vaygr)のフリゲートを破壊
 // 51004	Move to Ping
 51004	Move to Ping
 // 51007	Bring up the Sensors Manager
@@ -19,9 +19,9 @@ rangestart 51000 52071
 // 51009	Click the flashing SPECIAL ACTIONS icon in the taskbar
 51009	SPアクションアイコンをクリックする
 // 51017	De-Cloak the Carrier
-51017	キャリアーを隠蔽解除する
+51017	キャリアーを遮蔽解除する
 // 51018	Capture the Enemy Frigate
-51018	敵のフリゲート艦を捕獲(Capture)する
+51018	敵のフリゲートを捕獲(Capture)する
 // 51023	Select the indicated ships
 51023	指定された船を選択する
 // 51024	Assign the ships to a strikegroup
@@ -35,13 +35,13 @@ rangestart 51000 52071
 // 51012	Assign the Bombers to Control Group 2 by selecting the ships and pressing CTRL+2.
 51012	船を選択してから[CTRL]+[2]を押して、グループ2にボマー(Bomber)隊を割り当ててください。
 // 51013	Select available Fighters and issue an attack order on the unarmed  Vaygr Frigate.
-51013	利用可能な戦闘機隊を選択し、武装解除したヴェイガー(Vaygr)のフリゲート艦に攻撃命令を出してください。
+51013	利用可能な戦闘機隊を選択し、武装解除したヴェイガー(Vaygr)のフリゲートに攻撃命令を出してください。
 // 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 51014	From within the Sensors Manager, select one of your ships and issue a move command by activating the movement disc. To adjust the height of the destination point, you can press and hold SHIFT while moving the mouse.
 // 51015	Cloak the Carrier by clicking on the flashing Cloak button on the Taskbar, or by SHIFT-RIGHT-CLICKING on the Carrier and choosing the Cloak special ability.
-51015	タスクバーの点滅する隠蔽(CLOAK)ボタンをクリックするか、キャリアー(Carrier)上で[SHIFT]+右クリックして「隠蔽(Cloak)」スペシャルアビリティを選択し、キャリアー(Carrier)を隠蔽(Cloak)してください。
+51015	タスクバーの点滅する遮蔽(CLOAK)ボタンをクリックするか、キャリアー(Carrier)上で[SHIFT]+右クリックして「遮蔽(Cloak)」スペシャルアビリティを選択し、キャリアー(Carrier)を遮蔽(Cloak)してください。
 // 51019	Select the Marine frigate provided, and CAPTURE the enemy frigate by RIGHT-CLICKING on it
-51019	用意されたマリンフリゲート(MarineFrigate)を選択し、敵のフリゲート艦を右クリックして捕獲(Capture)してください。
+51019	用意されたマリンフリゲート(MarineFrigate)を選択し、敵のフリゲートを右クリックして捕獲(Capture)してください。
 // 51022	If you wish to exit the tutorial, press F10 to bring up the in-game menu.
 51022	チュートリアルを終了したい場合は、[F10]キーを押してゲーム内のメニューを表示します。　　
 // 51025	Using drag-selecting or the SHIFT key, select all the indicated ships.
@@ -49,7 +49,7 @@ rangestart 51000 52071
 // 51026	Assign the ships you have selected in the previous step to a strikegroup. Strikegroup formation hotkeys are by default F5-F7. You may also use the strikegroup rollout located on the taskbar.
 51026	前のステップで選択した船をストライクグループ(Strikegroups)に割り当てます。ストライクグループフォーメーション用ホットキーは標準で[F5]-[F7]です。また、タスクバー上にあるストライクグループ用アイコンを使用してもよいです。
 // 51005	Enemy Frigate
-51005	敵フリゲート艦
+51005	敵フリゲート
 // 51006	Bring a ship here
 51006	Bring a ship here
 // 51020	ADVANCED COMMANDS
@@ -73,7 +73,7 @@ rangestart 51000 52071
 // 51054	Now assign the newly arrived Bombers to Group 2.
 51054	グループ2に、新たに到着したボマー(Bomber)隊を割り当ててください。
 // 51060	Excellent.  Now order Group 2 to attack the Enemy Frigate that has just hyperspaced in.
-51060	エクセレント！ たった今ハイパースペース(Hyperspace)してきた敵のフリゲート艦に攻撃するよう、グループ2に命令してください。
+51060	エクセレント！ たった今ハイパースペース(Hyperspace)してきた敵のフリゲートに攻撃するよう、グループ2に命令してください。
 // 51070	Well done.
 51070	よくできましたね。
 // 51090	The next lesson covers Special Actions.
@@ -87,23 +87,23 @@ rangestart 51000 52071
 // 51101	Now click on the Special Actions Tab in the Taskbar.
 51101	タスクバーのスペシャルアクションタブをクリックします。
 // 51102	This tab displays all Special Actions. Currently only the CLOAK ABILITY ICON is active.
-51102	このタブには、全てのスペシャルアクションが表示されます。現時点では、隠蔽(CLOAK)アビリティアイコンが有効になっています。
+51102	このタブには、全てのスペシャルアクションが表示されます。現時点では、遮蔽(CLOAK)アビリティアイコンが有効になっています。
 // 51103	Press the CLOAK ICON to activate the carrier's Cloak Generator.
-51103	キャリアー(Carrier)のクロークジェネレーター(CloakGenerator)を作動させるために、隠蔽(CLOAK)アイコンを押してください。
+51103	キャリアー(Carrier)のクロークジェネレーター(CloakGenerator)を作動させるために、遮蔽(CLOAK)アイコンを押してください。
 // 51110	Special Actions are also activated via the SHIFT MENU.
 51110	スペシャルアクションは、[SHIFT]メニューからも利用できます。
 // 51111	To access the SHIFT MENU, HOLD DOWN SHIFT, and RIGHT-CLICK on a ship or empty space.
 51111	[SHIFT]メニューにアクセスするには、[SHIFT]キーを押しながら、船または何もない領域を右クリックします。
 // 51112	Using either the Special Actions commands icons menu on the taskbar, or the SHIFT MENU, order the Carrier to de-cloak.
-51112	タスクバーのアイコンメニューか、または[SHIFT]メニューからスペシャルアクションを実行して、キャリアー(Carrier)に隠蔽解除を命じてください。
+51112	タスクバーのアイコンメニューか、または[SHIFT]メニューからスペシャルアクションを実行して、キャリアー(Carrier)に遮蔽解除を命じてください。
 // 51120	Unlike Cloak, some Special Actions require a target.
-51120	隠蔽(CLOAK)とは違い、いくつかのスペシャルアクションはターゲットを必要とします。
+51120	遮蔽(CLOAK)とは違い、いくつかのスペシャルアクションはターゲットを必要とします。
 // 51121	This Marine Frigate is one such example.
 51121	このマリンフリゲート(MarineFrigate)はその一例です。
 // 51122	Marine Frigates are used to capture enemy ships.
 51122	マリンフリゲート(MarineFrigate)は、敵艦を捕獲(Capture)するために使用します。
 // 51162	To capture an enemy ship, select the Marine Frigate and RIGHT-CLICK on the enemy Frigate.
-51162	敵艦を捕獲(Capture)するには、マリンフリゲートを選択し、敵のフリゲート艦を右クリックします。
+51162	敵艦を捕獲(Capture)するには、マリンフリゲートを選択し、敵のフリゲートを右クリックします。
 // 51163	You can also use the CAPTURE ICON or the Shift Menu.
 51163	また、[CAPTURE]アイコン、または[SHIFT]メニューを使用することもできます。
 // 51130	Well done.

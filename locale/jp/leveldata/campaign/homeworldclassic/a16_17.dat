@@ -2,16 +2,27 @@ filerange 65796 65806
 rangestart 65796 65806
 
 // Subtitles
-65796	The Galactic Council recognized our claim to this world.
-65797	The sacrifice of thousands has left a trail of destruction behind us, like a path across the galaxy ...
-65798	 ... to Hiigara, our Homeworld.
-65799	So much destruction, so many lives lost, for this place.
-65800	A place of wonder to those who knew only the sands of Kharak.
-65801	Our colonists were released from their long sleep.
-65802	All symbols of the old empire were destroyed.
-65803	But the conflict will never be forgotten.
-65804	A celebration marked the beginning of a new time.
-65805	No longer Fleet Command, Karan S'jet survived extraction from the Mothership's core.
-65806	She insisted that she would be the last person to disembark and set foot on the Homeworld.
+// 65796	The Galactic Council recognized our claim to this world.
+65796	銀河評議会は、我々のこの世界への要求を承認した。
+// 65797	The sacrifice of thousands has left a trail of destruction behind us, like a path across the galaxy ...
+65797	幾千もの犠牲者達が、我々の後ろに、銀河を横切る道の如き破壊の痕跡として残された……。
+// 65798	 ... to Hiigara, our Homeworld.
+65798	……我々の故郷、ヒガーラに至るまで。
+// 65799	So much destruction, so many lives lost, for this place.
+65799	この場所のために、それだけのものが破壊され、それだけの命が失われた。
+// 65800	A place of wonder to those who knew only the sands of Kharak.
+65800	カァラークの砂漠だけしか知らなかった者達にとって驚異の場所。
+// 65801	Our colonists were released from their long sleep.
+65801	我々の入植者達は長い眠りから解放された。
+// 65802	All symbols of the old empire were destroyed.
+65802	終焉を迎えた帝国の全ての象徴が破壊された。
+// 65803	But the conflict will never be forgotten.
+65803	しかし、この戦争を決して忘れることはないだろう。
+// 65804	A celebration marked the beginning of a new time.
+65804	祝典が新しい時代の始まりとなった。
+// 65805	No longer Fleet Command, Karan S'jet survived extraction from the Mothership's core.
+65805	カラン・スジェットはマザーシップ中枢からの摘出に耐え、もはや艦隊司令官ではなくなった。
+// 65806	She insisted that she would be the last person to disembark and set foot on the Homeworld.
+65806	彼女は下船する最後の人であることを主張し、故郷に足を踏み入れた。
 
 rangeend
