@@ -5,10 +5,19 @@ Homeworld Remasteredの日本語化作業
 
 
 ## 日本語化の仕方
+
+コマンドライン作業の知識などが必要なので、ちょっとめんどうで時間がかかります。  
+
+とりあえず日本語表示を試すだけなら、有志の方が7月25日時点のbigファイルを作成してくれたので、そちらを利用すると簡単に確認できます。
+
+・【宇宙】 Homeworld 総合スレ 【戦略】 Stage 10 [転載禁止]©2ch.net
+http://anago.2ch.net/test/read.cgi/game/1425371135/187。
+
+
+### 日本語フォントをダウンロードする。
+
 「HomeWorld 攻略Wiki」からRemastered用の日本語フォントをダウンロードする。
 http://homeworld.wiki.fc2.com/wiki/MOD
-
-日本語化の仕方は上記日本語フォントのreame.txtに書いてありますが、一部誤字脱字・漏れなどがあるので、あらためて以下に書きます。
 
 
 ### 暗号化されたBigファイルを復号するプログラムを入手する。
@@ -141,12 +150,14 @@ http://ejje.weblio.jp/
 
 
 ### 着手
+
 * events.dat
 * fontmap.lua
 * hw1buildresearch.dat 作業中
 
 
 ### 未着手（未確認）
+
 * ati.dat
 * buildresearch.dat
 * delete.dat
@@ -162,6 +173,7 @@ http://ejje.weblio.jp/
 
 
 ## Homeworld Remastered チュートリアル
+
 * チュートリアル 01 完了
 * チュートリアル 02 完了
 * チュートリアル 03 完了
@@ -170,6 +182,7 @@ http://ejje.weblio.jp/
 
 
 ## Homeworld 1 Remastered
+
 * ミッション 01 完了
 * ミッション 02 完了
 * ミッション 03 完了
@@ -192,6 +205,7 @@ http://ejje.weblio.jp/
 
 
 ## Homeworld 2 Remastered
+
 * ミッション 01
 * ミッション 02
 * ミッション 03
@@ -218,6 +232,7 @@ http://ejje.weblio.jp/
 
 
 ## おおまかな用語の統一
+
 * おおまかな用語統一案。ただし文脈により適切な言い回しがあれば変更可。
 * 艦船名・地名・人名など固有名詞は「サルベージコルベット」「クライオトレイ」などとカタカナで表記する。
 * 初めて出現する固有名詞や用語は「クライオトレイ(CryoTray)」のように括弧書きで英単語も併記する。その際に、英文字列の空白は削除する（Cryo Tray→CryoTray）。ワードラップにより空白以降が強制改行されてしまうため。
@@ -236,6 +251,7 @@ http://ejje.weblio.jp/
 
 
 ### 用語
+
 * Asteroid	アステロイド、アステロイド群
 * Asteroid fields	アステロイド地帯
 * Build	建造（艦船）、建設（施設）
@@ -269,6 +285,7 @@ http://ejje.weblio.jp/
 
 
 ### 固有名詞
+
 なるべく元の発音に近いようにカタカナ化しています。 元ネタについては調査が甘く間違っている可能性もあります。 
 * Bentusi	ベントゥージ
 * BRIDGE OF SIGHS	ため息橋  
@@ -306,6 +323,7 @@ http://ejje.weblio.jp/
 
 
 ### 艦船・施設
+
 * Bomber	ボマー	※直訳:爆撃機
 * Capital Ship	キャピタルシップ	※直訳:主力艦
 * Carrier	キャリアー	※直訳:空母
